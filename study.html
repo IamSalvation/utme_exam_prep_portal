@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Mode — Exam Prep Portal</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2>Study Mode</h2>
+        <div class="progress-bar">
+            <div id="progress"></div>
+        </div>
+        <div id="study-area"></div>
+
+        <div style="margin-top: 20px;">
+            <button class="btn secondary" id="prevBtn" onclick="prevQuestion()">Previous</button>
+            <button class="btn" id="nextBtn" onclick="nextQuestion()">Next</button>
+            <a href="index.html" class="btn secondary" style="float: right;">Home</a>
+        </div>
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/study.js"></script>
+</body>
+
+</html>

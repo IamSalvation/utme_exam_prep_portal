@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Exam — Exam Prep Portal</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <section id="start-screen">
+            <h2>Mock Exam</h2>
+            <p>You will have <strong id="duration-label"></strong> to complete
+                <strong id="total-questions"></strong> questions.
+            </p>
+            <p class="text-muted">Answers are hidden until submission. Good luck.</p>
+            <br>
+            <button class="btn success" onclick="startExam()">Start Exam</button>
+            <a href="index.html" class="btn secondary">Home</a>
+        </section>
+
+        <section id="exam-screen" style="display:none;">
+            <div class="timer">Timer: <span id="timer">10:00</span></div>
+            <div class="progress-bar">
+                <div id="progress"></div>
+            </div>
+            <div id="question-container"></div>
+            <div style="margin-top: 20px;">
+                <button class="btn secondary" onclick="prevQuestion()">Prev</button>
+                <button class="btn" onclick="nextQuestion()">Next</button>
+                <button class="btn danger" style="float:right;" onclick="submitExam()">Submit Exam</button>
+            </div>
+        </section>
+
+        <section id="result-screen" style="display:none;">
+            <div class="score-box" id="score-display"></div>
+            <div id="review-container"></div>
+            <a href="exam.html" class="btn">Retake Exam</a>
+            <a href="index.html" class="btn secondary">Home</a>
+        </section>
+
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/exam.js"></script>
+</body>
+
+</html>

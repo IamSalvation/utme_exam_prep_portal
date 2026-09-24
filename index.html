@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Prep Portal</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Exam Prep Portal</h1>
+        <p class="text-muted">Study at your own pace, or simulate the real thing.</p>
+        <br>
+        <a href="study.html" class="btn">Study Mode</a>
+        <a href="exam.html" class="btn success">Mock Exam</a>
+
+        <hr>
+        <p class="text-muted">
+            Works entirely offline. Save this folder and open <code>index.html</code> anytime.
+        </p>
+        <p class="text-muted" id="bank-info"></p>
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script>
+        document.getElementById("bank-info").textContent =
+            "Question bank loaded: " + questionBank.length + " questions.";
+    </script>
+</body>
+
+</html>
