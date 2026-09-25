@@ -1,0 +1,434 @@
+﻿Physics2003
+1.
+The figure above shows two velocities v1
+and v2
+.
+Which of the following diagrams correctly
+represents the vector difference w = v1
+â€“ v2
+?
+2. Ifan objectjustbeginstoslideona surfaceinclined
+at 300
+tothehorizontal, the coefficientoffrictionis
+A. 1
+3
+B. 1
+3
+C. 3
+D. 3
+3
+3. Asatellite isin a parking orbit ifits period is
+A. More than the period of theearth
+B. Equal to the period ofthe earth
+C. The square of the period of theearth
+D. Less than the period of the earth
+4. What does not drop through an open umbrella of
+silk material unless the inside of the umbrella is
+touched
+A. Osmotic pressure
+B. Capillarity
+C. Surface tension
+D. Viscosity
+5. A bead traveling on a straight wire is brought to
+rest at 0.2m by friction. If the mass of the bead is
+0.01kg and the coefficient of friction betweenthe
+bead and the wire is 0.1, determine the work done
+by the friction
+A. 2 x10-3
+J B. 2x102
+J
+C. 2 x10-4
+J D. 2x101
+J
+[g=10ms-2
+]
+6. The stylus of a phonograph record exerts a force
+of77. x10-2
+N ona grooveofradius10-5
+m. Compute
+the pressure exerted by the stylus on the groove.
+A. 2.42x109
+Nm-2
+B. 4.90x108
+Nm-2
+C. 2.45x108
+Nm-2
+D. 3.45x108
+Nm-2
+7. A piece of stone attached to one end of a string is
+whirled round in a horizontal circle and the string
+suddenlycuts. The stonewill flyoffin a direction.
+A. Tangential tothe circular path
+B. Perpendicular tothe circular path
+C. Towards the centre of thecircle
+D. Paralleltothe circular path.
+8.
+The length ofa piece ofglass block was measured
+ofa vernier caliper as shown above. The length of
+the glass block is
+A. 1.65cm B. 1.64cm
+C. 1.66cm D. 1.63cm
+9. Atest tube ofradius 1.0cmis loadedto8.8g. If it is
+placed upright in water, find the depth to which it
+would sink.
+A. 25.2cm B. 2.8cm
+C. 28.0cm D. 5.2cm
+[g = 10ms-2
+density of water 1 000kgm-3
+].
+10. A90cmuniform lever hasa load of30Nsuspended
+at 15cmfromoneofitsends. Ifthe fulcrumis at the
+centre ofgravity, the force that must be applied at
+itsother end tokeepit in horizontal equilibrium is
+A. 20N B. 30N
+C. 60N D. 15N745
+23.
+T0
+C 0 5 10 15 20 40 60
+S.V.P(mmHg) 4.58 6.51 8.94 12.67 17.50 55.10 149.00
+11. On top of a spiral spring of force constant
+500 Nm-1
+isplaceda massof5 x10-3
+kg. Ifthespring
+is compressed downwards by a length of 0.02m
+and then released, calculate the height to which
+the mass is projected
+A. 2m B. 8m
+C. 1m D. 4m
+12. A hose of cross-sectional area 0.5m2
+is used to
+discharge water from a water thank at a velocityof
+60ms-1
+in 20s into a container. If the container is
+filled completely, the volumeofthe container is
+19. A 2 000W electric heater is used to heat a metal
+objectofmass5kginitiallyat100
+C. Ifa temperature
+rise of 300
+C is obtained after 10 min, the heat
+capacityofthe material is
+A. 1.2 x104
+J0
+C-1
+B. 6.0 x104
+J0
+C-1
+C. 8.0 x103
+J0
+C-1
+D. 4.0 x104
+J0
+C-1
+20. By what factor will the size of an object placed
+10cm froma convexlens beincreased iftheimage
+is seen on a screen placed 25cm from thelens?
+A. 600 m3
+B. 6 000 m3
+A. 2.5 B. 1.5
+C. 240 m3
+D. 2 400 m3
+C. 0.4 D. 15.0
+13. A force of 100N is used to kick a football ofmass
+0.8kg. Find the velocitywith which the ball moves
+ifit takes 0.8sto bekicked.
+A. 100ms-1
+B. 32ms-1
+C. 50ms-1
+C. 64ms-1
+14. The phenomenon whereby the water droplets in
+the atmosphere combine with dust particles in the
+air to reduce visibilityis
+A. Fog B. Hail
+C. Mist D. Cloud
+15. GiventhatYoungâ€™smodulusfor aluminium is
+7.0 x 1010
+Nm-2
+and density is 2.7 x 103
+kgm-3
+.
+Find the speed of the sound produced if a solid
+bar is struck at one end with a hammer?
+A. 3.6x 103
+ms-1
+B. 5.1 x103
+ms-1
+C. 2.8x 103
+ms-1
+D. 4.2 x103
+ms-1
+16. Thermal equilibrium between two objects exists
+when
+A. The heat capacities of both objects are the
+same
+B. One objects loses heat continuously to the
+other
+C. The temperatures of both objects are equal
+D. The quantity of heat in both objects is the
+same.
+17. If the distance from a point source of sound is
+doubled, by what factor does the density
+decrease?
+A. 2.00 B. 0.25
+C. 4.00 D. 0.50
+18. If an object is placed between two parallel plane
+mirrors with their reflecting surfaces facing each
+other, how many images of the object will be
+formed?
+A. Four B. Two
+C. Eight D. infinite
+21. On a fairly cool rainydaywhen the temperature is
+200
+C, the length of a steel railroad track is 20m.
+What will be its length on a hot dry day when the
+temperature is400
+C?
+A. 20.009m B. 20.002m
+C. 20.013m D. 20.004m
+22. If 1.2 x 106
+J of heat energy is given off in 1 sec.
+Froma vesselmaintainedatatemperaturegradient
+of 30km-1
+, the surface area of the vesselis
+A. 1.0x103
+m2
+B. 1.0x102
+m2
+C. 9.0x104
+m2
+D. 9.0x102
+m2
+[Thermal conductivity of the vessel = 400Wm-1
+K-1
+]
+The table above shows the saturation vaour
+pressure against temperature in a certain town. If
+thevapourpressurein thistownat200
+Cis10mmHg,
+what isthe relativehumidity?
+A. 57.0% B. 17.5%
+C. 10.0% D. 170.0%
+24. At what position will an object be placed in front
+ofa concave mirror in order toobtain an image at
+infinity?
+A. At centre of curvature
+B. Between the principal focus and the
+centre ofcurvature
+C. At thepole ofthe mirror
+D. At the principal focus
+25. An open pipe closed at one end produces its first
+fundamental note. If the velocityofsound in air is
+v and l the length ofthe pipe, the frequencyof the
+note is
+A. v/2l B. 2v/l
+C. v/5l D. v/4l746
+26. Atuning fork offrequency340Hz is vibrating just
+abovea cylindrical tube ofheight 1.2m. Ifwater is
+slowly poured into the tube, At what maximum
+height will resonanceoccur?
+A. 0.45m B. 0.95m
+C. 0.60m D. 0.50m
+[Speed of sound in air = 340ms-1
+]
+27. A wireof5ohmsresistance isdrawn outso thatits
+new length is two times the original length. If the
+resistivity of the wire remains the same and the
+cross-sectional area is halved, the new resistance
+is
+A. 20Ohms
+B. 5Ohms
+C. 40Ohms
+D. 10Ohms
+28. Arayincident onaglassprismundergoesminimum
+deviation when the
+A. Refraction angle equals900
+B. Incident angle is equal to the angle of
+refraction
+C. Incident angle is equal to the angle of
+emergence
+D. Incident angle equals900
+31. Which of the following pairs of light rays shows
+thewidestseparationin thespectrumofwhitelight?
+A. Green and yellow
+B. Indigo and violet
+C. Orange andred
+D. Blue andred
+32.
+In the diagram above, what would happen to the
+current, I, if another resistor, R2
+, is connected in
+parallel to R1
+?
+A. It willdecrease ifR2
+isgreater than R1
+.
+B. It will increase because the equivalent
+resistance will increase.
+C. It will decrease if R is less thanR
+s 1
+29.
+In the diagram above, if each of the resistors can
+dissipate a maximum of 18W without becoming
+excessively heated, what is the maximum power
+the circuit can dissipate?
+A. 9 W B. 27W
+C. 5 W D. 18W
+30. I. Itretainsits magnetism much
+longer than steel
+II it is moreeasilymagnetized tah steel
+III It is more easilydemagnetized than steel
+IV It produces a stronger magnet thansteel.
+Which combination of the above makes iron
+preferabletosteelin themakingofelectromagnets?
+A. II,IIIand IVonly
+B. I, IIIand Ivonly
+C. I and IIonly
+D. II and IIIonly
+D. It will increase because the effective resistance
+will decreases.
+33. Arayoflight isincidenton an equilateraltriangular
+glass prism of refractive index 3/2. Calculate the
+angle through which therayis minimallydeviated
+in theprism.
+A. 37.20
+B. 48.60
+C. 30.00
+D. 42.00
+34. The most suitable cell used for short interval
+switches in electric bells isa
+A. Nickel ironaccumulator
+B. Lead-acidaccumulator
+C. Danielcell
+D. Leclanchecell
+35. An electron of charge 1.6 x 10-19
+C is accelerated
+between two metal plates. If the kinetic energy of
+the electron is 4.8 x 10-17
+J, the potentialdifference
+between the plates is
+A. 300V B. 30V
+C.400V D. 40V
+36. Amagneticfield issaidtoexist at apointifa force
+is
+A. Deflection at thepoint
+B. Strengthened at the point
+C. Exerted on a moving charge at thepoint
+D. Exerted on a stationary charged at the
+point747
+37. The operation of an optical fibre is based on the
+principalof
+A. Polarization oflight
+B. Refraction oflight
+C. Interference oflight
+D. Dispersion oflight
+38. A positively charged rod X is brought near an
+uncharged metal sphere Y and is then touched by
+a finger with X still in place. When the finger is
+removed, the result is that Y has
+A. A negative charge and a positive potential
+B. Nochargeand zeropotential
+C. A negative charge and a negative potential
+D. Apositive charge and a zero potential
+39. In a semiconductorjunction diode,as thedepletion
+or barrier layer is forward-based, thelayer
+A. Narrows B. Remains constant
+C. Widens then narrows D. Widen.
+40. When a nucleus is formed by bringing protons
+and neutrons together, the actual mass of the
+formed nucleus is less than the sum of the masses
+of the constituent protons and neutrons. The
+energy equivalent of this mass difference is the
+A. Stability B. Lost energy
+C. Workfunction D Bindingenergy
+41. Anelectronmakesa transitionfroma certainenergy
+level Ek
+to the ground sate E0
+. If the frequency of
+emission is8.0 x1014
+Hz,theenergyemitted is
+A. 5.28x1019
+J
+B. 8.25x1019
+J
+C. 5.28 x10-19
+J
+D. 8.25 x10-19
+J
+42. In a fission process, thedecreasein massis0.01%.
+How much energy could be obtained from the
+fission of 1.0g of the materials?
+A. 9.0 x1010
+J B. 6.3x1011
+J
+C. 9.0 x1011
+J D. 9.0x109
+J
+[c = 3.0 x 108
+ms-1
+]
+43. A circuit has an area of 0.4m2
+and consists of 50
+loops ofwire. Ifthe loops are twisted and allowed
+to rotate at a constant angular velocity of 10 rads-
+1
+in a uniform magneticfieldof0.4T,theamplitude
+of the induced voltage is
+A. 80V B. 20V
+C. 8V D 16V
+44. When an alternating current given by 1 = 10sin
+(120w) passes through a 12 ohms resistor, the
+power dissipated in the resistor is
+45. The major difference between a pure
+semiconductor and a puremetal isthat
+A. The resistance of a metals increases with
+temperature, while for semiconductors, it is
+the reverse
+B. Metals are harder thansemiconductors
+C. Metals have forbidden gaps while
+semiconductors have not
+D. While the resistance of metals decrease with
+temperature, the reverse is the case for
+semiconductors.
+46. If the uncertainty in the measurement of the
+position of a particle is 5 x 10-10
+m, the uncertainty
+in the momentum ofthe particleis
+A. 3.30x10-44
+Ns
+B. 3.30x10-24
+Ns
+C. 1.32x10-44
+Ns
+D. 1.32x10-24
+Ns
+[h = 6.6 x 10-34
+Js]
+47. In the calibration of an ammeter using Faradayâ€™s
+laws of electrolysis, the ammeter reading is kept
+constant at 1.20A. If0.990g ofcopper is deposited
+in 40 minutes, the correction to be applied to the
+ammeteris
+A. 0.05A B. 0.06A
+C. 0.03A D. 0.04A
+[c.c.c. of copper = 3.3 x 10-4
+gC-1
+]
+48. The maximum kinetic energyofthephotoelectrons
+emittedfroma metal surface is 0.34cV.Ifthe work
+function of the metal surface is 1.83cV, find the
+stopping potential
+A. 1.09V B. 2.17V
+C. 0.34V D. 1.49V
+49. The force on a charge moving with velocityv in a
+magneticfieldB is halfofthe maximumforcewhen
+the angle between v and Bis
+A. 00
+B. 900
+C. 450
+D. 300
+50. The count rate of a radioactive material is 800
+count/min. Ifthe half-life ofthe material is 4 days,
+what would the count rate be 16 dayslater?
+A. 50 count/min B. 25/count/min
+B. 200 count/min D. 100count/min.
+A. 120W B. 20W
+C. 600W D. 1200W748

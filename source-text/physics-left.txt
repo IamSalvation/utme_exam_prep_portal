@@ -1,0 +1,5017 @@
+ Phys
+1983-
+LASU-
+  JAM
+ Quest
+                                                Physic
+1.    In a resonance tube experiment, a tube of fixed
+      length in closed at one end and several turning
+      forks of increasing frequency used to obtain
+      resonance at the open end. If the turning fork with
+      the lowest frequency which gave resonance had a
+      frequency ƒ1 and the next turning fork to give
+      resonance had a frequency ƒ2, find the ratio ƒ2/ ƒ1.
+      A.       8         B.      3
+      C.       2         D.      ½
+      E.       1/3
+
+2.    Which of the following is NOT a vector quantity
+      A. Force                  B. Altitude
+      C. Weight                 D. Displacement
+      E. Acceleration.
+
+3.
+                                       P1
+
+     P3               O      O3
+
+                               O2
+
+                                      P2
+
+                        Fig. 1
+      Consider the three forces acting at O and in
+      equilibrium as shown in Fig. 1. Which of the
+      following equation is/are CORRECT?
+      I.       P1 cos 01 = P1 cos O2
+      II.      P3 = P1 cos O1 + P2 cos O2
+      III.     P1 sin O1 = P2 sin O2
+
+      A. I only          B. II only        C. III only
+      D. II and III only E. I and III only
+
+      Which of the following statements about friction
+      it NOT correct?
+      A.      The force of kinetic friction is less than
+              the force of static friction.
+      B.      The force of kinetic friction between two
+              surfaces is independent of the areas in
+              contact provided the normal reaction is
+              unchanged.
+      C.      The force of rolling friction between two
+              surfaces is less than the force of sliding
+              friction.
+      D.      The angle of friction is the angle between
+              the normal reaction and the force friction.
+      E.      Friction may be reduced by lubrication.
+
+
+
+
+                                                            656
+               container acts in a direction
+               perpendicular to the wall.
+      E.       At a particular depth depends on the
+               shape of the vessel.
+
+10.   A ship traveling towards a cliff receives the echo
+      of its whistle after 3.5 seconds. A short while later,
+      it receives the echo after 2.5 seconds. If the speed
+      of sound in air under the prevailing conditions is
+      250m s-1, how much closer is the ship to the cliff?
+      A.           10 m B.          125 m
+      C.         175 m D.           350 m
+      E.       1,000 m
+
+11.   Which of the following is NOT correct?
+      I.      The pitch of a sound note depends on
+              the frequency of vibrations.
+      II.     The intensity of a sound note is
+              proportional to the amplitude of
+              vibrations.
+      III.    Beats are produces by two sources of
+              sound because one wave is travelling
+              faster than the other.
+      IV.     When two sources of sound of
+              frequencies 500 Hz and 502 Hz are
+              sounded together, a neat frequency of 2
+              Hz is observed.
+      V.      The first harmonic of a note has double
+              the frequency of the fundamental note.
+      A.      I and II           B.      II and III
+      C.      I and II           D.      III and IV
+      E.      IV and V.
+
+12.   Which of the following statements about defects
+      of vision is/ are CORRECT
+      I.        For a long sighted person, close objects
+                appear blurred.
+      II.       For a sort sighted person, distant objects
+                appear blurred.
+      III.      Short sight is corrected by using a pair of
+                converging lenses.
+
+      A.       I onl               B.        II only
+      C.       I and II onl
+      D.       II and III only
+      E.       I, II and III.
+
+13.   The range of wavelengths of the visible spectrum
+      is 400nm – 700nm. The wavelength of gamma rays
+      is
+      A.      Longer than 700nm
+      B.      Shorter than 700nm but longer than
+              400nm
+      C.      550nm
+      D.      Shorter than 400nm
+      E.      Infinite
+                           20V
+
+
+
+
+          2Ù       I3      1Ù
+
+
+
+                           20V
+
+
+         I4        2Ù
+
+
+         I5           1Ù
+      Fig. 3.
+      The diagrams in Fig.3 show three circuits. The
+      internal resistances of the batteries are negligible.
+      Which of the currents is the largest?
+      A.        I1                 B.        I2
+      C.        I3                 D.        I4
+      E.        I5
+
+20.   A milliameter with full scale deflection of 100mA
+      has an internal resistance of 5 ohms. It would be
+      converted to an ammeter with a full scale deflection
+      of 1A by connecting a resistance of
+      A. 5
+                /99 ohm in series with it
+      B. 5
+                /99 ohm in parallel with it                            2
+      C.       99
+                  /5 ohm in parallel with it
+      D.       99
+                  /5 ohm in series with it
+      E.       2 ohms in series with it
+
+21.   It is usual to transmit electric power at high voltage
+      and low current. Which of the following are
+      possible advantages of the method.
+      I         Heat losses are reduced because the
+                currents are small.
+      II        Thin wires can be used because small
+                currents are flowing.
+      III       The power can flow faster because the
+                voltage is high.
+      A.        I only
+      B.        I and II only
+      C.        II and III only
+      D.        I and III only
+      E.        I, II and III.
+
+22.   The linear expansivity if brass is 2 x 10-1 0C-1. If the
+      volume of a piece of brass is 100cm3 at 00C, what
+      will be its volume at 1000C?
+      A.         10.02 cm3        B.          10.04 cm3
+      C.         10.06 cm3        D.          10.20 cm3
+                         3
+      E.        102.00 cm
+
+23.   A 24V potential difference is applied across a
+      parallel combination of four 6-ohm resistors. The
+
+                                                                 658
+      A.       I                  B.       II
+      C.       III                D.       IV
+      E.       V
+
+26.   The electrochemical equivalent of a metal is 0.126
+      x 10-6 kg/C. The mass of the metal that a current of
+      5A deposit from a suitable bath in 1 hour is
+      A.       0.0378 x 10-3kg
+      B.       0.227 x 10-3kg
+      C.       0.378 x 10-3kg
+      D.       0.595 x 10-3kg
+      E.       2.268 x 10-3kg
+
+27.   Ripples on water are similar to light waves in that
+      they both
+      A.       Have the same wavelength
+      B.       Are longitudinal
+      C.       Cannot be reflected
+      D.       Travel at the same speed
+      E.       Can be refracted and diffracted.
+
+28.   A piece of wood is floating on water. The forces
+      acting on the wood are
+      A.       Upthrust and reaction.
+      B.       Weight and reaction
+      C.       Weight and upthrust
+      D.       Upthrsut and viscosity
+      E.       Weight and viscosity.
+
+29.   Of the following derived units, the one that is not
+      a unit of power is
+      A.        Joule/second
+      B.        Ampere/volt
+      C.        Amphere2volt
+      D.        Ohm2/volt
+      E.        Volts2/ohm.
+
+30.   A force of 16N applied to a 4.0kg block that is at
+      rest on a smooth horizontal surface. What is the
+      velocity of the block at t = 5 seconds?
+      A.         4 m/s            B.       10 m/s
+      C.        20 m/s            D.       50 m/s
+      E.        80 m/s
+
+31.   1,000 identical drops of oil of density 5000kg/m3
+      have a total mass of 5 x 10-4kg. One of the drops
+      forms a thin film of area 0.5m2 on water. The
+      thickness of the film is
+      A.       2 x 10-8m B.       2 x 10-9m
+                     -7
+      C.       2 x 10 m D.        3 x 10-9m
+                        -8
+      E.       2.8x 10 m.
+
+32.   The total length of a spring when a mass of 200g is
+      hung from its end is 14cm, while its total length is
+      16cm when a mass of 30kg is hung from the same
+      III      The number of electrons in an atom is
+               equal to the total number of protons and
+               neutrons in the nucleus.
+      A.       I only             B.      II only
+      C.       III only           D.      I and II only
+      E.       II and III only.
+
+35.   A short response time is obtained in a liquid-in-
+      glass thermometer when the
+      A.       Bulb is large and thick-walled.
+      B.       Stem is long and thin.
+      C.       Bulb is small and thick-walled.
+      D.       Bulb is high density and the bore is large.
+      E.       Bulb is thin-walled and the liquid is a good
+               conductor of heat.
+
+36.   A machine has a velocity ratio of 5. It requires a
+      50kg weight to overcome a 200kg weight. The
+      efficiency is
+      A.        4%             B.         5%
+      C.       40%             D.        50%
+      E.       80%
+
+37.   If the normal atmospheric pressure in a laboratory
+      supports a column of mercury 0.76m high and the
+      relative density of mercury is 13.8, then the height
+      of water column which atmospheric pressure will
+      support in the same laboratory at the same time is
+      A.         0m               B.        10 m
+      C.        13 m
+      D.        14 m
+      E.        18 m
+
+38.   An electric current of 3A flowing through an electric
+      heating element of resistance 20 embedded in
+      1,000g of an oil raises the temperature of the oil by
+      100C in 10 seconds, then the specific heat capacity
+      of the oil is
+      A.        1.8 J/g B.          0.6 J/g
+      C.        0.18 J/g 0C         D.      1.8 J/g 0C
+                         0
+      E.        0.06 J/g C
+
+39.   The difference of potential between the terminals
+      of a cell is 2.2 volts. When a 4 ohm resistor is
+      connected across the terminals of this cell, the
+      potential difference is 2 volts. What is the internal
+      resistance of the cell?
+      A.        0.10 ohms          B.       0.25 ohms
+      C.        0.40 ohms          D.       2.50 ohms
+      E.        4.00 ohms.
+
+40.                    Q
+                           I
+
+
+
+
+                                                              660
+        I         The bimetallic strip will not be able to
+                  close the circuit when there is fire
+        II        The bimetallic strip will close the circuit
+                  when there is fire
+        III       If the copper and steel are interchanged,
+                  the circuit will close when there is fire.
+        A.        I only              B.       II only
+        C.        III only            D.       I and III
+        E.        II and III
+
+43.   Four equal resistors R1, R2, R3 and R4 are connected
+        in series as shown in Fig 9 below. V1, V2 and V3 are
+        voltmeters connected as indicated. Which of the
+        following relations is CORRECT?
+        A.        V1 = V 3 = V2 .
+                                2
+        B.        V1 = 2V2 =V3 2
+        C.        V=½V=V
+                   1       3
+        D.        V1 - V3 = V2
+        E.        V2 – V1 = V3 .
+                               2
+
+
+44.     Which of the following may be used to determine
+        relative humidity in a physics laboratory?
+        I         Manometer
+        II        Wet-and-dry bulb hygrometer
+        III       Hair hygrometer
+        IV        A hydrometer
+
+        A.        I only
+        B.        II and III only
+        C.        II only
+        D.        III only
+        E.        II, III and IV only
+
+45.
+
+
+
+
+        PQ is a thin rod on a horizontal table, RS is a plane
+        mirror inclined at 450C to the horizontal as shown
+        in Fig. 10 above. The image of PQ as seen in the
+        mirror by the eye, T is
+        A.        Horizontal
+        B.        Parallel to the mirror
+        C.        At infinity
+        D.        Vertical
+                                                  Physics
+1.       The distance travelled by a particle starting from
+         rest is plotted against the square of the time elapsed
+         from the commencement of motion. The resulting
+         graph is linear. The slope of this graph is a measure
+         of
+         A.         Initial displacement
+         B.         Initial velocity
+         C.         Acceleration
+         D.         Half the acceleration
+         E.         Half the initial velocity
+
+2.
+     P                                       T
+                         Q R           S
+
+
+
+                         0.1N              0.4N
+                Fig. 1
+
+         In Fig. 1, PT is a uniform metre rule pivoted at R,
+         the 70cm mark. Two forces 0.1N and 0.4N are
+         applied at Q, the 60cm mark and S. the 85cm mark.
+         If the metre rule is kept in equilibrium by the forces
+         and its weight, then the weight of the metre rule is
+         A.        0.25 N              B.       0.30 N
+         C.        0.35 N              D.       0.50 N
+         E.        0.56 N
+
+3.       For which of the underlisted quantities is the
+         derived unit ML2T-2 correct?
+         I        Moment of a force
+         II       Work
+         III      Acceleration
+
+         A.       I only              B.          II only
+         C.       III only            D.          I and II
+         E.       II and III
+
+4.       What volume of alcohol with a density of 8.4 x
+         102kg m-3 will have the same mass as 4.2m3 of petrol
+         whose density is 7.2 x 102kg m-3?
+         A.       1.4 m3            B.      3.6 m3
+                         3
+         C.       4.9 m             D.      5.0 m3
+                         3
+         E.       5.8 m
+
+5.       For correcting long sight defects in the human eye
+         we require a
+         A.       Converging lens
+         B.       Diverging lens
+         C.       Microscope
+         D.       Periscope
+         E.       Plain glass sheet.
+                                                                  662
+      A.       Carbon rod
+      B.       Paste of magnesium dioxide
+      C.       Paste of ammonium chloride
+      D.       Zinc case
+      E.       Copper rod.
+12.   Which of the following can be described
+      as high tension transmission?
+      A.       High resistance and low voltage
+      B.       Low current and high voltage
+      C.       High current and low voltage
+      D.       High voltage and zero current
+      E.       High current and low resistance.
+
+13.   All the heat generated in a 5 ohms resistor by 2A
+      flowing for 30 seconds is used to evaporate 5g of
+      liquid at its boiling point. Which of the following
+      is the correct value of the specific latent heat of
+      the liquid?
+      A.          120 J            B.          60 J g-1
+                          -1
+      C.          120 J g          D.       1 500 J
+      E.        1 500 J g-1
+
+14.   When vibration occurs in an air column, the
+      distance between a node and an antinodes is equal
+      to
+      A.       One-quarter of the wavelength
+      B.       One-half of the wavelength
+      C.       The wavelength
+      D.       Twice the wavelength
+      E.       Four-times the wavelength.
+
+15.   Which of the following statements is (are) NOT
+      correct?
+      I        Pressure changes do not affect the speed
+               of sound in air
+      II       The velocity of sound increases with
+               temperature
+      III      The quantity of a note depends only on
+               its frequency.
+
+      A.       I only         B.   II only
+      C.       III only       D.   I and III only
+      E.       II and III only.
+
+16.   Of two identical turning forks with natural
+      frequency 256 Hz, one is loaded so that 4 beats per
+      second are heard when they are sounded together.
+      What is the frequency of the loaded turning fork?
+      A.       260 Hz               B.      252 Hz
+      C.       248 Hz               D.      264 Hz
+      E.       258 Hz
+17.   Dew point is the temperature at which water
+      vapour in the atmosphere
+      A.       Turns into steam
+      B.       Solidifies into ice pellets
+      C.       First condenses into liquid form
+      D.       Is just sufficient to cause cooling
+       body by the force during the first 10 metres of
+       motion is
+       A.       100 J             B.        150 J
+       C.       200 J             D.        300 J
+       E.       600 J
+
+23.    A simple pendulum, 0.6m long, has a period of 1.5
+       s. what is the period of a similar pendulum 0.4m
+       long in the same location?
+       A.        1.4 2/ s B.        1.5 3/
+                          3              2
+       C.        2.25 s            D.        1.00 s
+       E.        2.00 s
+
+       A force varying linearly with the distance acts on
+       a body as shown in Fig. 4. The work done on the
+       body by the force during the first 10 metres of
+       motion is
+       A.       100 J             B.       150 J
+       C.       200 J             D.       300 J
+       E.       600 J
+
+23.    A simple pendulum, 0.6m long, has a period of 1.5
+       s. what is the period of a similar pendulum 0.4m
+       long in the same location?
+       A.        1.4 “ 2/3 s        B.       1.5 “3/2
+       C.        2.25 s             D.       1.00 s
+
+24.   A small steel needle is carefully floated on water in
+       a beaker. When a few drops of kerosene are
+       introduced into the water the needle sinks. Which
+       of the following statements correctly explain(s) the
+       observation?
+        I         There is a tension on the water surface.
+          II        Kerosene reduces the density of water
+                   so that the needle becomes denser than
+                 water.
+       III       Kerosene reduces the surface tension of
+                 water.
+
+       A.        I only            B.        II only
+       C.        III only          D.        I and II
+       E.        I and III
+
+25.    Which of the following statements describes an
+       atom accurately?
+       I       Atoms of all elements are identical
+       II      An atom contains a nucleus and number
+               of electrons.
+       III     Due to the electrons in the atom, an atom
+               is negatively charged.
+       IV      Electrons in the atom move in circular
+               orbits round the nucleus.
+
+        A.       I and II          B.        II and III
+        C.       III and IV        D.        II and IV
+        E.       I, II and III
+
+
+                                                              664
+  B                            E.
+       m                            m
+
+
+
+                           v                 v
+
+
+
+      C..
+        m
+
+
+
+                           v
+
+
+
+
+31.     Which of the following statements about the
+        compound microscope and astronomical telescope
+        is (are) correct?
+        I         The final image of a compound
+                  microscope is located at infinity.
+        II        The final image of the astronomical
+                  telescope is always erect.
+        III       The objective lens of a compound
+                  microscope has a very short focal length.
+
+        A.       I only                 B.       II only
+        C.       III only               D.       I and III
+        E.       II and III
+
+32.     A coin is placed at the bottom of a cube of glass
+        tcm thick. If the refraction index of the glass is ø,
+        how high does the coin appear to be raised to an
+        observer looking perpendicularly into the glass?
+        A.       1.
+                  t–ø
+
+        B.       t(ø – 1)
+                    ø
+        C.       t>ý 1 + 1/ø?ý
+
+        D.           t .
+                     ø
+
+        E.       t
+
+33.     The electromotive force obtained from a simple
+        dynamo may be increased by
+        A.      Increasing the cross-sectional area of the
+                coil.
+        B.      Winding the coil on a soft-iron armature
+                so as to increase the magnetic flux
+                through the coil.
+      with a velocity of 150m s-1, what is the recoil
+      velocity of the gun?
+      A.       150 m s-1 due West
+      B.       1.2 x 10-4 m s-1 due West.
+      C.       1.2 m s-1 due West
+      D.       1.2 m s-1 due East
+      E.       150 m s-1 due East
+
+37.   Normal atmospheric pressure at sea-level is 105N
+      m-2 and the acceleration due to gravity is
+      approximately 10m s-1. If the atmosphere has a
+      uniform density of 1kg m-3, its height is
+      A.          100 m
+      B.         1000 m
+      C.        10 000 m
+      D.       100 000 m
+      E.      1000 000m
+
+38.   Which of the following is a correct explanation of
+      the inertia of a body?
+      A.        Ability to overcome the earth’s gravity
+      B.        Reluctance to stop moving
+      C.        Readiness to start moving
+      D.        Reluctance to start moving and its
+                readiness to stop moving once it has
+                begun to move
+      E.        Reluctance to start moving and its
+                reluctance to stop moving once it has
+                begun to move.
+
+39.   If a water pump at Kainji Dam is capable of lifting
+      1000kg of water through a vertical height of 10m in
+      10s, the power of the pump is
+      A.         1.0 kW          B.        10.0 kW
+      C.        12.5 kW          D.        15.0 kW
+      E.        20.0 kW
+                                 (g = 10m s-2)
+
+40.   What is the apparent colour of a RED SHIRT when
+      viewed in PURE green light?
+      A.       Red                B.      Green
+      C.       Yellow             D.      Black
+      E.       Blue
+
+41.   The spectrum of white light consists of coloured
+      lights arranged in the following order
+      A.        Blue, red, green. Yellow, indigo, violet,
+                orange.
+      B.        Red, orange, yellow, green, blue, indigo,
+                violet.
+      C.        Red, orange, yellow, indigo, green, blue,
+                violet.
+      D.        Indigo, green, blue, violet, yellow, red,
+                orange.
+      E.        Yellow, blue, green, violet, orange, indigo,
+                red.
+
+
+                                                               666
+ 47.   What is the cost of running five 50W lamps and
+       four 100W lamps for 10 hours if electrical energy
+       costs 2 kobo per kWh?
+
+       A.        N 0.65            B.          N 0.13
+       C.        N 3.90            D.         N 39.00
+       E       N 234.00
+
+ 48.   Which of the following statements is (are) NOT
+       true about the emission of photoelectrons from
+       metallic surfaces?
+       I         All metallic surfaces emit the same
+                 number of photoelectrons in a given light.
+       II        Most metallic surfaces in visible and
+                 infrared light.
+       III       A metallic surface emits photoelectric only
+                 if frequency of the incident light is higher
+                 than its own characteristic threshold
+                 frequency.
+
+       A.       I only              B.        II only
+       C.       I and II            D.        II and III
+       E.       III only
+
+ 49.   A galvanometer of resistance 5.0Ù has full-scale
+       deflection for a current of 100mA. How would its
+       range be extended to 1.0A by placing a resistance
+       of
+       A.       5
+                  /9 Ohms in parallel
+       B. 9
+                 /5 Ohms in series
+       C.       45 Ohms in parallel
+       D.       45 Ohms in series
+       E.       9
+                  /5 Ohms in parallel.
+
+
+
+
+                                              Physic
+
+1.     Which of the following is NOT a fundamental S.I.
+       unit?
+       A.      Metre             B.      Ampere
+       C.      Kelvin            D.      Second
+       E.      Radian
+
+2.     A simple pendulum with a period of 2.0s has its
+       length doubled. Its new period is
+
+       A.      1.00 s              B.        1.41 s
+       C.      0.35 s              D.        2.83 s
+       E.      4.00 s
+
+3.     Which of the following statements are true about
+       the spring balance and the chemical balance?
+4.         Which of the following types of motion are
+           oscillatory?
+           I         A driving board when used by a driver.
+           II        The motion of the balance wheel of a wrist
+                     watch.
+           III       The motion of the turn-table of a record
+                     player.
+           IV        The motion of the center of a ten kobo
+                     piece as it rolls down an inclined plane.
+           V.        The motion of the needle of a D.C.
+                     ammeter into which a low A.C. current is
+                     passed.
+           A.        I and II only       B.      I, II and III
+           C.        II, III and IV      D.      I, II and V
+           E.        III, IV, and V.
+
+5.
+     10
+
+      8
+
+Velocity
+(ms-1) 6
+
+
+     4
+
+      2
+
+
+      0         1      2       3      4      5        6
+                           Time (s)
+                                   Fig 1
+           The graph Fig. 1 above describes the motion of a
+           particle. The acceleration of the particle during the
+           motion is
+           A.         0.00m s2          B.         0.25m s-2
+                              2
+           C.         4.00m s-          D.         8.00m s-2
+                             -2
+           E.        10.00m s
+
+6.         If a car starts from rest and moves with a uniform
+           acceleration of 10m s-2 for ten seconds, the distance
+           it covers in the last one second of the motion is
+           A.             95 m           B.       100 m
+           C.            500 m           D.       905 m
+           E.          1 000 m
+
+7.         A block of mass 2.0kg resting on a smooth
+           horizontal plane is acted upon simultaneously by
+           two-forces, 10N due North and 10N due East. The
+           magnitude of the acceleration produced by the
+           forces on the block is
+           A.        0.10m s-2        B.       7.05m s-2
+                              -2
+           C.       10.00m s          D.      14.10m s-2
+                             -2
+           E.       20.00m s
+
+
+
+                                                                   668
+      suspended on the rule at L, the 10cm mark. If the
+      rule is kept in equilibrium by a string RP, fixed at P
+      and attached to the rule at R, the 20cm mark, then
+      tension T in the string is
+      A.             25 N          B.            50 N
+      C.            250 N          D.         5 000 N
+      E.        25 000 N
+
+13.   A force of 100N stretches an elastic string to a
+      total length of 20cm. If an additional force of 100N
+      stretches the string 5cm further, find the natural
+      length of the string.
+      A.        15 cm              B.        12 cm
+      C.        10 cm              D.         8 cm
+      E.         5 cm
+14.   Two drivers G and H are at depths 20m and 40m
+      respectively below the water surface in a lake. The
+      pressure on G is P1 while the pressure on H is P1. If
+      the atmospheric pressure is equivalent to 10m of
+      water, then the value of P2/P1 is
+      A.       0.50               B.       0.60
+      C.       1.67               D.       2.00
+      E.       3.00
+15.   The areas of the effort and load pistons of a
+      hydraulic press are 0.5m2 and 5m2 respectively. If a
+      force F1 of 100N is applied on the effort piston, the
+      force F2 on the load is
+      A.           10 N           B.          100 N
+      C.          500 N           D.        1 000 N
+      E.        5 000 N
+
+16.   A metal cube of volume 103mm3 is lowered into a
+      measuring cylinder containing water. If the internal
+      cross-sectional area of the cylinder is 1.5 x 102 mm2,
+      by how much does the water level rise in the
+      cylinder?
+      A.        6.67 x 100 mm       B.        8.50 x 102 mm
+                         3
+      C.        1.15 x 10 mm        D.        2.50 x 103 mm
+                         5
+      E.        1.50 x 10 mm
+
+17.   A uniform cylindrical block of wood floats in water
+      with one-third of its height above the water level.
+      In a liquid of relative density 0.8, What fraction of
+      its height will be above the liquid level?
+                1                   1
+      A.          /6       B.         /5
+                1                   4
+      C.          /3       D.         /5
+                5
+      E.          /6
+
+18.   A thin aluminum plate has a surface area of 1,500m2
+      at 200C. What will be its surface area when it is
+      cooled to – 200C?
+      (Take the linear expansivity of aluminium to be 2.5
+      x 10-5 K-1)
+      A.        1.503 m2          B.       1.500 m2
+                        2
+      C.        1.498 m           D.       1.497 m2
+                        2
+      E.        1.490 m
+25.   Which of the following statements is NOT correct?
+
+      A.       Boiling occurs when the saturated
+               vapour pressure of the liquid involved
+               equals the external pressure.
+      B.       Both the boiling point and the saturated
+               vapour pressure of a given liquid depend
+               on the external pressure.
+      C.       The saturated vapour pressure rises with
+               increase in temperature.
+      D.       The saturated vapour pressure is
+               independent of the volume available for
+               the vapour.
+      E.       It is possible to boil water at a lower
+               temperature than 1000C at high altitude.
+
+26.   Which of the following phenomena CANNOT be
+      explained by the molecular theory of matter?
+      A.      Expansion          B.       Conduction
+      C.      Convection         D.       Radiation
+      E.      Evaporation.
+
+27.   In order to find the depth of the sea. A ship sends
+      out a sound wave and receives an echo after one
+      second. If the velocity of sound in water is 1500m/s,
+      what is the depth of the sea?
+      A.        0.75km              B.       1.50km
+      C.        2.20km              D.       3.00km
+      E.        3.75km
+
+28.   When a sound wave passes from air into water its
+      A.      Speed and frequency increase but its
+              wavelength remains the same.
+      B.      Speed and wavelength increase but its
+              frequency remains the same
+      C.      Speed decreases.
+      D.      Speed remains the same but its frequency
+              and wavelength change.
+      E.      Speed increases but its frequency and
+              wavelength decrease.
+
+29.   If the fundamental frequency of a closed pipe organ
+      on a day when the speed of sound is 340m s-1 is
+      170 Hz, then the length of the pipe is
+      A.         50cm             B.         70cm
+      C.        100cm             D.        150cm
+      E.        200cm
+
+30.   An object is placed 15cm in front of a concave
+      mirror of radius 40cm. The image formed is
+      A. Virtual and 60cm behind the mirror
+      B. Real and 60cm in front of the mirror
+      C. Virtual and at infinity
+      D. Real and at infinity
+      E. Virtual and 40cm from the mirror.
+
+
+
+                                                              670
+          A.       Passing on an electric current through a
+                   solenoid.
+          B.       Repeated stroking of the specimen with
+                   a magnet
+          C.       Repeated stroking of the specimen in
+                   opposite directions with two magnets
+          D.       Heating of the specimen
+          E.       Hammering of the specimen in the earth’s
+                   magnetic field’s
+
+39.       Which of the following will convert a milliammeter
+          to a voltmeter?
+          A.        Low series resistance
+          B.        Low parallel resistance
+          C.        High series resistance
+          D.        High parallel resistance
+          E.        Parallel resistance equal to milliameter
+                    resistance.
+40.       Which of the graphs A – E (Fig. 3) represents the
+          current-voltage (I – V) relationship for a cell with
+          internal resistance?
+
+
+A.
+          I
+
+
+
+
+                       V
+
+B.                             C.
+
+      I                              I
+
+
+               V                               V
+
+D.                              E.
+
+      I                              I
+
+
+
+                   V                            V
+
+                            Fig. 3
+
+41.       A wire P has half the diameter and half the length
+          of a wire Q of similar material. The ratio of the
+          resistance of P to that of Q is
+          A.       8: 1               B.      4 :1
+          C.       2: 1               D.      1 :1
+          E.       1 :4
+      A.       6 000 V             B.         600 V
+      C.        240 V              D.          60 V
+      E.          24 V
+
+47.   Which of the following statements about
+      electrolysis is NOT correct?
+      A.       The substances in solution in the
+               electrolyte become ionized.
+      B.       Ions are electrically charged and are
+               attracted towards electrodes when a
+               potential difference is applied.
+      C.       Ions may be discharged at the electrodes,
+               forming bubbles or deposits.
+      D.       The mass deposited depends upon the
+               length of time for which current flows.
+      E.       The mass of gas set free or metal
+               deposited is proportional to the square
+               of the current.
+
+48.   Which of the following statements is NOT correct?
+      A.      The average range of distinct vision for a
+              normal eye is from the far distance
+              (infinity) up to about 25cm in front of the
+              eye.
+      B.      Longsighted people have difficulty in
+              making the eye lens sufficiently powerful
+              to the focus on nearby objects.
+
+
+
+
+                                             Physics
+1.    Which of the following represents the correct
+      precision if the length of a piece of wire is measured
+      with a metre rule?
+      A.           35 mm
+      B.         35.0 mm
+      C.       35.00 mm
+      D.       35.01 mm
+
+
+
+
+2.
+      Force
+
+
+
+
+               0                             Extension
+                             Fig. 1
+
+
+
+                                                               672
+4.             Which of the following is a derived unit?
+                      A.         Kilogramme B. Metre
+               C.     Kelvin             D.        Newton
+
+5.             Two objects, one having three times the mass of
+               the other, are dropped at the same time from at tall
+               building. When they are above the ground, the
+               two objects will have the same
+               A.        Momentum
+               B.        Kinetic energy
+               C.        Potential energy
+               D.        Acceleration.
+
+6.             Which of the following is in a neutral equilibrium?
+               A.       A heavy weight suspended on a string.
+               B.     A cone resting on its slant edge.
+               C.     A heavy based table lamp.
+               D.     The beam of a balance in use.
+
+7.             A ball is thrown vertically into the air with an
+               initial velocity u. What is the greatest height
+               reached?
+                        U
+               A.        / 2g
+               B.       3u2/2g
+               C.       u2 /g
+               D.       u2/2 g.
+
+8.             Which of the following assumptions is made in a
+               simple pendulum experiment? The
+               A.       Suspending string is inextensible
+               B.       Bob has a finite size
+               C.       Bob has a definite mass
+               D.       Initial angle of oscillation must be large.
+
+9.
+               10cm
+
+      Q                                                        R
+                         P
+
+                       10g
+                                Fig. 2
+               A uniform metre rule QR is balanced on a knife
+               edge which is 55cm from R. when a mass of 10g is
+               hung at P as shown in Fig. 2, the mass of the metre
+               rule is
+               A.       550g              B.        350g
+               C.        70g              D.         35g
+
+10.                                       F1
+
+                                      10.0N
+
+                                600
+                                 F2
+                        O          5.0N
+          F3              Fig. 3
+16.                     A ball attached to one end of a string moves
+                        anticlockwise around a circle whose centre is O. If
+                        the string suddenly breaks when the ball is at point
+                        P, along which of the following paths will it move?
+          F3
+                                  A                       B
+16.
+
+                                      O         P                  O   P
+
+
+
+                                  C                   D
+
+                                      O         P                  O   P
+
+
+
+17.                    The mode of heat transfer which does not requires
+                       material medium is
+                       A.       Conduction        B.      Radiation
+                       C.       Convection        D.      Propagation
+
+18.                    The expansion of solids can be considered a
+                       disadvantages in the
+                       A.      Balance wheel of a watch
+                       B.      Fitting of wheels on rims
+                       C.      Fire alarm
+                       D.      Thermostat.
+
+19.
+                            19.
+                            100
+
+
+      Te m p e ra tu re ©
+                            90
+                            80
+                            70
+                            60
+                                          5                   10
+                                               Time (min)
+                                              Fig.5
+
+                        In an experiment in which molten naphthalene is
+                        allowed to cool. The cooling curve in Fig. 5 was
+                        obtained. The temperature 800C is known as the
+                        A.       Cooling temperature
+                        B.       Boiling point
+                        C.       Melting point
+                        D.       Vaporization point
+
+20.                    The specific latent heat of fusion of lead is the
+                       amount of heat required to
+                       A.      Melt lead at its melting point
+                       B.      Heat a unit mass of lead through 10C.
+
+
+                                                                               674
+27.
+
+
+      27.
+                                             Reflected ray
+                          60o
+
+       Incident ray                                 AIR
+
+                                                    Glass
+
+
+                                           Refracted Ray
+
+
+
+        In Fig. 6, a ray of light in air strikes a glass plate at
+        an angle of incidence of 600C. The reflected ray is
+        observed to be perpendicular to the refracted ray.
+        What is the refractive index of the glass?
+        A.        1.73                 B.        1.50
+        C.        0.87                 D.        0.57.
+
+28.     A lens of focal length 12.0cm forms an upright
+        image three times the size of a real object. The
+        distance between the object and the image is
+        A.        8.0 cm          B.        16.0 cm
+        C.       24.0 cm          D.        32.0 cm
+
+29.     In which of the following arrangements is the
+        wavelength in an increasing order?
+        A. Gamma rays, infra-red rays, X-rays,
+            radiowaves.
+        B. Gamma rays, X-rays, infra-red rays,
+            radiowaves.
+        C. Radiowaves, X-rays, gamma rays, infra-red
+            rays.
+        D. Infra-red rays, radiowaves, X-rays, gamma
+            rays.
+30.     If the refractive index of glass is 1.5, what is the
+        critical angle at the air-glass interface?
+        A.         sin-1 ½            B.        Sin-1 2/3
+                       -1
+        C.         Sin ¾              D.       Sin-1 8/9
+31.     A dentist obtains a linear magnification of 4 of a
+        hole in a tooth by placing a concave mirror at a
+        distance of 2.0cm from the tooth. The radius of
+        curvature of the mirror is
+        A.       5.3 cm            B.       3.2 cm
+        C.       2.7 cm            D.       1.6 cm.
+
+32.     What is the effect of the increase in the size of the
+        hole of a pin-hole camera on the image? It
+        A.        Gives a blurred image.
+        B.        Corrects for chromatic aberration
+        C.        Magnifies the image
+        D.        Brings the image into the sharper focus.
+38.   The vibration of an air column produces the sound
+      in the
+      A.       Piano              B.      Guitar
+      C.       Flute
+      D.       School handbell.
+
+39.
+                                                5
+               5
+                                            20
+
+
+
+
+           E
+                            Fig. 8.
+
+      In Fig. 8, E is an accumulator with negligible internal
+      resistance. If the e.m.f. is 9.0V, then the total current
+      is
+      A.         0.3 A                B.        0.8 A
+      C.         1.0 A                D.        1.8 A
+
+
+
+
+                                                R
+40.            3              2A
+
+40.                           A
+
+
+                                            6
+
+
+
+                                      12V
+
+                            Fig. 6.
+
+      In Fig. 9, the value of R is
+
+      A.           3 Ohms                                               4
+      B.           4 Ohms
+      C.           5 Ohms
+      D.           6 Ohms
+
+
+
+                                                                  676
+47.                              The diagrams below depict the current induced in
+                                 a coil as a result of the relative motion between it
+                                 and a bar magnet. Which of the diagrams illustrates
+                                 the direction of the induced current?
+                                   47.
+
+
+                                                         N             S
+
+
+
+
+                                                           N               S
+
+
+
+
+                                                           N               S
+
+
+
+
+                                                           N               S
+
+
+
+
+                                                                           Physic
+1.                               Which of the following units is equivalent to kg
+                                 ms-1?
+                                 A.     Ns-1              B.        Nms
+                                 C.     Ns                D.        Js-1
+
+2.                               A man walks 8km north and then 5km in a direction
+                                 600 east of north. Find the distance from his starting
+                                 point.
+                                 A.11.36km                     B. 12.36km
+                                 C.13.00km                     D14.36km.
+  3.
+3. 8
+
+
+
+
+V E L O C I T Y ( m s -1 )
+                             6
+                             4
+                             2
+                             0
+                                      1.0          2.0         3.0             4.0 Q
+                                                         TIME (s)
+               5.
+
+
+
+
+                                M1
+
+
+
+
+                                M2
+                              Fig. 1
+
+     Figure 1 above shows two connected bodies of
+     masses m1 and m2 in equilibrium under gravity. The
+     tension in the upper string is
+     A.       (m – m )g          B.     mg
+                      1   2                         1
+     C.             m2g                D.         (m1 + m2)g.
+
+6.   An elevator of mass 4800kg is supported by a cable
+     which can safely withstand a maximum tension of
+     60 000N. the maximum upward acceleration the
+     elevator can have is
+     A.       2.5m s-2          B.      5.0m s-2
+                     -2
+     C.       7.5m s            D.      10.0m s-2
+                                        (g = 10m s-2)
+          7.
+
+
+
+                                            10m
+
+7.
+
+
+
+
+                        Fig. 2.
+     A 50.0kg block is dropped on a string from a point
+     10m above (Fig. 2). If the force constant of the
+     spring is 4.0 x 104 Nm-1, find the maximum
+     compression of the spring.
+     A.       1.25m             B.       0.50m
+     C.       0.25m             D.       0.05 m
+     (g = 10 ms-2)
+
+8.   A constant force of 40N acting on a body initially
+     at rest gives an acceleration of 0.1ms-2 for 4s.
+     Calculate the work done by the force.
+     A.         8J             B.          10 J
+     C.        32 J            D.        160 J
+
+
+
+                                                                678
+14.         A load of 5N gives an extension of 0.56cm in a wire
+            which obeys Hooke’s law. What is the extension
+            caused by a load of 20N?
+            A.       1.12 cm            B.        2.14 cm
+            C.       2.24 cm            D.        2.52 cm.
+
+15.         A cube of side 10cm and mass 0.5kg floats in a
+            liquid with only 1/5 of its height above the liquid
+            surface. What is the relative density of the liquid?
+            A.       0.125              B.       0.250
+            C.       0.625              D.       2.500.
+
+16.         The distance between the fixed points of centigrade
+            thermometer is 20cm. What is the temperature when
+            the mercury level is 4.5cm above the lower mark?
+            A.        22.50C           B.         29.00C
+            C.        90.00C            D.       100.00C
+
+17.         A metallic strip of iron and brass was heated. Which
+            of the following diagrams accurately illustrates the
+            shape of the strip after heating?
+
+      17.
+                                                 Brass
+                                                          Iron
+                               dagram
+
+                                                  Brass
+
+                                           Iron
+                                            Brass
+                                                 Iron
+
+
+                                                         Brass
+                                          Iron
+
+18.         The length of a side of a metallic cube at 200C is
+            5.0cm. Given that the linear expansivity of the
+            metal is 4.0 x 10-5 k-1 Find the volume of the cube
+            at 1200C.
+            A.        126.50 cm3          B.      126.25 cm3
+                                3
+            C.        126.00 cm           D.      125.00 cm3
+
+19.         As a result of air at the top of a barometer, the
+            height of the mercury column is 73.5cm when it
+            should be 75.0cm; the volume of the space above
+            the mercury is 8.0 cm3 Calculate the correct
+            barometric height when the barometer reads 74.0cm
+            and the volume of the space above the mercury is
+            6.0 cm3.
+            A.       72.0 cm            B.      74.5 cm
+            C.       75.1 cm            D.      76.0 cm
+
+20.         A fixed quantity of gas is subjected to various
+            pressures P and the corresponding volumes V
+            measured at a constant temperature. Which of the
+            following graphs best represent the results?
+      paint will be cooler in the hot season than one
+      coated with black paint?
+      A.       Conduction         B.        Convection
+      C.       Refraction          D.       Reflection.
+
+27.   A wave has a frequency of 2 Hz and a wavelength
+      of 30cm. The velocity of the wave is
+      A.      60.0m s-1          B.        6.0m s-1
+                      -1
+      C.       1.5m s            D.        0.6m s-1
+
+28.   A boat at anchor is rocked by waves whose crests
+      are 100m apart and whose velocity is 25m s-1. At
+      what interval does the wave crest reach the boat?
+      A.       2,500.00s         B.         75.00s
+      C.           4.00s         D.           0.25s
+
+29.   Which of the following instruments has a pure
+      tone?
+      A.     Guitar
+      B.     Vibrating string
+      C.     Turning fork
+      D.     Siren.
+
+30.   The lowest note emitted by a stretched string has
+      a frequency of 40 Hz. How many overtones are
+      there between 40 hZ and 150 Hz?
+      A.       1               B.         2
+      C.       3                D.       4.
+
+31.   When the length I of a piece of wire under constant
+      tension is varied, the relationship of the frequency
+      of vibration f with l is
+      A.        f & l               B.       f & 1/ l 2
+      C.        f &l                D.       f & 1/ l
+
+32.   Which of the following statements supports the
+      assumption that light travels in straight lines?
+      A.        Light can be diffracted
+      B.        A source of light produces distinct
+                shadows of opaque objects
+      C.        A source of light produces interference
+                patterns on a suitably placed screens.
+      D.        Light can be reflected.
+33.   If an object is placed in front of two mirrors inclined
+      at 900, how many images will be formed?
+      A.        Five                  B.       Four
+      C.        Three                 D.       Two.
+
+34.   An object 3.0cm high is placed 60.0cm from a
+      converging lens whose focal length is 20.0cm.
+      Calculate the size of the image formed.
+      A.       0.5 cm              B.      1.5 cm
+      C.       2.0 cm              D.      6.0 cm
+
+35.   A pool of water appears to be 1.0m deep when
+      viewed vertically from above. If the refractive index
+
+
+                                                                680
+41.
+              41.            M           N
+
+
+
+
+                    P
+                         -
+
+
+
+
+                             Fig. 5
+        In Fig. 5 above, M and N are insulated metal
+        spheres in contact. A negatively charged ebonite
+        rod P is brought near M. when M and N are
+        separated and the rod is taken away, which of the
+        following statements is CORRECT?
+        A.       Both M and N have acquired negative
+                 charges
+        B.       Both M and N have acquired positive
+                 charges
+        C.       M has acquired negative charge and N
+                 positive charge
+        D.       M has acquired positive charge and N
+                 negative charge.
+42.     When a transformer has more secondary windings
+        than primary winding, it
+        A.       Has a smaller seconder current
+        B.       Has a greater power output
+        C.       Is a step-down transformer
+        D.       Increases the total energy output.
+43.     A current of 0.5A flows through a resistor when
+        connected to a 40-V battery. How much energy is
+        dissipated in 2 minutes?
+        A.        1 200J           B.      1 500J
+        C.        2 400J           D.     96 000J.
+44.     The direction of the magnetic field at a point in the
+        vicinity of a bar magnet is
+        A.        Always towards the north pole of the
+                  magnet
+        B.        Always away from the south pole of the
+                  magnet
+        C.        Along the line joining the point to the
+                  neutral point
+        D.        In the direction the north pole of a
+                  compass needle would point.
+  45.   When two parallel wires carry currents in opposite
+        directions, the force on either wire is
+        A.       Away from the other wire
+        B.       Zero, because the currents cancel each
+                 other
+        C.       Twice as much as when the currents are
+                 in the same direction
+        D.       Towards the other wire.
+                                               Physics
+     1.     Which of the following diagrams correctly
+          represents the relationship between the time (T)
+     1.   of swing of a simple pendulum and its length (l)?
+
+
+
+
+2.        Which of the following are the correct SI units of
+          the quantities indicated?
+          I        N (Force)
+          II.      Nm-1 (Torque)
+          III      Watt (power)
+          IV       kg ms-2 (Momentum).
+
+          A.       I and II only
+          B.       I. II and III only
+          C.       I, II and IV only
+          D.       I and III only.
+
+3.        A lorry travels 10km northwards, 4km eastwards,
+          6km southwards and 4km westwards to arrive at a
+          point T. What is the total displacement?
+          A.        6km south         B.      4km north
+          C.        6km north         D.      4km east.
+
+4.        Two forces whose resultant is 100N, are at right
+          angles to each other. If one of them makes an angle
+          of 300 with the resultant, determine its magnitude.
+          A.        8.66 N             B.       50.0 N
+          C.        57.7 N             D.       86.6 N
+
+5.        Which of the following quantities are scalars?
+          I       Electrical potential
+          II      Torque
+          III     Momentum
+          IV      Kinetic energy
+
+          A.       II and III only
+          B.       I and Ii only
+          C.       III and Iv only
+          D.       I and Iv only.
+
+
+                                                                682
+           The figures above show three different ways of
+           hanging a heavy picture from a hook. The tension
+           in the string would be
+           A.        Greatest in X
+           B.        Greatest in Y
+           C.        Greatest in Z
+           D.        Same in each one.
+
+11.        How long will it take a 60kg man to climb a height
+           of 22m if he expended energy at the rate of 0.25kW?
+           A.         5.3s
+           B.        34.5s
+           C.        41.6s
+           D.        52.8s
+                                       [g = I0ms-2]
+
+           12.      A force, 10N, drags a mass 10kg on a
+                    horizontal table with an acceleration of
+                    0.2m s-2. If the acceleration due to gravity
+                    is 10m s-2, the coefficient of friction
+                    between the moving mass and the table
+                    is
+                    A.       0.02       B.       0.08
+                    C.       0.20       D.       0.80
+
+13.    Which of the following graphs correctly describes
+        the variation of the mechanical advantage with
+        load for a simple machine whose velocity ratio is
+        3?
+
+
+
+13.
+      MA                         MA
+
+
+
+
+                         Load                         Load
+      MA                         MA
+
+
+
+
+                          Load                        Load
+
+
+
+14. A body whose mass is 2kg and has a volume of
+        500cm just floats when completely immersed in a
+        liquid. Calculate the density of the liquid.
+        A.       4.0 x 102kg m-3
+        B.       4.0 x 103kg m-3
+        C.       1.0 x 103kg m-3
+        D.       1.0 x 106kg m-3
+20.   When heat is applied to one end of a metal rod, the
+      molecules at the other end soon begin to vibrate
+      with greater amplitude than before because heat
+      has been transfer by
+      A.       Radiation         B.        Convection
+      C.       Conduction        D.        Evaporation.
+
+21.   Which of the following media allow the
+      transmission of sound waves through them?
+      I        Air
+      II       Liquids
+      III      Solids
+
+      A.       I and II only
+      B.       I and III only
+      C.       II and III only
+      D.       I, II and III.
+
+22.
+
+
+
+
+        X
+
+
+
+        Y
+
+      The diagram above shows two waveforms X and
+      Y. If the frequency is 30 HZ, what is the frequency
+      of Y?
+      A.         12 Hz            B.        19 Hz
+      C.         60 Hz            D.        75 Hz
+
+23.   Which of the following properties is/are common
+      to all waves?
+      I        Diffraction
+      II       refraction
+      III      Interference
+
+      A.       I only            B.        III only
+      C.       I and III only    D.        I, II and III.
+
+24.   A piano wire 0.5m long has a total mass of 0.01kg
+      and is stretched with a tension of 800N. Calculate
+      the frequency of the wire when it sounds its
+      fundamental note.
+      A.       200 Hz             B.       100 Hz
+      C.          4 Hz            D.         2 Hz.
+
+
+
+
+                                                            684
+        In the figure above, what is the angle of reflection
+        of the ray of light at mirror M2?
+        A.        900                 B.      600
+        C.        450                 D.      300
+
+32.     An object is place 10 cm in front of a concave
+        mirror of focal length 15cm. What is the positive
+        and nature of the image formed?
+        A.       30cm and virtual
+        B.       6cm and real
+        C.       6cm and virtual
+        D.       30cm and real.
+
+33.     Which of the following phenomena explain the
+        formation of a mirage
+        I        Reflection
+        III      Refraction
+        III      Diffraction
+
+        A.       I and II only
+        B.       II and III only
+        C.       I and III only
+        D.       I, II and III.
+
+34.     When white light is dispersed by a spectrometer,
+        the component having the shortest wavelength is
+        A.      Orange             B.       Green
+        C.      Violet             D.       Red.
+
+35.     Which of the following statements is TRUE of ultra-
+        violet, visible and infra-red rays?
+        A.        They are all electromagnetic waves with
+                  the same wavelength.
+        B.        Ultra-violet rays have shorter wvelenghts
+                  than infra-red rays and produce
+                  fluorescence.
+        C.        Infra-red rays have shorter wavelength
+                  than visible light and produce the
+                  sensation of heat.
+        D.        The wavelengths increase in the
+                  sequence: visible, ultra-violet, infra-red.
+
+
+
+      White
+
+36.
+
+      object
+                E          F        G
+
+
+        E, F and G are yellow, red and cyan transparent
+        light filters respectively. The colour of a white
+41.
+
+                      R                 X
+     41
+
+            A
+
+
+                            E
+          In the circuit above, the ammeter reads a current of
+          3 amps. When R is 5 ohms and reads 6 amps when
+          R is 2 ohms. The value of the unknown resistance
+          X is
+          A.        1                 B.       2
+          C.        3                 D.       4
+
+42.       Which of the following combinations of 2 ìF
+          capacitors will give an effective capacitance of 3
+          ìF across terminal XY?
+
+
+
+
+43.       A household refrigerator is rated 200 watts. If
+          electricity costs 5k per kWh, what is the cost of
+          operating it fo 20 days?
+          A.            N 4:80       B.          N 48:00
+          C.         N 480:00        D        N 4 800:00
+
+44.       Which of the following instruments consumes the
+          highest current?
+                             Voltage          Power
+          Instrument         Rating          Rating
+A.        Electric iron      250V            1kW
+B.        Television set     220V            110W
+C.        Torch light          6V            30W
+D.        Immersion
+          heater             110V            500W
+
+45.       Which of the following ammeters may be used to
+          measures alternating current?
+          I       Moving-coil ammeter
+
+                                                                 686
+                                            Physic
+1.   Which of the following is a set of vectors?
+     A.      Force, mass and moment
+     B.      Acceleration, velocity and moment
+     C.      Mass, weight and density
+     D.      Mass, volume and density
+
+2.   The magnitude of the resultant of two mutually
+     perpendicular forces, F1 and F2 is 13N. If the
+     magnitude of F1 is 5N, what is the magnitude of
+     F2?
+     A.       2.6 N           B.        8.0 N
+     C.      12.0 N           D.       18.0 N
+
+3.   Two points on a velocity-time graph have co-
+     ordinates (5s, 10m s-1) and (20s, 20m s-1). Calculate
+     the mean acceleration n between the two points.
+     A.       0.67m s-1           B.       0.83m s-2
+                      -2
+     C.       1.50m s             D.       2.00m s-2
+
+4.
+
+
+                         diagram
+
+
+      p              q      r                      s
+
+
+
+
+     The figure above shows a uniform circular object,
+     centre R and diameter PS. A circular section, centre
+     Q and diameter PR is cut away from it. If PQRS is a
+     straight line, where is the centre of gravity of the
+     figure?
+     A.        Q                 B.        R
+     C.        A point between P and R
+     D.        A point between R and S.
+
+5.   Which of the following graphs represents motion
+     with uniform velocity?
+9.    A block-and-tackle system is used to lift a load of
+      20N through a vertical height of 10cm. If the
+      efficiency of the system is 40%, how much work is
+      done against friction?
+      A.         80J               B.      120J
+      C.       300J                D.      500J
+
+10.
+
+
+
+
+      In the figure above, W1 = 200g and W2 = 450g.
+      Calculate the extension of the spring per unit load.
+      [g = 10m s-2]
+      A.       6.0 x 10-5m N-1
+      B.       2.5 x 10-4m N-1
+      C.       6.0 x 10-4m N-1
+      D.       2.5 x 10-2m N-1
+
+11.   Which of the following devices are used to measure
+      pressure?
+      I       Aneroid barometer
+      II      Hydrometer
+      III     Hygrometer
+      IV      Manometer.
+      A.      I and III          B.        II and III
+      C.      III and IV         D.        I and IV.
+
+12.   A piece of wood of mass 40g and uniform cross-
+      sectional area of 2cm2 floats upright in water. The
+      length of the wood immersed is
+      A.       80cm              B.       40cm
+      C.       20cm               D.         2cm
+
+13.   The pressure on the gas of constant gas
+      thermometer at the ice point is 325mm of mercury
+      and at the steam point 875mm of mercury. Find the
+      temperature when the pressure of the gas is 190mm
+      of mercury.
+
+      A.        30k
+      B.       243k
+      C.       300k                                                1
+      D.       303k
+
+14.   A column of air 10.0cm long is trapped in a tube at
+      270C. What is the length of the volume at 1000C?
+
+      A.       12.4cm
+      B.       13.7cm
+      C.       18.5cm
+
+                                                             688
+20.
+
+
+
+
+         The air column as shown in the figure above is set
+         into vibration by the turning fork. In this state of
+         resonance, the waves in the air column will be
+         A.       Stationary and transverse
+         B.       Stationary and longitudinal
+         C.       Progressive and transverse
+         D.       Progressive and longitudinal.
+
+21.      When the tension in a sonometer wire is doubled,
+         the waves in the air column will be
+         A.      1/ 2               B.       ½
+         C.      2                  D.       2
+
+22.      In a sound wave in air, the adjacent rarefactions
+         and compressions are separated by a distance of
+         17cm. If the velocity of the sound wave is 340ms-1,
+         determine the frequency.
+         A.          10 Hz            B.         20 Hz
+         C.       1 000 Hz            D.      5 780 Hz
+
+23.      In which of the following diagrams is the length of
+         the tube equal to one wavelength?
+
+23.                        diagram
+
+
+
+
+24.      Light of wavelength 5000 x 10-8cm travels in free
+space with a velocity of 3 x 108m s-1. What is its
+wavelength in glass of refractive index 1.5?
+         A.       3 333 x 10-8cm
+         B.       5 000 x 10-8cm
+         C.       6 666 x 10-8cm
+         D.       7 500 x 10-8cm
+      A.   Carry the same magnitude and sign of charge.
+      B.   Are at the same potential.
+      C.   Are at the same temperature.
+      D.   Are of the same size.
+
+33.   When a number of identical small magnets are
+      arranged in a line, the strength of the resultant
+      magnet
+      A.      Is largest when they are arranged end to
+              end
+      B.      Is greatest when they are arranged
+              parallel with like poles adjacent to each
+              other.
+      C.      Depends only on the number of magnets
+              provided they are parallel.
+      D.      Is greater when the magnets are arranged
+              on a wooden surface than on a metal
+              surface.
+
+34.   A bar magnet is most effectively demagnetized by
+      A. Placing it in a N – 5 position and hitting it with
+          a hammer.
+      B. Subjecting it to an electric current from a
+          battery
+      C. Bringing its north pole in contact with the
+          north pole of a very strong magnet
+      D. Heating the magnet.
+
+35.   The resistance of a 5m uniform wire of cross-
+      sectional area 0.2 x 10-6m2 is 0.425. What is the
+      resistivity of the material of the wire?
+      A.        1.10 x 10-6 Ohms m
+      B.        4.25 x 10-6 Ohms m
+      C.        2.40 x 10-7 Ohms m
+      D.        1.70 x 10-8 Ohms m
+
+36.   Three resistors, with substances 250Ohms
+      500Ohms and 1 kOhms are connected in series. A
+      6V battery is connected to either end of the
+      combination. Calculate the potential difference
+      between the ends of the 250Ohms resistor.
+      A.      0.20V             B.      0.86V
+      C.      1.71V             D.      3.43V.
+
+37.   A calibrated potentiometer is used to measure the
+      e.m.f. of a cell because the
+      A. Internal resistance of a cell is small compared
+          with that of the potentiometer.
+      B. Potentiometer has a linear scale.
+      C. Potentiometer takes no current from the cell
+      D. Resistance of the potentiometer is less than
+          that of a voltmeter.
+
+
+
+
+                                                              690
+41.
+
+
+
+
+      The total power drawn from the cell in the circuit
+      diagram above is
+      A.       12W             B.        24W
+      C.       32W             D.        40W
+
+42.   Which of the following correctly represents the
+      relationship between the temperature rise è and
+      the current l in and experiment to illustrate the
+      beating effect of the electric current?
+
+
+
+
+43.   An ammeter of resistance 0.1 ohms has a full-
+      scale     deflection of 50 mA. Determine the
+      resultant full-scale deflection of the meter when
+      a shunt of 0.0111Ohms is connected across its
+      terminals.
+      A.        400 mA             B.        450 mA
+      C.        500 mA             D.        550 mA.
+
+44.   The electrochemical equivalent of silver is 0.0012g/
+      C. If 36.0g of silver is to be deposited by electrolysis
+      on a surface by passing a steady current for 5.0
+      minutes, the current must be
+      A.        6 000 A               B.        100 A
+      C.           10 A               D.           1A
+
+45.
+
+
+
+
+      The figure above shows a conductor PQ carrying
+      a current I in the direction shown. At a particular
+      position near the conductor is a compass needle
+      K. Neglecting the earth’s magnetic field, the
+      compass needle will
+                                            Physics
+.1.
+
+
+
+
+      What is the reading of the vernier scale above?
+      A.       1.88 cm           B.       1.80 cm
+      C.       1.28 cm           D.      1.97 mm
+
+2.    Which of the following is a fundamental unit?
+      A.      Newton             B.      Watt
+      C.      Joule              D.      Second
+
+
+
+3.
+
+
+
+
+      Two horizontal forces, 10N and 8N and another
+      force F, inclined at 300 to the vertical acting as
+      shown in the diagram above, keep the body P in
+      equilibrium. The weight of the body is
+
+      A.        23 N
+                 3
+      B.       3N
+      C.        43 N
+                 3
+      D.       23N
+
+4.    A car moving with a speed of 90km h was brought
+      uniformly to rest by the application of the brakes
+      in 10s. How far did the car travel after the brakes
+      were applied?
+      A.       125 m             B.         150 m
+      C.       250 m             D.          15 km
+
+5.    A particle of mass M which is at rest splits up into
+      two. If the mass and velocity of one of the particles
+      are m and v respectively, calculate the velocity of
+      the second particle.
+
+
+                                                              692
+      A force of 5N acts at a point Y on a rod XYZ as
+      shown in the diagram above. If XY is 2m, what is
+      the moment of the force about point X?
+      A.       0Nm              B.        3Nm
+      C.       7Nm              D.       10Nm.
+
+9.    To keep a vehicle moving at a constant speed v,
+      requires power P, from the engine. The force
+      provided by the engine is
+      A.        P             B. 1/2v
+               v
+      C.       pv             D. p/v2
+      D.        P
+               V2
+10.   A stone of mass m kg is held h meters above the
+      floor for 50s. The work done in joules over the
+      period is
+      A.        mh             B.       mgh
+      C.        mgh/50         D. 0
+
+11.   A body of mass 10kg rests on a rough inclined
+      plane whose angle of tilt è is variable. is gradually
+      increased until the body starts to slide down the
+      plane at 300. The coefficient of limiting friction
+      between the body and the plane is
+      A.       0.30               B.        0.50
+      C.       0.58                D.       0.87.
+
+12.   An inclined plane which makes an angle of 300
+      with the horizontal has a velocity ratio of
+      A.       2                 B.         1
+      C.       0.866             D.         0.50.
+
+13.   What is the length of the liquid column in a
+      barometer tube that would support an atmospheric
+      pressure of 102000 Nm-2 if the density of the liquid
+      is 2600 kgm-3? [g = 10 ms-2].
+      A.        0.75m            B.        0.76m
+      C.        3.92m             D.     39.23m.
+
+14.   40cm3 of liquid is mixed with 60m3 of another liquid
+      Q. If the density of P and Q are 1.00kg m3 and 1.6kg
+      m3 respectively, what is the density of the mixture?
+      A.         0.05 kg m-3        B.      1.25 kg m-3
+                             -3
+      C.         1.30 kg m          D.      1.36 kg m-3
+
+15.   The resistances of a platinum wire at the ice and
+      steam points are 0.75 ohm and 1.05 ohm
+      respectively. Determine the temperature at which
+      the resistance of the wire is 0.90 ohm
+      A.        43.00C              B.      50.00C
+                    0
+      C.        69.9 C              D.      87.00C
+
+16.   A bar of initial length l0 is heated through a
+      temperature change Ä t to a new length l. The
+      linear expansivity, á, of the bar is
+       B.       The frequency of the wave is decreased
+                while the wavelength is increased.
+       C.       The frequency of the wave is unaltered
+                while the wavelength is decreased.
+       D.       The frequency of the wave is decreased
+                while the wavelength is unaltered.
+
+23.    Shadows and eclipse result from the
+       A.     Refraction of light
+       B.     Rectilinear propagation of light
+       C.     Defraction of light
+       D.     Reflection of light
+
+24.     An object which is 3cm high is placed vertically
+       10cm in front of a concave mirror. If this object
+       produces an image 40cm from the mirror, the height
+       of the image is
+       A.        0.75 cm         B.        4.00 cm
+       C.        8.00 cm         D.       12.00 cm
+
+25.    A boy looks at the image of an object in a plane
+      mirror. He observes two images, a main bright one
+      and the other faint. The observed images result
+      from
+      A.        Reflection only
+      B.        Refraction only
+      C.        Diffraction and interference
+      D.        Reflection and infraction.
+26.   Which of the following diagrams correctly illustrates
+      the path of a ray light through a glass prism?
+
+
+
+
+27.   What must be the distance between an object
+      and a converging lens of focal length 20cm to
+      produce an erect image two times the object
+      height?
+      A.       20cm              B.       15cm
+      C.       10cm              D.        5cm
+
+28.    Which of the following correctly represents the
+       diagram for locating the image P of an object O in
+       a lens if F is the focal point of the lens?
+
+
+
+
+                                                              694
+      A.       I and IV only       B.     I and II only
+      C.       I, II and II only   D.     I, II, III and IV.
+
+36.   Which of the following is a vector?
+      A.      Electric charge
+      B.      Electric field
+      C.      Electric potential difference
+      D.      Electric capacitance.
+
+37.   Three cells each of e.m.f. 1.5V and an internal
+      resistance of 1.0 Ohms are connected in parallel
+      across a load resistance at 2.67 Ohms. Calculate
+      the current in the load?
+      A.       0.26A             B.      0.41A
+      C.       0.50A             D.      0.79A.
+
+38.   When a known standard resistor of 2.0 Ohms is
+      connected to the 0.0cm end of a meter bridge the
+      balance point is found to be 55.0cm. what is the
+      value of the unknown resistor?
+      A.        1.10 Ohms        B.       1.64 Ohms
+      C.        2.44 Ohms        D.      27.50 Ohms
+
+39.   The total energy required to send a unit positive
+      charge round a complete electrical circuit is the
+      A.       Kinetic energy
+      B.       Potential difference
+      C.       Electromotive force
+      D.       Electrical energy
+40.   Which of the following graphs of current against
+      voltage illustrates Ohm’s law?
+                v                    v
+
+
+                         I                    I
+
+
+               v                          v
+
+
+                        I                          I
+41.   Which of the following is an essential physical
+      property of the wires used for making fuses?
+      A.       Low density
+      B.       High thermal conductivity
+      C.       Low electrical resistivity
+      D.       Low melting point.
+
+42.   Which of the following is most suitable for
+      protecting the circuit of a 2000W electric iron
+      connected to a 250V mains?
+      A.       13A               B.     8A
+      C.        5A               D.     3A
+43.   Electrical power is transmitted at a high voltage
+      rather than low voltage because the amount of
+      energy loss is reduced due to
+     D.        Photographic plate.
+                                              Physics
+
+1.   Which of the following is the most suitable for use
+     as an altimeter?
+     A.        A mercury barometer
+     B.        A fortin barometer
+     C.        A mercury manometer
+     D.        An aneroid barometer.
+
+2.   A body of weight W N rests on a smooth plane
+     inclined at an angle Q0 to the horizontal. What is
+     the resolved part of the weight in newtons along
+     the plane?
+     A.       W sin Q           B.        W cosQ
+     C.       W secQ             D.       W tanQ
+
+3.   A small metal ball is trown vertically upwards from
+     the top of a tower with an initial velocity of 20ms-1. If
+     the ball took a total of 6s to reach ground level,
+     determine the height of the tower.
+     A.         60m                B.          80m
+     C.        100m                D.         120m
+
+4.   An object moves with uniform speed round a circle.
+     Its acceleration has
+     A. Constant magnitude and constant direction.
+     B. Constant magnitude and varying direction.
+     C. Varying magnitude and constant direction
+     D. Varying magnitude and varying direction.
+
+5.   A body of mass 100g moving with a velocity of
+     10.0 ms-1 collides with a wall. If after the collision,
+     it moves with a velocity of 2.0ms-1 in the opposite
+     direction, calculate the change in momentum.
+     A.         0.8Ns            B.          1.2Ns
+     C.       12.0Ns             D.         80.0Ns
+
+
+
+
+6.
+                                             T2
+                                    o
+                               30
+      T1
+
+
+
+
+                           10kg
+
+
+
+
+                                                                 696
+11.   The spiral spring of a spring balance is 25.0cm
+      long when 5N hangs on it and 30.0cm long, when
+      the weight is 10N. What is the length of the spring
+      if the weight is 3N assuming Hooke’s Law is
+      obeyed?
+      A.       15.0 cm           B.       17.0 cm
+      C.       20.0 cm           D.       23.0cm
+
+12.   The mass of a stone is 15.0g when completely
+      immersed in water and 10.0g when completely
+      immersed in a liquid of relative density 2.0. The
+      mass of the stone in air is
+      A.        5.0g              B.     12.0g
+      C.       20.0g              D.     25.0g
+
+13.   A pilot records the atmospheric pressure outside
+      his plane as 63cm of Hg while a ground observer
+      records a reading of 75cm of Hg for the atmosphe
+      pressure on the ground. Assuming that the density
+      of the atmosphere is constant, calculate the height
+      of the plane above the ground. (Relative density
+      of Hg = 13.0 and that of air = 0.00013)
+      A.        1 200 m             B.       6 300 m
+      C.        7 500 m             D.      12 800 m
+
+14.   In which of the following is surface tension
+      important?
+      A.      The floating of a ship in water
+      B.      The floating of a dry needle in water
+      C.      The floating of a balloon in air
+      D.      The diffusion of a sugar solution across
+              membrane.
+
+15.   A thermometer with an arbitrary scale, S, of equal
+      divisions registers –300S at the ice point and +900S
+      at the steam point. Calculate the Celsius
+      temperature corresponding to 600S.
+      A.       25.00C             B.        50.00C
+      C.       66.70C             D.        75.00C
+
+16.   A brass rod is 2m long at a certain temperature.
+      What is the length for a temperature rise of 100K,
+      if the expansivity of brass is 18 x 10-6 K-1?
+      A.        2.0036m             B.        2.0018m
+      B.        2.1800m             D.        2.0360m
+17.   What is the difference in the amount of heat given
+      out by 4kg of steam and 4kg of water when both
+      are cooled from 1000C to 800C?
+      [The specific latent heat of steam is 2,260,000J kg1,
+      specific heat capacity of water is 4200J kg-1 K-1]
+      A.            4,200J          B.        2,260,000J
+      C.        9,040,000J          D.        9,380,000J
+
+18.   The graphs below show the variation of volume
+      (V) against temperature (T) in Kelvin for a given
+      mass of gas at constant pressure. Which of the
+      graphs depicts the behaviour of an ideal gas?
+25.   The image in pin-hole camera is
+      A.      Erect and formed by refraction through a
+              lens
+      B.      Virtual and formed by dispersion
+      C.      Erect and gets sharper as the hole
+              becomes larger
+      D.      Inverted and formed by the light from
+              each point traveling in a straight line.
+
+26.   When a plane mirror at which a ray is incident is
+      rotated through an angle Q, the reflected ray will
+      be rotated through
+      A.        ½Q              B.        Q
+      C.        2Q              D.        3Q
+
+27.   A trough 12.0cm deep is filled with water of
+      refractive index 4/3. By how much would a coin at
+      the bottom of the trough appear to be displaced
+      when viewed vertically from above the water
+      surface?
+      A.         3.0cm           B.       6.0cm
+      C.         9.0cm           D.      16.0cm
+
+28.   In a ray diagram for a thin converging lens, a ray
+      that is not parallel to the optic axis but passes
+      through the optic center will
+      A.       Pass through undeviated
+      B.       Pass through the center of curvature after
+               refraction
+      C.       Emerge parallel to the principal axis
+      D.       Pass through the principal focus after
+               refraction.
+
+29.   Which of the following correctly describes the
+      image of an object, 4cm from a diverging lens of
+      focal length –12cm?
+      A. The image is virtual, 3cm in front of the lens
+      B. The image is real, 6cm behind the lens
+      C. The image is virtual, 6cm in front of the lens
+      D. The image is real, 3cm in front of the lens.
+
+30.   Two tuning forks of frequencies 256Hz and 260 Hz
+      are sounded close to each other. What is the
+      frequency of the beats produced?
+      A.        2 Hz
+      B.        4 Hz
+      C.        8 Hz
+      D.      258 Hz
+
+31.   A man hears his echo from a nearby hill 2s after he
+      shouted. If the frequency of his voice is 260 Hz
+      and the wavelength is 1.29m, how far away is the
+      hill?
+      A.       330.0m            B.      335.4m
+      C.       660.0m            D.      670.8m
+
+
+
+                                                            698
+37.         A moving coil galvanometer of 300 Ohms
+            resistance gives full scale deflection for 1.0mA.
+            The resistance, R, of the shunt that is required to
+            convert the galvanometer into a 3.0A ammeter is
+            A.       899.70Ohms
+            B.        10.00 Ohms
+            C.         0.10 Ohms
+            D.         0.01 Ohms
+38.         Which of the following obeys Ohm’s Law?
+                   A.         Glass        B. Diode
+            C.     All electrolytes D.       All metals.
+
+39.
+
+
+
+
+            The net capacitance in the circuit shown above is
+            A.       8.0 uF            B.        6.0 uF
+            C.       4.0 uF            D.        2.0 uF
+      40.
+.
+
+
+
+
+            In the above circuit, the fuse wire melts when
+            A.       K is opened
+            B.       K is closed
+            C.       The 14 – Ohms resistor is doubled with K
+                     closed
+            D.       The 6 – Ohms resistor is doubled with K
+                     closed.
+41.         An equipment whose power is 1500W and
+            resistance is 375 ohms would draw a current of
+            A.       0.10A            B.      2.00A
+            C.       4.00A            D.      77.5A.
+42.         To convert an alternating current dynamo into a
+            direct current dynamo, the
+            A.       Number of turns in the coil is increased
+            B.       Strength of the field magnetic is increased
+            C.       Slip rings are replaced with a split ring
+                     commutator
+            D.       Coil is wound on a soft iron armature.
+50.   Which of the following phenomena is called
+      photoelectric effect?
+      A.       High energy electrons impinge on a
+      metallic anode which then emits photons
+      B.       A high energy photon emits photons as
+               it is slowed down
+
+
+
+                                             Physics
+1.    What is the least possible error in using rule
+      graduated in centimeters?
+      A.      0.1cm             B.     0.5cm
+      C.      1.0cm             D.     2.0cm
+
+2.    Which of the following affects the period of a simple
+      pendulum?
+      I       Mass of the pendulum bob
+      II      Length of the pendulum
+      III     Acceleration due to gravity.
+
+      A.       I, II and III
+      B.       II and II only
+      C.       I and III only
+      D.       I and II only.
+
+3.    A boy sits in a train moving with uniform speed on
+      a straight track. If from his outstretched palm he
+      gently tosses a coin vertically upwards, the coin
+      will fall
+      A.        In front of his palm
+      B.        Behind his palm
+      C.        Beside his palm
+      D.        Into his palm
+
+4.    A body starts from rest and moves with uniform
+      acceleration of 6 ms-2. What distance does it cover
+      in the third second?
+      A.        15m             B.        18m
+      C.        27m             D.        30m
+5.    A stone, Q is thrown with velocity u at an angle of
+      750 to the horizontal. Another stone R is thrown
+      with the same velocity u but at an angle of 150 to
+      the horizontal. The ranges covered by the stones
+      will be
+      A.       Greater for Q     B.        Greater for R
+      C.       The same for Q and R
+      D.       Greater for heavier of the stones
+
+6.    A man weighting 800N climbs up a flight of stairs
+      to a height of 15m in 12.5s. What is the man’s
+      average power output?
+      A.          667W         B.          810W
+      C.          960W         D.      15 000W
+
+                                                              700
+      B.        m1g
+                ms
+      C.        m2
+                m1
+      D.        m2g
+                m1
+
+9.    A machine requires 1000J of work to raise a load of
+      500N through a vertical distance of 1.5m. Calculate
+      the efficiency of the machine.
+      A.        80%              B.         75%
+      C.        50%               D.        33%
+
+10.   In an experiment to determine Young’s Modulus
+      for a wire, several; loads are attached to the wire
+      and the corresponding extensions measured. The
+      tensile stress in each case depends on the
+      A.        Load and the extension
+      B.        Load and the raiud of the wire
+      C.        Radius of the wire and the extension
+      D.        Extension and the original length of the
+                wire.
+
+11.
+
+
+
+
+      The figure above shows the height of two liquids
+      X and y when some air is sucked out of the
+      apparatus through the pump P. the diameter of the
+      tube in X is twice that of the Y. What is the relative
+      density of the liquid X with respect to liquid Y?
+      A.       1/3                  B.       2/3
+      C.       3                    D.       6
+
+12.   If a plastic sphere floats in water (density = 1000kg
+      m-3) with 0.5 of its volume submerged and floats in
+      oil with 0.4 volume submerged, the density of the
+      oil is
+      A.           800 kg m-3        B.       1 200 kg m-3
+                             -3
+      C.         1 250 kg m          D.       2 000 kg m-3
+
+13.   A platinum resistance thermometer wire has a
+      resistance of 5 ohms at 00C and 5.5 ohms at 100.
+      Calculate the temperature of the wire when the
+      resistance is 5.2 ohms
+      A.       800C             B.       600C
+                   0
+      C.       40 C              D.      100C
+22.   A note is the octave of another note if it has
+      A.       A frequency twice that of the first note
+      B.       Frequency half that of the first note
+      C.       The same frequency as the first one
+      D.       A frequency eight times that of the first
+               note.
+
+23.   What is the frequency of the sound made by a
+      siren having a disc with 32 holes and making 25
+      revolutions per second?
+      A.          80 Hz          B.         600 Hz
+      C.        800 Hz           D.       1 600 Hz
+
+24.   Which of the following properties make the convex
+      mirror useful as a driving mirror?
+      I        The image is real
+      II       The image is erect
+      III      It has a wide field of view
+      IV       The image is magnified
+
+      A.        I, II and IV        B.        I, II and III
+      C.        II and III          D.        I and III.
+
+25.   When an object is placed very close to the pole of
+      a concave mirror, the virtual image obtained is
+      A.      Diminished and upright
+      B.      Diminished and inverted
+      C.      Enlarged and inverted
+      D.      Enlarged and upright.
+
+26.   A concave mirror has a radius of curvature of 36cm.
+      At what distance from the mirror should an object
+      be placed to give a real image three times the ize of
+      the object?
+      A.        12 cm             B.          24 cm
+      C.        48 cm             D.         108 cm
+
+27.   Which of the following statements is CORRECT
+      about a long-sighted boy who does not put on
+      glasses?
+      A. He cannot see distance objects clearly
+      B. Rays of light from a close objects are focused
+          in front of his retina
+      C. His eyeball is too long
+      D. Parallel rays of light are focused behind his
+          retina.
+
+28.   The speed of light in air is 3 x 108 m s-1. What is the
+      peed in glass with a refractive index of 1.50?
+      A.       1.5 x 108 m s-1      B.        3.0 x 108 m s-1
+                       8     -1
+      C.       2.0 x 10 m s         D.        6.0 x 108 m s-1.
+
+29.   If the refractive index of a medium in air is 2.0, what
+      is the critical angle for this medium?
+      A.         300                 B.       420
+                    0
+      C.         45                  D.       500
+
+
+                                                                 702
+36.   A wire of length 15m made of a material of resistivity
+      1.8 x 10-6 ohms-m has a resistance of 0.27 ohms.
+      Determine the area of the wire
+      A.        1.5 x 10-4 m2    B.        1.0 x 10-4 m2
+                        -5 2
+      C.        2.7 x 10 m       D.        7.3 x 10-5 m2
+
+37.   The diagram above shows a meter bridge in which
+      two of the arms contain resistances R and 2 ohms.
+      A balance point is obtained at 60cm from the left
+      end. Calculate the value of R.
+      A.       1.2 Ohms           B.       1.3 Ohms
+      C.       3.0 Ohms           D.       6.0 Ohms
+
+38.
+
+
+
+
+      The circuit diagram above contains four ammeter
+      W, X, Y and Z. Which of the following statements
+      about the ammeter reading is correct?
+      A.       The reading of W is equal to that of Y
+               and twice that of X.
+      B.       The reading of y is greater than that of Z
+      C.       The readings of W and Y are equal and
+               each is greater than that of X.
+      D.       The reading of Z is equal to the sum of
+               the readings of W and Y.
+
+39.   A 5-V battery is connected across the plates of a
+      2.0 ìF unchanged parallel plate capacitor. The
+      charge on the capacitor after a long time is
+      A.        1.5 uC           B.        10.0 uC
+      C.       20.0 uC           D.        50.0 uC
+
+40.   Which of the following apparatus will require the
+      smallest fuse rating for its protection?
+      A.       60W, 240V           B.       60W, 40V
+      C.       40W, 12V            D.       40W, 5V
+
+
+
+
+41.   A capacitor of 10 ìF is connected across a cell of
+      related by
+      A.       I0 = Irms/ 2
+      B.       Irms = I0/ 2
+      C.       Irms = 1/ I0 2
+      D.       I0 = 1/Irms 2
+
+47.   Which of the following graphs correctly illustrates
+      the number of remaining atoms during a radioactive
+      decay.
+
+
+
+
+                                           Physics
+1.    Which of the following quantities has the same
+      unit as the watt?
+      A.        Force x time
+      B.        Force x distance
+      C.        Force x acceleration
+      D.        Force x velocity
+
+2.    The external and internal diameters of a tube are
+      measured as (32 ± 2)mm and (21 ± 1) mm
+      respectively. Determine the percentage error in the
+      thickness of the tube.
+      A.       27                 B.      14%
+      C.         9%               D.       3%
+
+3.
+
+
+
+
+      The diagram above shows a velocity – time graph
+      representing the motion of a car. Find the total
+
+
+                                                            704
+8.    Which of the following correctly describe the
+      energy changes in the generation of light by a
+      hydroelectric power station?
+      A.      Electrical       mechanical       potential
+                   light.
+      B.      Potential        mechanical      electrical
+                        light.
+      C.      Mechanical        sound     electrical
+                     light
+      D.      Kinetic      mechanical       electrical
+                        light.
+
+9.    A plane inclined at angle è has a velocity ratio of
+      10 : 1. The inclination of the plane to the horizontal
+      is given by
+
+      A.       tan Q = 1/10
+      B.       cot Q = 1/10
+      C.       cos Q= 1/10
+      D.       sin Q= 1/10
+
+10.   A weightless vessel of dimensions 4m x 3m x 2m is
+      filled with a liquid of density 1000 kgm-3 and sealed.
+      What is the maximum pressure this contain can
+      exert on a flat surface?
+      [g = 10 ms-2]
+      A.        9 x 104 Nm-2         B.      4 x 104 Nm-2
+                       4    -2
+      C.        3 x 10 Nm            D.      2 x 104 Nm-2
+
+11.
+
+
+
+
+      In the figure above the weight X is held in position
+      by pulling the rope KLM in the direction LM.
+      Which of the following diagrams shows the force
+      acting at point L
+      Which of the following graphs best illustrates the
+      change in temperature during the process?
+
+
+
+
+19.   The melting point of a solid is given at 800C. if 105J
+      of heat energy is required at this temperature to
+      melt 10g of the solid, the specific latent heat of
+      fusion of the solid is
+      A.       1.00 x 103 J kg-1
+      B.       1.25 x 105 J kg-1
+      C.       1.00 x 107 J kg-1
+      D.       8.00 x 108 J kg-1
+
+      Use the figure below which shows a stationary
+      wave in a closed tube to answer questions 20 and
+      21.
+
+
+
+
+20.   The relationship between L and the wavelength ë
+      of the stationary wave is
+      A.        2L=
+      B.        L=
+      C.        L = /3
+      D.        4L = 3
+
+21.   Determine the distance between the consecutive
+      antinodes XX if the wavelength is 66cm.
+      A.        15 cm           B.        30cm
+      C.        60cm            D.       120cm
+
+22.   Which of the following waves can propagate
+      through a vacuum?
+      A.       High velocity sound waves
+      B.       Ultrasonic waves
+
+                                                               706
+27.   If the focal length of a camera lens is 20cm, the
+      distance from the film at which the lens must be
+      set to produce a sharp image of an object 100cm
+      away is
+      A.        17cm             B.        20cm
+      C.        25cm             D.      100cm
+
+28.   Which of the following may be used to explain a
+      mirage?
+       I      Layers of air near the road surface have
+              varying refractive indices in hot weather
+      II      Road surfaces sometimes becomes good
+              reflectors in hot weather.
+      III     Light from the sky can be reflected
+              upwards after coming close to the road
+              surface.
+
+      A.       II only
+      B.       II and III only
+      C.       I and III only
+      D.       I, II and III.
+
+29.   A beam of light is incident from air to, water at an
+      angle 300, Find the angle of refraction if the
+      refractive index of water is 4/3.
+      A.       150                  B.       180
+                   0
+      C.       22                   D.       240
+30.   The property of the eye known as its power of
+      accommodation is controlled by the
+      A.       Pupil     B.         Vitreous humour
+      C.       Iris      D.         Ciliary muscles
+
+31.   Which of the following correctly explains(s) why
+      a green leaf appears green in bright daylight?
+      I        It absorbs only the green component of
+               sunlight.
+      II       It absorbs all colours in sunlight except
+               green.
+      III      It reflects only the green component of
+               sunlight.
+      A.       I only
+      B.       II only
+      C.       I and III only
+      D.       II and III only.
+
+32.   A field that results from the contact of a positively
+      charged ball with the inner wall of an uncharged
+      hollow conducting sphere is
+      A.        Inside the sphere
+      B.        On the surface of the ball
+      C.        Inside and outside the sphere
+      D.        Outside the sphere.
+
+33.   A horizontal component of the earth’s magnetic
+      field and the magnetic field of a straight wire X
+      carries current into the plane of a paper. Which of
+      the following figures correctly illustrates the
+38.
+
+
+
+
+      The current 1 in the figure above is
+      A.      4.00A              B.        1.30A
+      C.      0.80A               D.       0.75A
+
+39.   A current of 100mA passes through a conductor
+      for 2 minutes. The quantity of electricity
+      transported is
+      A. 200C                 B.        50C
+      C.    12C               D.      0.02C
+
+40.   A parallel plate capacitor of area 10cm2 in vacuum
+      has a capacitance of 10-2uF. What is the distance
+      between the plates?
+      (S0= 9 x 10-12 Fm )
+      A.       9 x 10-13 m        B.        9 x 107 m
+      C.       9 x 10-3 m         D.        9 x 107 m
+
+41.
+
+
+
+
+      In the network shown above, determine the
+      potential difference across the 5ìF capacitor.
+      A.        3V                B.        6V
+      C.       12V                D.       18V
+
+42.   A 40-W instrument has a resistance of 90 ohms.
+      On what voltage should it be operated normally?
+      A.        60V             B.        150V
+      C.       225V             D.       3600V
+
+43.   Which of the following devices may be used to
+      set u p the voltage in d.c. circuit?
+      A.        A step-up tranformer
+      B.        A d.c. generator
+      C.        A wattmeter
+      D.        An induction coil.
+
+                                                           708
+                                           Physic
+1.   1cm                            2cm
+
+
+
+
+                    5cm
+
+
+
+
+     What is the reading of the vernier capilers shown
+     above?
+     A.       1.79 cm           B.       1.73 cm
+     C.       1.39 cm           D.       1.34 cm
+
+2.   If it takes 5.0 hours to drain a container of 540.0
+     cm3 of water, what is the flow rate of water from the
+     container in kgs-1?
+     A.        32.5               B.        31.5
+     C.        30.8               D.        30.0
+                         (Density of water = 100 kgm-3)
+
+3.   A boat travels due east at a speed of 40 ms-1. What
+     is the resultant speed of the boat?
+     A.        1.3 ms-1          B.        10.0ms-1
+                        -1
+     C.        50.0 ms            D.       70.0 ms-1
+
+4.   An object is projected with velocity of 80 ms-1 at
+     an angle of 30o to the horizontal. The maximum
+     height reached is
+     A.        20 m            B.         80 m
+     C.       160 m             D.       320 m
+
+5.   A motor vehicle is brought to rest from a speed of
+     15 ms-1 in 20 seconds. Calculate the retardation.
+     A.       0.75 ms-2         B.        1.33 ms-2
+                      -2
+     C.       5.00 ms           D.        7.50 ms-2
+
+6.   Which of the following is TRUE of a particle moving
+     in a horizontal circle with constant angular
+     velocity?
+     A.       The energy is constant but the linear
+              momentum varies
+     B.       The linear momentum is constant but the
+              energy varies.
+     C.       Both energy and linear momentum are
+              constant.
+     D.       The speed and the linear velocity are both
+              constant.
+11.   Calculate the magnitude of the force required to
+      just move a 20 kg object along a horizontal surface
+      if the coefficient of friction is 0.2
+      A.        400.0 N              B.     40.0 N
+      C.           4.0 N             D.      0.4 N
+
+12.   Calculate the velocity ratio of a screw jack of pitch
+      0.3 cm if the length of the tommy bar is 21 cm.
+      A.        1
+               140
+      B.         14
+      C.         70
+      D.         140
+
+13.   Which of the following graphs correctly represents
+      the relationship between the load and the velocity
+      ratio of a machine?
+
+
+
+
+14.   A spring of length 25 cm is extended to 30 cm by a
+      load of 150 N attached to one of its ends. What is
+      the energy stored in the spring?
+      A.       3750 J             B.       2500 J
+      C.       3.75 J             D.       2.50 J
+
+
+15.
+
+
+
+
+      In the diagram above, if the atmospheric pressure
+      is 760 mm, the pressure in the chamber G is
+      A.        660mm            B.      690mm
+      C.        830mm            D.      860mm
+
+                                                              710
+22.   When 100 g of liquid L1 at 78oC was mixed Xg of
+      liquid L2at 50oC, the final temperature was 66oC.
+      Given that the specific heat capacity of L2 is half
+      that of L1, find X.
+      A.         50 g             B.      100 g
+      C.        150 g             D.      200 g
+
+23.   A volume of water is heated from 0oC to 15oC. Which
+      of the following diagrams correctly represents the
+      variation of the volume with temperature?
+
+
+
+
+.
+
+
+
+
+24.   Heat is supplied to a test tube containing 100 g of
+      ice at its melting point. The ice melts completely in
+      1 min. what is the power rating of the source of
+      heat?
+      A.         336 W              B.       450 W
+      C.         560 W              D.       600 W
+                  (Latent heat of fusion of ice = 336 Jg-1)
+
+25.   If a room is saturated with water vapour, the
+      temperature of the room must be
+      A.       at 00C
+      B.       above the dew point
+      C.       at 1000C
+      D.       below or at the dew point.
+
+26.   Which of the following graphs represents the
+      variation of pressure P against volume V at
+      constant temperature?
+34.   Light of frequency 6.0 x 1014 Hz traveling in air is
+      transmitted through glass of refractive index 1.5.
+      Calculate the frequency of the light in the glass.
+      A.       4.0 x 1014 Hz
+      B.       6.0 x 1014 Hz
+      C.       7.5 x 1014 Hz
+      D.       9.0 x 1014 Hz
+
+35.   An object is placed in front of a converging lens
+      of focal length 200 cm. The image is virtual and
+      has a magnification of 2. what is the distance of
+      the object from the lens?
+
+      A.        5 cm               B.       10 cm
+      C.       30 cm               D.       40 cm
+
+36.   An object is placed directly below a glass block of
+      thickness 3.0 cm. Calculate the lateral displacement
+      of the object if the refractive index of the glass is
+      1.5
+      A.       1.0 cm              B.       1.5 cm
+      C.       2.0 cm              D.       2.5 cm
+
+37.   In a projection lantern of focal length ƒ, the object
+      distance u, is such that
+      A.        u > 2ƒ > ƒ
+      B.        u < ƒ < 2ƒ
+      C.        u = ƒ < 2ƒ
+      D.        ƒ < u < 2ƒ
+
+38.   If the Nigerian flag (green, white, green) is viewed
+      in pure yellow light, which of the following set of
+      colours would be observed on the flag?
+      A.        Green, yellow, green
+      B.        Red, yellow, red.
+      C.        Black, yellow, black.
+      D.        Green, white, green.
+
+
+
+39.   Which of the figures below illustrates the
+      dispersion of white light through a triangular glass
+      prism?
+
+
+
+
+                                                              712
+45.
+
+
+
+
+      In the circuit diagram above, calculate the current
+      in the 12 – Ohms resistor if the cell has an e.m.f. of
+      12V and an internal resistance of 1 ohms.
+      A.        0.8 A              B.        1.0 A
+      C.        1.6 A              D.        2.4 A
+
+
+46.   Which of the following are found in the receiver
+      but not in the microphone of a telephone handset?
+           I Diaphragm
+           II Soft iron ole pieces.
+           III Permanent magnet.
+           IV Carbon blocks
+      A.        I and II
+      B.        I and IV.
+      C.        II and III
+      D.        III and IV.
+
+
+47.   If two parallel conductors carry currents flowing
+      in the same direction, the conductors will
+      A.       Attract each other
+      B.       Repel each other
+      C.       Both move in the same direction
+      D.       Have no effect on each other.
+
+
+
+48.   A certain radioisotope of 235 U emits
+                                  92
+      four alpha particles and three beta particles. The
+      mass number and the atomic number of the
+      resulting element respectively are
+      A.       219 and 87
+      B.        84 and 223
+      C.       223 and 87
+      D.       219 and 81
+                                          Physics
+1.   Which of the following is the dimension of
+     pressure?
+     A.      ML-1T-2          B.      MLT-2
+     C.      ML2T-3           D.      ML-3
+
+2.   The length of a displaced pendulum bob which
+     passes its lowest point twice every second is
+     A.        0.25m             B.       0.45m
+     C.        0.58m             D.       1.00m
+                                 [g = 10ms-2]
+
+3.
+
+
+
+
+     In the diagram above, P, Q and R are vectors. Which
+     of the following options gives the correct
+     relationship between the vectors?
+
+     A.       P=Q+R             B.        P=Q–R
+     C.       P = R– Q          D.        P+ Q+R=0
+
+4.
+
+
+
+
+     The value of T in the figure above is
+     A.      10.0 N             B.        11.8 N
+     C.      20.0 N             D.        40.0 N
+
+
+
+
+                                                           714
+10.   A uniform rod PQ of length 1m and mass 2kg is
+      pivoted at the end P. If a load of 14N is placed at
+      the centre of the rod, find the force that should be
+      applied vertically upwards at Q to maintain the rod
+      in equilibrium horizontally.
+      A.        68 N               B.       28 N
+      C.        17 N               D.        7N
+      [g = 10 ms-2]
+
+
+11.   A vehicle of mass m is driven by an engine of
+      power P from rest. Find the minimum time it will
+      take to acquire a speed v.
+      A.       mv2
+                 P
+      B.       mv2
+                2P
+      C.        mv
+                 P
+      D.       mv
+                2P
+
+12.
+
+
+
+
+      A box of mass 40 kg is being dragged along the
+      floor by a rope inclined at 600 to the horizontal.
+      The frictional force between the box and the floor
+      is 100N and the tension on the rope is 300N. How
+      much work is done in dragging the box through a
+      distance of 4m?
+      A.       680 J             B.       400 J
+      C.       200 J             D.       100 J
+
+13.   Which of the following statements are TRUE about
+      frictional force?
+      I         It is always a disadvantage
+      II        It is sometimes a disadvantage
+      III       It always exists where there is a relative
+                motion of two bodies that are in contact.
+      IV        It is sometimes very useful.
+
+14.   The energy contained in a wire when it is extended
+      by 0.02m by a force of 500 N is
+      A.        5J               B.       10 J
+      C.      103 J              D.      104 J
+20.   A piece of wood floats inside water at room
+      temperature with a fraction of it above the liquid
+      surface. As the temperature of the water is raised,
+
+      the part of the wood above the density of liquid
+      will
+      A. Decrease because the density of water
+           decreases with temperature.
+      B. Increases because the density of water
+           decreases with temperature.
+      C. Decreases because the density of water
+           increases with temperature
+      D. Increase because the density of water
+           increases with temperature.
+
+21.   The equation PxVyTz = constant is Charles’ law
+      when
+      A.      x = 1, y = -1, z = 1
+      B.      x = 0, y = 1, z = -1
+      C.      x = 1, y = 0, z = -1
+      D.      x = 0, y = 1, z = 1.
+
+22.   An electric kettle with negligible heat capacity is
+      rated at 2000 W. If 2.0kg of water is put in it, how
+      long will it take the temperature of water to rise
+      from 200C to 1000C?
+      A.        420s              B.        336s
+      C.        168s              D.         84s.
+      [specific heat capacity of water = 4200 J kg-1 K-1].
+
+23.   A temperature scale has a lower fixed point of 40mm
+      and an upper fixed point of 200mm. What is the
+      reading on this scale when a thermometer read
+      600C?
+      A.       33.3 mm            B.         36.0 mm
+      C.       96.0 mm            D.       136.0 mm
+
+24.   A quantity of ice at -100C is heated until the
+      temperature of the heating vessel is 900C. Which
+      of the following constant is NOT required to the
+      vessel?
+      A.       Specific heat capacity of ice
+      B.       Specific heat capacity of water
+      C.       Specific latent heat of fusion
+      D.       Specific latent heat of vaporization.
+
+25.   Which of the following statements give ‘the TRUE
+      differences between evaporation and boiling
+      I        Evaporation occurs at all temperatures
+               while boiling occurs at a fixed temperature
+               for a given pressure.
+      II       Evaporation is a surface phenomenon
+               while boiling is an interior phenomenon.
+      III      Evaporation is affected by surface areas
+               which boiling is not.
+
+      A.       I and II only
+
+                                                             716
+33.   What is the approximate critical angle for total
+      internal reflection for diamond if the refractive
+      index of diamond is 2.42?
+      A.        210              B.      220
+                  0
+      C.        23               D.       240
+
+34.   Which of the graphs represents the relationship
+      between m and v for a converging mirror?
+
+
+
+
+35.   A real object is placed at a distance u cm in front of
+      a curved mirror of focal length fcm. If the image is
+      upright and magnified, then the mirror is
+      A.       Convex and u = 2f
+      B.       Concave and u= 2f
+                                   f
+      C.       Convex and u = 2
+                                     f
+      D.       Concave and u = 2
+
+36.   Which of the following pairs of colours gives the
+      widest separation in the spectrum of white light?
+      A.       Red and violet
+      B.       Green and yellow
+      C.       Red and indigo
+      D.       Yellow and violet.
+
+37.   Two parallel plates at a distance of 8.0 x 10-3m apart
+      are maintained at p.d. of 600 volts with the negative
+      plate earthed. What is the electric field strength?
+      A.           4.8 Vm-1
+      B.          75.0 Vm-1
+      C.        4800.0 Vm-1
+      D.       7,5000.0 Vm-1
+
+38.   At different locations on the earth’s surface, the
+      earth’s magnetic field is
+      A. The same in magnitude and direction
+      B. The same in magnitude but different in
+           direction
+      C. Different in both magnitude and direction
+      D. Different in magnitude but not in direction.
+
+39.   If a resistance if halved in value and the potential
+      difference across it is tripled, then the ratio of the
+      new current to the old is
+      A.         1:6               B.        1:3
+      C.         2:1               D.        6:1
+      C.      2.00 W             D.        0.25 W
+46.   Which of the following is required to convert a
+      milliammeter to an ammeter?
+      A.      A high resistance in parallel
+      B.      A high resistance in series
+      C.      A low resistance in parallel
+      D.      A low resistance in series.
+
+47.   The primary winding of a transformer has 400 turns
+      and its secondary has 100 turns. If a source of
+      e.m.f. of 12V is applied to the primary, the secondary
+      e.m.f. will be
+      A.          3V                 B.         6V
+      C.         24 V                D.        48 V
+
+48.   An alternating source is connected in series to a
+      capacitor of capacity reactanceof 103 3 and
+      resistor of a resistance 103 Ohms. The impedance
+      of the circuit is
+      A.        2000 3Ohms
+
+
+                                             Physics
+
+1.    At what respective values of X, Y and Z would
+      the unit of force, the Newton, be dimensionally
+      equivalent to MxLyTz?
+      A.        -1, 1, 2
+      B.         1, 2, -2
+      C.         1, -1, 2
+      D.        -1, 1, -2
+
+2.    The distance xm traveled by a particle in time t
+      seconds is described by the equation x = 10 + 12t².
+      Find the average speed of the particle between the
+      time interval t =2s and t = 5s.
+      A.        60 ms-1            B.       72 ms-1
+      C.        84 ms  -1          D.     108 ms-1
+
+3.    A 5kg block is released from rest on a smooth plane
+      inclined at an angle of 30o to the horizontal.
+      What is its acceleration down the plane?
+      A.        5.0 ms-2          B.          5.8 ms-2
+      C.        8.7  ms -2        D.         25.0 ms-2
+                                             [g = 10 ms-2]
+
+4.    An arrow of mass 0.1kg moving with a horizontal
+      velocity of 15 ms-1 is shot into a wooden block
+      of mass 0.4 kg lying at rest on a smooth
+      horizontal surface. Their common velocity after
+      impact is
+      A.        15.0 ms-1         B.       7.5 ms-1
+      C.         3.8 ms -1        D.        3.0ms-1
+
+
+
+                                                               718
+the ratio of the gravitational force experienced by the
+          planets.
+          A.        1: 5              B.       2 :5
+          C.        3: 5              D.       4 :5
+
+9.
+
+
+
+
+For what value of Q are the forces in the diagram above in
+equilibrium?
+          A.      15o               B.        30o
+                    o
+          C.      45                D.        60o
+
+10.
+
+
+
+
+         The figure above shows a block of mass m
+         sliding down a rough inclined plane QP at angle
+         Q. The forces acting on the block along the
+         plane QP are
+         A.       mg sin Q and the normal reaction
+         B.       mg sin Q and the force of friction
+         C.       mg cos Q and the normal reaction
+         D.       mg cos Q and the force of friction.
+
+11.
+
+
+
+
+         A uniform light bean XZ is hinged at X and kept in
+         equilibrium by the forces T and F as shown in the
+         diagram above. If XO = 20 cm and OY = 30cm,
+         express T in terms of F.
+
+A.       T = 2 3F
+               3
+B.       T = 2F
+17.   A piece of wire guaze can be made to lie on water
+      because
+      A.       the wire guaze is less dense than water
+      B.       the water molecules repel the wire guaze
+               upwards.
+      C.       the water surface has the effect of an
+               elastic thin skin
+      D.       of the cohesive forces between the
+               water and the wire guaze molecules.
+
+18.   A liquid of mass 1.0 X 103 kg fills rectangular tank
+      of length 2.5 m and width 2.0 m. If the tank is 4 m
+      high, what is the pressure at the middle of the tank?
+      A.       1.0 X 104 Nm-2
+      B.       2.0 X 103 Nm-2
+      C.       1.5 X 103 Nm-2
+      D.       1.0 X 103 Nm-2 (g = 10m/52)
+
+19.   An empty 60 litre petrol tank has a mass of 10 kg. It
+      mass when full of fuel of relative density 0.72 is
+      A.      7.2 k               B.       33.2 kg
+      C.      43.2 k              D.       53.2 kg
+
+20.   The length of mercury thread when it is at 0oC,
+      100oC and at an unknown temperature è is 25 mm,
+      225mm and 174mm respectively. The value of is
+      A.      85.0oC           B.      80.0oC
+                   o
+      C.      75.0 C           D.      70.0oC
+
+21.   Equal masses of copper and rubber are raised to
+      the same temperature. After sometimes, the copper
+      was observed to be at a lower temperature because
+      A.       the specific heat capacity of copper is
+               lower than that of rubber
+      B.       copper expands more than rubber
+      C.       the specific heat capacity of rubber is
+               lower than that of copper
+      D.       rubber expands more than copper.
+
+22.   Before starting a journey, the tyre pressure of a car
+      was 3 X 105 Nm-2 at 27oC. At the end of the journey,
+      the pressure rose to 4 X 105 Nm-2. Calculate the
+      temperature of the tyre after the journey assuming
+      the volume is constant.
+      A.       400oC               B.        300oC
+                   o
+      C.       273 C               D.        127oC
+
+23.   A mass of a liquid at 300oC is mixed with a mass of
+      the same liquid at 70oC and the temperature of the
+      mixture is 45oC. Find the ratio of the mass of the
+      cold liquid to the mass of the other liquid.
+      A.       3: 5                B.        5 :3
+      C.       3: 7                D.       7 :3
+
+24.   A heating coil rated at 1000 W is used to boil off
+      0.5 kg of boiling water. The time taken to boil off
+      the water is
+
+                                                              720
+28.   Ripples on water and light waves are similar
+      because both
+      A.       have the same frequency
+      B.       can be refracted and diffracted
+      C.       are longitudinal waves
+      D.       have the same velocity.
+
+29.   Under constant tension and constant mass per
+      unit length, the note produced by a plucked string
+      is 500 Hz when the length of the string is 0.90 m. At
+      what length is the frequency 150 Hz?
+      A.       3m                B.          4m
+      C.       5m                D.          6m
+
+30.   The colours seen in thin films of oil on the road
+      and in soap bubbles are due to
+      A.       Reflection         B.        Interference
+      C.       Diffraction        D.       Polarization.
+
+
+
+
+31.
+
+
+
+
+      The diagram above shows two waveforms P and
+      Q at a particular instant of time. The two waves
+      will interfere
+      A.        destructively to produce a wave of a
+                larger amplitude
+      B.        destructively to produce a wave of a
+                smaller amplitude
+      C.        constructively to produce a wave of a
+                larger amplitude
+      D.        constructively to produce a wave of a
+                smaller amplitude.
+
+32.   If the load at the end of a sonometer wire is
+      immersed in a bucket of water, the original
+      fundamental frequency of the wire could be
+      restored by
+      A.       decreasing the length of the wire
+      B.       increasing the length of the wire
+      C.       increasing the mass per unit of the wire
+      D.       changing the temperature of the water.
+38.
+
+
+
+
+                  In the diagram above, which of the anglesQ1, Q2,
+                  Q3, and Q4 is the angle of deviation of a ray of light
+                  through the glass prism, XYZ?
+                  A.        Q3                 B.       Q2
+                  C.        Q1                 D.       Q4
+
+
+          39. Which of the figures below showed the correct
+              distribution of charges on an isolated positively
+              charged hollow metal?
+
+A.            +           +                             +
+                                   +       C.                    +
+      +       +               +                 +
+          +                            +                               +
+                                   +            +
+       +                               +
+      +                       +                                        +
+                      +        +
+              +                                     +            +
+                      +                                      +
+
+                                                                  ++
+B.                                         D.           ++       ++
+                  +        +                            ++
+              +
+                                   +
+          +
+                               +
+              +
+                      ++
+
+
+
+
+40.               Three electric cells each of e.m.f. 1.5V and internal
+                  resistance 1.0 Ohms are connected in parallel
+                  across an external resistance of T Ohms!. Calculate
+                  the value of the current in the resistor.
+                  A.       0.5 A               B.        0.9 A
+                  C.       1.5 A                D.       4.5 A
+
+41.               A galvanometer of internal resistance 50 Ohms has
+                  a full scale deflection for current of 5 mA. What is
+                  the resistance required to convert it to a voltmeter
+                  with full scale deflection of 10V?
+                  A.        1 750 Ohms          B.       1 950 Ohms
+                  C.        2 000 Ohms          D.       2 500 Ohms
+
+42.               If 8 X 10-2 J of work is required to move 100 ìC of
+                  charge from a point X to a point Y in an electrical
+                  circuit, the potential difference between X and Y
+                  if
+                  A.         4.0 X 102 V        B.     4.0 X 104 V
+                                     2
+                  C.         8.0 X 10 V         D.     8.0 X 104 V
+
+43.               In a metre bridge experiment, two resistors 2 &!
+                  and 3 Ohms occupy the left and right gaps
+
+
+
+                                                                           722
+                                            Physic
+1.   The physical quantity that has the same
+     dimensions as impulse is
+     A.      Energy             B.        Momentum
+     C.      Surface tension D.           Pressure.
+
+2.   A ball is moving at 18ms-1 in a direction inclined
+     at 600 to the horizontal. The horizontal
+     component of its velocity is
+     A.        9 3ms-1           B.       6 3ms-1
+     C.        6 3ms-1           D.       9ms-1
+
+3.
+
+
+
+
+     A body on the ground is acted on by a force of
+     10N at a point P as shown in the diagram above.
+     What force is needed to stop the body from moving
+     eastward?
+     A.      5N in the direction of East
+     B.      5N in the direction of West
+     C.      5"3N in the direction of West.
+     D.      10N in the Southwest direction.
+
+4.   In free fall, a body of mass 1kg drops from a height
+     of 125m from rest in 5s. How long will it take another
+     body of mass 2kg to fall from rest from the same
+     height?
+     A.          55               B.         105
+     C.          125               D.        155
+                                   (g = 10ms-2)
+
+5.   A ball of mass 0.15kg is kicked against a rigid
+     vertical wall with a horizontal velocity of 50ms-1,
+     calculate the impulse of the ball on the wall.
+     A.         3.0Ns            B.         4.5Ns
+     C.         7.5Ns            D.        12.0Ns
+
+6.   The force of attraction between two point masses
+     is 10-4N when the distance between them is 0.18m.
+     If the distance is reduced to 0.06m, calculate the
+     force.
+     A.        1.1 x 10-5N       B.     3.3 x 10-5N
+                        -4
+     C.        3.0 x 10 N        D.     9.0 x 10-4N
+12.   In a wheel and axle mechanism, the diameters of
+      the wheel and axle are 40cm and 8cm respectively.
+      Given that the machine is 80% efficient, what effort
+      is required to lift a load of 100N?
+      A.        20 N                 B.    25 N
+      C.        50 N                 D.    80 N
+
+13.   The tendon in a man’s leg is 0.01m long. If a force
+      of 5N stretches the tendon by 2.0 x 10-5m, calculate
+      the strain on the muscle.
+      A.        5 x 106           B.       5 x 102
+                      -3
+      C.        2 x 10            D.       2 x 10-7
+
+14.   Which of these statements are correct for the
+      pressures in liquids?
+      I        Pressure in a liquid at a point acts equally
+               in all directions
+      II       Pressure increases with depth
+      III      Pressure at a depth depends on the shape
+               of the container.
+      IV       Pressures at the same depth in different
+               liquids are proportional to the densities
+               of the liquids.
+
+      A.       I, II and III only
+      B.       I, II and IV only
+      C.       I, III and Iv only
+      D.       II, III and IV only.
+
+15.   The atmospheric pressure due to water is 1.3 x 106
+      Nm-2. What is the total pressure at the bottom of
+      an ocean 10m deep?
+      A.      1.3 x 107 Nm-2     B.       1.4 x 106 Nm-2
+                      5    -2
+      C.      1.4 x 10 Nm        D.       1.0 x 105 Nm-2
+
+16.   A solid of weight 0.600N is totally immersed in oil
+      and water respectively. If the upthrust in oil is
+      0.210N and the relative density of oil is 0.875 find
+      the upthrust in water.
+      A.       0.6000N           B.          0.360N
+      C.         0.240N          D.          0.180N
+
+17.   A platinum resistance thermometer records 3.0Ù
+      at 00C and 8.0 Ù at 1000C. If it records 6.0Ù in a
+      certain environment, the temperature of the medium
+      is
+      A.        800C              B.       600C
+      C.        500C              D.       300C
+
+18.   The linear expansivity of brass is 2 x 10-5C-1. If the
+      volume of a piece of brass is 15.00 cm3 at 00C, what
+      is the volume at 1000C?
+      A.        16.03cm3           B.       16.00cm3
+      C.        15.09cm3           D.       15.03cm3
+
+19.   A gas has a volume of 100cm3 at 270C. If it is heated
+      to temperature T until a final volume of 120cm3 is
+
+                                                               724
+26.      In a closed organ pipe producing a musical note,
+         an antinode will always be produced at
+         A.       The closed end
+         B.       The open end
+         C.       The middle
+         D.       All the parts of the pipe.
+
+27.      A steel wire of length 0.50m is stretched between
+         two fixed points and its fundamental frequency is
+         200Hz. The speed of the wave in the wire is
+         A.       100 ms-1           B.       120 ms-1
+                          -1
+         C.       200 ms             D.       250 ms-1
+
+28.      In a resonance tube experiment, if the fundamental
+         frequency of the vibrating air column is 280Hz, the
+         frequency of the third overtones is
+         A.         70Hz B.            840Hz
+         C.       1 120Hz D.          1 960Hz
+
+29.      An object O lies at a distance m in front of a
+         concave mirror of the focal length f. If m<f, then
+         the final image obtained will be
+         A.         Virtual and diminished
+         B.         Magnified and erect
+         C.         Real and inverted
+         D.         Diminished and erect.
+
+30.      An object is placed in front of two plane mirrors
+         inclined at an angle è0. If the total number of images
+         formed is 7, find the value of è?
+         A.        300                  B.       450
+                      0
+         C.        51                   D.        900
+
+31.      The most suitable type of mirror used for the
+         construction of a searchlight is the
+         A.       Concave mirror
+         B.       Convex mirror
+         C.       Spherical mirror
+         D.       Parabolic mirror.
+
+32.      The displacement d produced in a glass block of
+         thickness t and refractive index n when an object
+         is viewed through it is
+         A.       t–n                B.      t(1 + 1/n )
+         C.       t(1 – 1/ )         D.      t(1/ – 1)
+                          n                        n
+
+
+33. The correct shape of the graph of uv against
+         (u + v) for an object distance u and image distance
+         v in n experiment to find the focal length of a convex
+         lens is given as
+40.
+
+
+
+
+      The total resistance measured at PQ in the diagram
+      above is
+      A.        18.0 Ohms         B.       11.0 Ohms
+      C.         4.0 Ohms         D.        2.0 Ohms
+
+41.   Find the work done in moving a 2C charges between
+      two points X and Y in an electric field if the
+      potential difference is 100 volts.
+      A.         50J               B.     100J
+      C.        200J               D.     400J
+
+42.   A parallel capacitor has a common plate area of 5 x
+      10-8m-2 and plate separation of 2 x 103m. Assuming
+      free space, what is the capacitance?
+      A.       2.25 x 10-17F
+      B.       4.50 x 10-17F
+      C.       2.25 x 10-16F
+      D.       4.50 x 10-16F
+
+43.   The iron core of an induction coil is made from
+      bundles of wires so as to
+      A.       Minimize eddy-currents
+      B.       Generate eddy-currents
+      C.       Prevent sparking at the contact breaker
+      D.       Get the greatest possible secondary
+               voltage.
+
+44.   Electricity is supplied to a school along a cable of
+      total resistance 0.5 Ù with the maximum current
+      drawn from the mains as 100A. the maximum energy
+      dissipated as heat for 1hr is
+      A.        3.6 x 103J         B.       5.0 x 103J
+                        5
+      C.        3.0 x 10 J         D.       1.8 x 107J
+
+45.
+
+
+
+
+      In the a.c. circuit diagram above, the resonance
+      frequency is
+
+
+                                                             726
+                                            Physic
+1.   A car of mass 800kg attains a speed of 25ms-1 in 20
+     seconds. The power developed in the energy is
+     A.       1.25 x 104 W      B.       2.50 x 104W
+                       6
+     C.       1.25 x 10 W       D.       2.50 x 106 W
+
+2.   A lead bullet of mass 0.05kg is fired with a velocity
+     of 200ms-1 into a lead block of mass 0.95 kg. Given
+     that the lead block can move freely, the final kinetic
+     energy after impact is
+     A.          50 J            B.        100 J
+     C.         150 J            D.        200 J
+
+3.   A ball of mass 0.1kg is thrown vertically upwards
+     with a speed of 10 ms-1 from the top of a tower 10m
+     high. Neglecting air resistance, its total energy just
+     before hitting the ground is
+     A.        5J                B.         10 J
+     C.        15 J              D.         20 J
+                                 [g = 10ms-2].
+
+4.
+
+
+
+
+     The figure above represents a frictionless pulley
+     system in which a weight W is in equilibrium with
+     a weight of 40N. Find the value of W
+     A.       13.1 N            B.       20.0 N
+     C.       40.0 N            D.       80.0 N
+
+5.
+
+
+
+
+     The diagram above shows a solid figure with base
+     PQ and centre gravity G on an inclined plane.
+     Which of the following statements is correct?
+     A.      The solid will fall over if the vertical line
+             through G lies outside the base.
+     B.      The solid will fall over if the vertical line
+             through G lines inside the base.
+     C.      The solid will not fall over if the vertical
+             line through G lies outside the base.
+     D.      The solid can never fall over.
+      substance on hitting the ground when all its
+      energies are converted into heat.
+      A.       2/90C              B.       4/90C
+                  0
+      C.       9/4 C              D.       9/20C
+                                  [g = 10 ms-2].
+
+12.
+
+
+
+
+      The diagram above shows a lift pump with valves
+      at P and Q. during a downward stroke of the piston,
+      A.       Both valves are open
+      B.       P is open while Q is closed
+      C.       P is closed while Q is open
+      D.       Both valves are closed.
+
+13.
+
+
+
+
+      In the J – tube above, Y and X are on the same
+      horizontal level and 30cm3 of air is trapped above
+      Y when the atmospheric pressure is 75cm Hg.
+      Calculate the volume of air trapped above Y when
+      15cm Hg is now poured into the limb above X.
+      A.       15 cm3            B.        25 cm3
+                     3
+      C.       35 cm             D.        45 cm3
+
+14.   If the stress on a wire is 107 Nm-2 and the wire is
+      stretched from its original length of 10.00cm to 10.05
+      cm. The young’s modulus of the wire is
+      A.        5.0 x 104 Nm-2       B.        5.0 x 105 Nm-2
+                         8    -2
+      C.        2.0 x 10 Nm          D.        2.0 x 109 Nm-2
+
+15.   A solid weights 10.0N in air, 6.0 N when fully
+      immersed in water and 7.0 N when fully immersed
+      in a certain liquid X. Calculate the relative density
+      of the liquid.
+      A.        5/3               B.         4/3
+      C.        ¾                 D.         7/10
+
+
+                                                                728
+      therefore form a
+      A. Concave mirror of focal length 5 cm
+      B. Concave mirror of focal length 5 cm
+      C. Convex mirror of focal length 5 cm
+      D. Convex mirror of focal length 20cm.
+
+23.   The equation of a wave traveling along the positive
+      x-direction is given by y = 0.25 x 10-3 sin (500 t –
+      0.025 x). Determine the angular frequency of the
+      wave motion,
+      A.       0.25 x 10-3 rad s-1
+      B.       0.25 x 10-1rad s-1
+      C.       5.00 x 102rad s-1
+      D.       2.50 x 102rad s-1
+
+24.   Calculate the mass of ice that would melt when
+      2kg of copper is quickly transferred from boiling
+      water to a block of ice without heat loss
+      A.       8/33kg              B.       33/80kg
+      C.       80/33kg             D.       33/8kg
+      [Specific heat capacity of copper = 400 J kg-1 K-1;
+      Latent heat of fussion of ice = 3.3 x 105 J kg-1]
+
+25.
+
+
+
+
+      The diagram above represents a transverse
+      electromagnetic wave traveling with speed 3.0 x
+      108ms-1. What is the frequency of the wave?
+      A.       3.0 x 107 Hz
+      B.       90 x 107 Hz
+      C.       1.0 x 109 Hz
+      D.       3.0 x 109 Hz
+
+27.   The temperature gradient across a copper rod of
+      thickness 0.02m, maintained a two temperature
+      junctions of 200C and 800C respectively is
+      A.       3.0 x 102Km-1     B.       3.0 x 103Km-1
+                       3   -1
+      C.       5.0 x 10 Km       D.       3.0 x 104Km-1
+
+28.
+
+
+
+
+      The diagram above show a magnet X with its South
+      pole moved along a soft-iron bar PQ in the direction
+33.
+                                                                       3
+
+
+
+
+        The diagram above shows the prism arrangement
+        in a
+        A.      Binocular       B.       Spectrometer
+        C.      Penscope        D.       Projector
+
+  34.   The velocities of flight air and glass are 3.0 x 108ms
+        and 2.0 x 108ms-1 respectively. If the angle of
+        refraction is 300, the sine of the angle of incidence
+        is
+        A.       0.33                  B.       0.50
+        C.       0.67                  D.       0.75
+
+  35.
+
+
+
+
+        In the series a.c. circuit shown above, the p.d
+        across the inductor is 8Vr.m.s. The effective voltage
+        is
+        A.         2V               B.        10V
+        C.       14V                D.        48V
+
+  36.   The core of an efficient transfoemer should consist
+        of laminated pieces of metal in order to
+        A. Increase the heat produced by increasing the
+             eddy current
+        B. Increase the heat produced by reducing the
+             eddy current
+        C. Reduce the heat produced by increasing the
+             eddy current
+        D. Reduce the heat produced by reducing the
+             eddy current.
+
+  37.   In Fleming’s right-hand rule, the thumb, the
+        forefinger and the middle finger if held mutually at
+        right angles represent respectively, the
+
+        A.   Motion, the field and induced current
+        B.   Induced current, the motion and the field
+        C.   Fireld, the induced current and the motion
+        D.   Induced current, the field and the motion.
+
+
+
+                                                                 730
+43.        If      x is the uncertainty in the measurement of
+           the position of a particle along the x-axis and “Px is
+           the uncertainty in the measurement of the linear
+           momentum along the x-axis, then the uncertainty
+           principle relation is given as
+           A.           x Px >h
+           B.           x Px = 0
+           C.           x Px < h
+           D.          x Px = 00
+
+44.        Na + Proton       X + alpha particle. What are the
+           values of p and q respectively in the equation
+           above?
+           A.      10 and 20         B.        12 and 24
+           C.      20 and 10         D.        24 and 12.
+
+45.        A semi-conductor diode is used in rectifying
+           alternating current into direct current mainly
+           because it
+           A. Allows current to flow in either direction
+           B. Is non-linear
+           C. Offers a high input resistance
+           D. Allows current to flow only in one direction.
+
+46.        In semi-conductors, the carriers of current at room
+           temperature are
+           A.       Electrons only
+           B.       Electrons and holes
+           C.       Holes only
+           D.       Electrons and ions
+
+47.        What is the speed of a particle of mass 10-27kg
+           whose wavelength is 10-8m?
+           A.         6.63 ms-1        B.        66.30 ms-1
+           C.       663.00 ms-1        D.      6630.00 ms-1
+
+
+
+
+                                                  Physic
+      1.      A catapult used to hold a stone of mass 500g is
+             extended by 20cm with an applied force f. If the
+            stone leaves with a velocity of 40 ms-1, the value
+           of F is
+           A.       4.0 x 104 N        B.       4.0 x 103 N
+                            3
+           C.       2.0 x 10 N         D.       4.0 x 102 N
+
+2.         A hand bag containing some load weighting 162N
+           is carried by two students each holding the handle
+           of the bag next to him. If each handle is pulled at 60
+           to the vertical, find the force on each student’s
+           arm
+           A.        324 N              B.        162 N
+           C.        121 N              D.         81 N
+4.    When a ship sails from salt water into fresh water,
+      the friction of its volume above the water surface
+      will
+      A.        Remain the same
+      B.        Increase
+      C.        Decrease
+      D.        Increase then decrease.
+
+5.    A simple pendulum has a period of 17.0s. When
+      the length is shortened by 1.5m, its period is 8.5s.
+      Calculate the original length of the pendulum.
+      A.       1.5m               B.        2.0m
+      C.       3.0m               D.        3.0m
+
+6.    At a fixed point below a liquid surface, the pressure
+      downward is P1 and the pressure upward is P2. It
+      can be deduced that
+      A.        P =P               B.       P >P
+                 1    2                       1    2
+      C.       P1 < P2             D.        P1 > P2
+
+7.    I.     Its velocity is constant
+      II     No work is done on the body
+      III    It has constant acceleration away from
+             the center
+      IV     The centripetal force is directed towards
+             the center.
+      Which combination of the above is true of a body
+      moving with constant speed in a circular track?
+      A.     I and III          B.       I and IV
+      C.     II and III         D.       II and IV
+
+8.    The velocity v of a particle in a time t is given by
+      the equation v = 10+2t2. Find the instantaneous
+      acceleration after 5 seconds.
+      A.       10 ms-2            B.        15 ms-2
+      C.       20 ms-2            D.        60 ms-2
+
+9.    If the force and the velocity on a system are each
+      reduced simultaneously by half, the power of the
+      system is
+      A.        Doubled           B.        Constant
+      C.        Reduced to a quarter
+      D.        Reduced by half.
+
+10.   The velocity ratio of a machine is 5 its efficiency is
+      75%. What effort would be needed to lift a load of
+      150N with the machine?
+      A.      50 N                B.         40 N
+      C.      30 N                D.         20 N
+
+11.   A rope is being used to pull a mass of 10kg
+      vertically upward. Determine the tension in the rope
+      if, starting from resr, the mass acquires a velocity
+      of 4ms-1 in 8.
+      A.         105 N             B.        95 N
+      C.          50 N             D.        5N
+
+
+                                                               732
+18.   A sonometer wire is vibrating at frequency f0. If
+      the tension in the wire is doubled while the length
+      and the mass per unit length are kept constant, the
+      new frequency of vibration is
+      A.         f0
+                 2
+      B.        2 f0
+      C.         f0
+                  2
+      D.        f0 2
+
+19.   A boy observes a piece of stone at the bottom of a
+      river 6.0m deep. If he looks from the surface of the
+      river, what is the apparent distance of the stone
+      from him.
+      A.       4.5 m              B.       5.0 m
+      C.       5.5 m              D.       8.0 m
+
+20.   A metal of mass 0.5kg is heated to 1000C and then
+      transferred to a well-lagged calorimeter of heat
+      capacity 80J K-1 containing water of heat capacity
+      420JK-1 at 150C. If the final steady temperature of
+      the mixture is 250C, find the specific heat capacity
+      of the metal
+      A.        92 J kg –1 K-1     B.       133 J kg –1 K-1
+      C.       286 J kg –1 K-1     D.       887 J kg –1 K-1
+
+
+21.
+
+
+
+
+      The diagram above shows a maximum and minimum
+      thermometer divided into three portions P, Q and
+      R. Which of the following is true about the
+      respective contents of P, Q and R?
+      A.       Alcohol, mercury and alcohol
+      B.       Air, alcohol and mercury
+      C.       Mercury, alcohol and mercury
+      D.       Air, mercury and alcohol.
+22.   The main reason for making the cover of a vacuum
+      flask airtight is to prevent heat loss by
+      A.        Conduction         B.        Evaporation
+      C.        Radiation          D.        Convection
+23.   A travelling wave moving from left to right has an
+      amplitude of 0.15m, a frequency of 550Hz and a
+      wavelength of 0.01m. The equation describing the
+      wave is
+      A.       y = 0.15 8In 200 ð (x – 5.5t)
+      B.       y = 0.15 8In ð (0.01x – 5.5t)
+      C.       y = 0.15 8In 5.5 ð (x – 200t)
+      D.       y = 0.15 8Inð (550 x – 0.01t)
+30.
+
+
+
+
+      The diagram above shows two capacitors P and Q
+      of capacitances 5uF and 10 uF. Find the charges
+      stores in P and Q respectively.
+      A.        200 uC and 100 uC
+      B.        100 uC and 200 uC
+      C.        4 uC and 2 uC
+      D.        2 uC and 4 uC
+
+31.   What optical instrument can best be constructed
+      with converging lenses of focal lengths 500cm and
+      5cm?
+      A.      Compound microscope
+      B.      Terrestrial telescope
+      C.      Astronomical telescope
+      D.      Galileo’s telescope
+
+32.   If a charged ion goes through combined electric
+      and magnetic fields, the resultant emergent
+      velocity of the ion is
+      A.        E
+                B
+      B.       EB
+      C.        B
+                E
+      D.       E –B
+
+33.
+
+
+
+
+      In the diagram above, the values of V1 and V2 are
+      respectively
+
+      A.      1V and 1 V
+                         3
+      B.       1 V and 1V
+               3
+      C.       1 V and 2 V
+               3           3
+      D.      1V and 2 V
+                         3
+
+                                                          734
+41.   Light energy 5eV falls on a metal of work function
+      3 ev and electrons are liberated. The stopping
+      potential is
+      A.        15.0V            B.        8.0V
+      C.         2.0V            D.        1.7V
+
+42.   In the thermonuclear reaction, the total initial mass
+      is 5.02 x 10-27kg. The energy released in the process
+      is
+      A.        9.0 x 10-10J      B.        9.0 x 10-11J
+                        -12
+      C.        9.0 x 10 J        D.        9.0 x 10-13J
+
+43.   The magnetic flux in a coil having 200 turns changes
+      at the time rate of 0.08 Ws-1. The induced e.m.f. in
+      the coil is
+      A.           1.6V            B.         16.0V
+      C.          25.0V            D.       250.0V
+
+44.   If the frequency of an emitted x-rays is 1.6 x 1016
+      Hz, the accelerating potential is
+      A.           6.6 V          B.        66.3 V
+      C.         663.0 V          D.      6630.0 V
+
+45.
+
+
+
+
+      The correct position for a fuse in the diagram above
+      is
+      A.       S                    B.        Q
+      C.       P                    D.        Between P
+                                              and Q
+                                         Physics
+1.
+
+
+
+
+     In the diagram above, which of the simple pendulum
+     will resonate with P when set into oscillation?
+     A.        T                B.         U
+     C.        R and T          D.         Q and R
+
+2.   The height at which the atmosphere ceases to exist
+     is about 80km. If the atmospheric pressure on the
+     ground level is 760 mmHg, the pressure at a height
+     of 20km above the ground level is
+     A.       380 mmHg          B.      570 mmHg
+     C.       190 mmHg          D.      480 mmHg
+
+3.   A stone of mass 1 kg is dropped from a height of
+     10m above the ground and falls freely under
+     gravity. Its kinetic energy 5m above the ground is
+     then equal to
+     A.        Its kinetic energy on the ground
+     B.        Twice its initial potential energy
+     C.        Its initial potential energy
+     D.        Half its initial potential energy
+
+4.
+
+
+
+
+     The diagram above is a block-and-tackle pulley
+     system in which an effort of 80N is used to lift a
+     load of 240N. the efficiency of the machine is
+
+     A.       60%              B.        50%
+     C.       40%              D.        33%
+
+
+
+                                                          736
+11.     A ray of light strikes a plane mirror at an angle of
+        incidence of 350. If the mirror is rotated through
+        100, through what angle is the reflected ray rotated?
+        A.        700                B.       450
+                    0
+        C.        25                 D.       200
+
+12.     Find the frequencies of the first three harmonic of
+        a piano string of length 1.5m, if the velocity of the
+        waves on the string is 120ms-1.
+        A.       80 Hz, 80 Hz, 120 Hz
+        B.       80 Hz, 160 Hz, 240 Hz
+        C.       180 Hz, 360 Hz, 540 Hz
+        D.       360 Hz, 180 Hz, 90 Hz
+        E.
+13.     The terrestrial telescope has one extra lens more
+        than the astronomical telescope. The extra lens is
+        for
+        A.       Improving the sharpness
+        B.       Creating an inverted image
+        C.       Magnification of the image
+        D.       Erection of the image
+
+14.     The driving mirror of a car has a radius of curvature
+        of 1m. Avehicle behind the car is 4m from the mirror.
+        Find the image distance behind the mirror.
+        A. 8 B. 4 C. 9 D 4
+             7        9              2           7
+15.
+
+
+
+
+        If a ray traveling in air is incident on a transparent
+        medium as shown in the diagram, the refractive
+        index of the medium is given as
+                    A. Cos&                B. Sin&
+               Sin B                             SinB
+         C     Cos B                   D           SinB
+               Sin &                              Sin&
+
+The pressure of a mass of a gas changes from 300Nm-2 to
+120Nm-2 while the temperature drops from 1270C to -73oc.
+The ratio of the final volume to the initial volume is
+
+        A.       2:5                 B.        5;4
+        C.       5;2                 D.        4;5
+
+17.     A plane sound wave of frequency 85.5 Hz and
+        velocity 342 ms-1 is reflected from a vertical wall.
+      connected to a.d.c. source. The ratio of energy
+      stored in P to Q is
+      A.       4: 1               B.       2 :1
+      C.       1: 4               D.       1 :2
+
+24.   A resistance R is connected across the terminal of
+      an electric cell of internal resistance 2Ohms and
+      the voltage was reduced to 3/5 of its nominal value.
+      The value of R is
+      A.        3 Ohms             B.        2 Ohms
+      C.        1 Ohms             D.        6 Ohms
+
+25.
+
+
+
+
+      The diagram above shows three capacitors C1, C2
+      and C3 of capacitances 2ìF, 6 ìF and 3 ìF
+      respectively. The potential differences across C1,
+      C2 and C3 respectively are
+      A.       4V, 6V and 2V
+      B.       2V, 6V and 4V
+      C.       6V, 4V and 2V
+      D.       6V, 2V and 4V
+
+26.   A student is at a height 4m above the ground during
+      a thunderstorm. Given that the potential difference
+      between the thundercloud and the ground is 107V,
+      the electric field created by the storm is
+      A.       2.0 x 106NC-1       B.       2.5 x 106NC-1
+                         7   -1
+      C.       1.0 x 10 NC         D.       4.0 x 107NC-1
+
+27.   A working electric motor takes a current of 1.5A
+      when the p.d. across it is 250V. If its efficiency is
+      80%, the power output is
+      A.      300.0W              B.        469.0W
+      C.      133.0W              D.           4.8W
+
+28.   The cost of running five 60 W lamps and four 100W
+      lamps for 20 hours if electrical energy costs N10.00
+      per kWh is
+      A        N 280.00            B.       N 160.00
+      C.       N 120.00            D.       N 140.00
+
+29.   In a Daniel cell, the depolarize, positive and
+      negative electrodes are respectively
+      A.       Copper sulphate, copper and zinc
+      B.       Manganese dioxide, carbon and zinc
+
+                                                              738
+35.   What is the angle of dip at the magnetic equator?
+      A.        450               B.        00
+                   0
+      C.        90                D.     1800
+
+36.   A cell can supply currents of 0.4A and 0.2A through
+      a 4.0 Ohms and 10.0 Ohms resistors respectively.
+      The internal resistance of the cell is
+      A.        2.0 Ohms           B.        1.0 Ohms
+      C.        2.5 Ohms           D.        1.5 Ohms
+
+37.   Which of the following graphs correctly represents
+      the variation of mass of a given material deposited
+      with time for constant current in Faraday’s law of
+      electrolysis?
+
+
+
+
+38.
+
+
+
+
+      In the diagram above, determine the r.m.s. current
+      A.        31A              B.       48A
+      C.        60A              D.       80A
+
+39.   The particle emitted when 31 99 K decays to 31 99 K is
+      A.       Gamma           B.          Beta
+      C.       Electron        D.          Alpha
+
+40.   The current through a resistor in a.c. circuit is given
+      as 2 sin wt. Determine the d.c. equivalent of the
+      current
+      A. 1 . A
+                  2
+      B.       22A
+      C.       2A
+      E.         2A
+
+41.   I        Low pressure
+      II       High pressure
+      III      High potential difference
+      IV       Low potential difference
+            C.            1H
+                         64
+            D.           1H
+                        32
+            [ 2 = 10]
+
+50.         The magnetic force on a charged particle moving
+            with velocity v is
+            A.       Proportional to both the magnitude of the
+                     charge and the velocity
+
+
+
+
+                                                   Physics
+1.          Which of the following is the correct shape of the
+            velocity-time graph of a spherical steel ball dropped
+            into a viscous fluid in a tall cylinder?
+      V
+      m/s                             V
+                                      m/s
+
+
+
+
+                          t(s)
+                                                      t(s)
+
+       V                                V
+       m/s                              m/s
+
+
+
+
+                            t(s)                         t(s)
+
+2.          A particle in circular motion performs 30 oscillations
+            in 6 seconds. Its angular velocity is
+            A.           6 rad s-1        B.        5 rad s-1
+            C.        10 rad s-1          D.          5 rad s-1
+
+3.          A copper cube weights 0.25N in air, 0.17N when
+            completely immersed in paraffin oil and 0.15N when
+            completely immersed in water. The ratio of upthrust
+            in oil to upthrust in water is
+            A.        13 : 10            B.        7 : 10
+            C.         3:5                D.       4:5
+
+4.          The hydrostatic blood pressure difference between
+            the head and feet of a boy standing straight is
+            1.65 x 104 Nm-2. Find the height of the boy.
+            A.       1.5m               B.       2.0m
+            C.       0.6m               D.       0.5m
+            [Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]
+
+5.          If the total force acting on a particle is zero, the
+            linear momentum will
+            A.        Be constant        B.        Increase
+            C.        Increase then decrease
+            D.        Decrease
+
+
+                                                                     740
+10.
+
+
+
+
+      The diagram above shows the force (F) acting on
+      an object through a distance (x). The work done
+      on this object is expressed as
+      A.        FJ
+                x
+      B.       Fx2 J
+      C.        Fx J
+                2
+      D.       Fx J
+
+11.   A body weighting 80 N stands in an elevator that
+      is about to move. The force exerted by the floor on
+      the body as the elevator moves upwards with an
+      acceleration of 5ms-2 is
+      A.        120N             B.        40N
+      C.        160N             D.        80N
+      [g = 10ms-2]
+
+12.   Two forces each of 10N act on a body, one towards
+      north and the other towards the east. The
+      magnitude and the direction of the resultant force
+      are
+      A.         20N, 450 W      B.       10 2N, 450 W
+                         0
+      C.      10 2N, 45 E        D.         20N, 450 E
+
+13.   A ray of light which strikes a glass slab from air at
+      normal incidence passes through the slab
+      A. Undeviated and displaced at a faster speed
+      B. Undeviated and undisplaced at a lower speed
+      C. Deviated and undisplaced at a lower speed
+      D. Deviated and displaced at a lower speed.
+
+14.   Which of the following is a characteristic of
+      stationary waves?
+      A. The distance between two successive nodes
+           is one wavelength.
+      B. They are formed by two identical waves
+           traveling in opposite directions.
+      C. The antinode is a point minimum
+           displacement.
+      D. They can be transverse or longitudinal.
+
+15.   Which of the following eye defects can be
+      corrected using a cylindrical lens?
+24.   The colours seen in soap bubbles are due to
+      A.      Refraction        B.       Diffraction
+      C.      Interference      D.       Dispersion
+
+25.   The phenomenon that makes sound persist when
+      its source has been removed is known as
+      A.        Reverberation
+      B.        Acoustic vibration
+      C.        Rarefaction
+      D.        Echo
+
+26.   Vibrations in a stretched spring cannot be polarized
+      because they are
+      A.       Longitudinal wave
+      B.       Mechanical waves
+      C.       Stationery waves
+      D.       Transverse waves.
+
+27.   I.       Temperature
+      II       Density of air molecules
+      III      Pressure
+      IV       Pitch
+      Which of the above will affect the velocity of
+      sound air?
+      A.       I, II and IV only B.       I and II only
+      C.       I, II, III and IV D.       II and IV
+                                                only.
+28.   Water is poor thermometric liquid because it
+      A.       Wets glass
+      B.       Has low vapour pressure
+      C.       Is opaque
+      D.       Is a poor conductor
+29.   The time rate of loss of heat by a body is
+      proportional to the
+      A.       Temperature of its surroundings
+      B.       Difference in temperature between the
+               body and its surrounding
+      C.       Temperature of the body
+      D.       Ratio of the temperature of the body to
+               that of its surrounding.
+30.   An electric iron is rated 1 000 W, 230 V. What is the
+      resistance of its element?
+      A.       57.6 Ohms            B.       55.9 Ohms
+      C.       51.9 Ohms            D.       52.9 Ohms
+31.
+
+
+
+
+      The electric field between the two-point charges
+
+
+                                                              742
+38.
+
+
+
+
+      Calculate the refractive index of the material for
+      the glass prism in the diagram above.
+      A.         3
+                2
+      B.         4
+                 3
+      C.          2
+                2
+      D.           2
+
+39.   The particle that is responsible for nuclear fission
+      in a nuclear reactor is
+      A.       Electron            B.       Neutron
+      C.       Photon              D.       Proton
+
+40.   At what frequency would a capacitor of 2.5uF used
+      in a radio circuit have a reactance of 250Ohms?
+      A.         200 Hz
+      B.             Hz
+                  800
+      C.        2000 Hz
+      D.          800 Hz
+
+
+41.   The percentage of the original nuclei of a sample
+      of a radioactive substance left after 5 half-lives is
+      A.        1%               B.         3%
+      C.        5%                D.        8%
+
+42.   A current of 0.5 A flowing for 3 h deposits 2g of a
+      metal during electrolysis.. the quantity of the same
+      metal that would be deposited by a current of 1.5 A
+      flowing in 1h is
+      A.       18 g                B.       10 g
+      C.        6g                 D.        2g
+
+                          20
+43.   2 3
+       1 1
+             Na + X         9
+                                F + 4 He
+                                      2
+
+
+      What particle is X in the reaction above?
+      A.      Neutron             B.       Alpha
+      C.      Gamma               D.       Beta
+
+44.   A transistor is used in the amplification of signals
+      because it
+      A.       Allows doping
+      B.       Controls the flow current
+     .
+                                              Physics
+1.
+
+
+
+
+     The figure above shows two velocities v1 and v2.
+     Which of the following diagrams correctly
+     represents the vector difference w = v1 – v2?
+
+
+
+
+2.   If an object just begins to slide on a surface inclined
+     at 300 to the horizontal, the coefficient of friction is
+     A.          1
+                  3
+     B.          1
+                 3
+     C.          3
+     D.          3
+                 3
+
+3.   A satellite is in a parking orbit if its period is
+     A.        More than the period of the earth
+     B.        Equal to the period of the earth
+     C.        The square of the period of the earth
+     D.        Less than the period of the earth
+
+4.   What does not drop through an open umbrella of
+     silk material unless the inside of the umbrella is
+     touched
+     A.       Osmotic pressure
+     B.       Capillarity
+     C.       Surface tension
+     D.       Viscosity
+
+5.   A bead traveling on a straight wire is brought to
+     rest at 0.2m by friction. If the mass of the bead is
+     0.01kg and the coefficient of friction between the
+
+                                                                744
+11.   On top of a spiral spring of force constant
+      500 Nm-1 is placed a mass of 5 x 10-3kg. If the spring
+      is compressed downwards by a length of 0.02m
+      and then released, calculate the height to which
+      the mass is projected
+      A.       2m                 B.        8m
+      C.       1m                 D.        4m
+
+12.   A hose of cross-sectional area 0.5m2 is used to
+      discharge water from a water thank at a velocity of
+      60ms-1 in 20s into a container. If the container is
+      filled completely, the volume of the container is
+      A.        600 m3           B.         6 000 m3
+      C.        240 m3            D.        2 400 m3
+
+13.   A force of 100N is used to kick a football of mass
+      0.8kg. Find the velocity with which the ball moves
+      if it takes 0.8s to be kicked.
+      A.         100ms-1             B.    32ms-1
+                       -1
+      C.         50ms                C.    64ms-1
+
+14.   The phenomenon whereby the water droplets in
+      the atmosphere combine with dust particles in the
+      air to reduce visibility is
+      A.        Fog               B.    Hail
+      C.        Mist              D.    Cloud
+
+15.   Given that Young’s modulus for aluminium is
+      7.0 x 1010Nm-2 and density is 2.7 x 103kgm-3.
+      Find the speed of the sound produced if a solid
+      bar is struck at one end with a hammer?
+      A.        3.6 x 103ms-1     B.      5.1 x 103ms-1
+                        3   -1
+      C.        2.8 x 10 ms       D.      4.2 x 103ms-1
+
+16.   Thermal equilibrium between two objects exists
+      when
+      A. The heat capacities of both objects are the
+          same
+      B. One objects loses heat continuously to the
+          other
+      C. The temperatures of both objects are equal
+      D. The quantity of heat in both objects is the
+          same.
+
+17.   If the distance from a point source of sound is
+      doubled, by what factor does the density
+      decrease?
+      A.       2.00            B.       0.25
+      C.       4.00            D.       0.50
+
+18.   If an object is placed between two parallel plane
+      mirrors with their reflecting surfaces facing each
+      other, how many images of the object will be
+      formed?
+      A.       Four               B.       Two
+      C.       Eight              D.       infinite
+26.   A tuning fork of frequency 340Hz is vibrating just
+      above a cylindrical tube of height 1.2m. If water is
+      slowly poured into the tube, At what maximum
+      height will resonance occur?
+      A.       0.45m              B.        0.95 m
+      C.       0.60m              D.        0.50 m
+      [Speed of sound in air = 340ms-1]
+
+27.   A wire of 5 ohms resistance is drawn out so that its
+      new length is two times the original length. If the
+      resistivity of the wire remains the same and the
+      cross-sectional area is halved, the new resistance
+      is
+      A.        20 Ohms
+      B.         5 Ohms
+      C.        40 Ohms
+      D.        10 Ohms
+
+28.   A ray incident on a glass prism undergoes minimum
+      deviation when the
+      A.        Refraction angle equals 900
+      B.        Incident angle is equal to the angle of
+                refraction
+      C.        Incident angle is equal to the angle of
+                emergence
+      D.        Incident angle equals 900
+
+29.
+
+
+
+
+      In the diagram above, if each of the resistors can
+      dissipate a maximum of 18W without becoming
+      excessively heated, what is the maximum power
+      the circuit can dissipate?
+      A.         9W              B.       27 W
+      C.         5W              D.       18 W
+
+30.   I.       It retains its magnetism much
+               longer than steel
+      II       it is more easily magnetized tah steel
+      III      It is more easily demagnetized than steel
+      IV       It produces a stronger magnet than steel.
+      Which combination of the above makes iron
+      preferable to steel in the making of electromagnets?
+      A.       II, III and IV only
+      B.       I, III and Iv only
+      C.       I and II only
+      D.       II and III only
+
+
+                                                             746
+37.   The operation of an optical fibre is based on the
+      principal of
+      A.       Polarization of light
+      B.       Refraction of light
+      C.       Interference of light
+      D.       Dispersion of light
+
+38.   A positively charged rod X is brought near an
+      uncharged metal sphere Y and is then touched by
+      a finger with X still in place. When the finger is
+      removed, the result is that Y has
+      A. A negative charge and a positive potential
+      B. No charge and zero potential
+      C. A negative charge and a negative potential
+      D. A positive charge and a zero potential
+
+39.   In a semiconductor junction diode, as the depletion
+      or barrier layer is forward-based, the layer
+      A. Narrows                   B. Remains constant
+      C. Widens then narrows D. Widen.
+
+40.   When a nucleus is formed by bringing protons
+      and neutrons together, the actual mass of the
+      formed nucleus is less than the sum of the masses
+      of the constituent protons and neutrons. The
+      energy equivalent of this mass difference is the
+      A. Stability B. Lost energy
+      C. Work function           D Binding energy
+
+41.   An electron makes a transition from a certain energy
+      level Ek to the ground sate E0. If the frequency of
+      emission is 8.0 x 1014Hz, the energy emitted is
+      A.        5.28 x 1019J
+      B.        8.25 x 1019J
+      C.        5.28 x 10-19J
+      D.        8.25 x 10-19J
+
+42.   In a fission process, the decrease in mass is 0.01%.
+      How much energy could be obtained from the
+      fission of 1.0g of the materials?
+      A.         9.0 x 1010 J      B.        6.3 x 1011 J
+      C.         9.0 x 1011 J      D.        9.0 x 109 J
+                                   [c = 3.0 x 108ms-1]
+
+43.   A circuit has an area of 0.4m2 and consists of 50
+      loops of wire. If the loops are twisted and allowed
+      to rotate at a constant angular velocity of 10 rads-
+      1
+        in a uniform magnetic field of 0.4T, the amplitude
+      of the induced voltage is
+      A.         80V                        B.       20V
+       C.       8V                           D       16V
+
+44.   When an alternating current given by 1 = 10sin
+      (120w) passes through a 12 ohms resistor, the
+      power dissipated in the resistor is
+      A.      120W               B.       20W
+       C.     600W               D.       1200W
+                 PHYSICS 2004
+                   TYPE: S               Physics
+
+1.
+
+
+
+
+     The refractive index of the medium M in the
+     diagram above is
+     A 2 B. 1 C. 2 3 D.                 3
+          3        3
+
+2.   What types of mirrors are capable of producing
+     parallel beams of light such as those arising from
+     the headlamps of a car?
+     A. Cylindrical mirrors
+     B. B. Parabolic mirrors.
+     C. C. spherical mirrors
+     D. Plane mirrors.
+
+3.   A person can focus an object only when it lies
+     within 200cm from him. Which spectacles should
+     be used to increase his maximum distance of
+     distinct vision to infinity?
+     A. Concave lens              B. Plane glasses
+     C. Binoculars.               D. Convex lens
+
+4.   In which of the following material media would
+     sound travel faster?
+     A.       Water            B.       Oil
+     C.       Metal            D.       Gas
+
+5.   Calculate the angle of minimum deviation for a ray
+     which is refracted through an equiangular prism
+     of refractive index 1.4.
+     A.         290             B.      600
+     C.         990             D.      900
+
+6.   What happens to the rays in a parallel beam of
+     light?
+     A.      They diverges as they travel
+     B.      They meet at infinity
+     C.      They intersect
+     D.      They converge as they travel
+
+
+
+                                                          748
+      A.       8m2               B.        4m2
+      C.       2m2               D.        1m2
+
+16.   A 100kg box is pushed along a road with a force of
+      500N. If the box moves with a uniform velocity, the
+      coefficient of friction between the box and the road
+      is
+      A.        0.5                 B.       0.4
+      C.        10                  D.       0.8
+                                              [g = 10ms-2]
+
+17.   The earth is four times the size of the moon and
+      the acceleration due to gravity on the earth is 80
+      times that on the moon. The ratio of the mass of
+      the moon to that of the earth is
+      A.       1 : 320            B        1 : 1280
+      C.       1 : 80             D.       1 :4
+
+18.
+
+
+
+
+      The diagram above shows forces 4N, 6N, 10N and
+      8N which act at a point O in directions indicated.
+      The net horizontal force is
+      A.        7 3N               B.     17N
+      C.          3N              D.      13N
+
+19.   A radioisotope has a decay constant of 10-7s-1.
+      The average life of the radioisotope is
+      A.      6.93 x 108s         B.       1.00 x 10-7s
+                        7
+      C.      1.00 x 10 s         D.       6.93 x 107s
+
+20.   A moving-coil galvanometer has a full-scale
+      deflection of 3A equivalent to 300 deflection. Then
+      sensivity of the instrument is
+      A.        10.0              B.       33.0
+      C.        90.0               D.      0.1
+
+21.   The binding energy of helium 4 He is
+                                     2
+      A.      2.017U            B.       0.033U
+      C.       4.033U            D.       0.330U
+                    [atomic mass of proton = 1.00783U,
+                    atomic mass of neutron = 1.00867U]
+
+22.   In a tuned radio receiver R, L, C series circuit for
+      resonance, the inductive and capacitive reactance
+      XL and XC respectively are related as
+      A. XL = 1                  B. XL = 1 X.C
+                 X.C                         2
+      C. XL = X.C                D. XL =2X.C
+31.   Transverse waves can be distinguished from
+      longitudinal waves using the characteristic of
+
+      A. Diffraction               B. Polarization
+      C. Reflection                D. Refraction.
+
+32.   When left in a freezer, a bottle full of water cracks
+      on freezing into ice because of the
+      A.       Decreases in the volume of water
+      B.       Contraction of the bottle
+      C.       Expansion of the bottle
+      D.       Increase in the volume of water
+
+34.   The change in volume when 450kg of ice is
+      completely melted is
+      A.      0.05m3            B.        0.45m3
+                   3
+      C.      4.50m             D         0.50m3
+                            [density of ice = 900 kgm-3
+                     density of water = 1 000 kgm m-3]
+
+35.   If a force of 50N stretches a wire from 20m to 20.01m,
+      what is the amount of force required to stretch the
+      same material from 20m to 20.05m?
+      A.          100N               B.        50N
+      C.         250N                 D.       200N
+
+36.   Tea pots are often silver-coated to prevent hear
+      loss by
+      A.       Convection and conduction
+      B.       Radiation only
+      C.       Conduction only
+      D.       Convection only.
+
+37.
+
+
+
+
+      The phase difference between waves P and Q in
+      the diagram above is
+      A.                        B.     2
+               2
+      C.                        D.
+               4
+
+38.   Metal rods of length 20cm each are laid end to end
+      to form a bridge at 250C. What gap will be provided
+      between consecutive rails for the bridge to
+      withstand 750C?
+      A.        0.22m            B.       0.25m
+
+                                                               750
+45.
+
+
+
+
+      In the diagram above, the ratio of the electric power
+      dissipated in the 6 Ohms and 3 Ohms resistors
+      respectively is
+      A.        2:3               B.         1:2
+      C.        1:3                D.         2:1
+
+46.   To protect a material from the influence of an
+      external magnetic field, the material should be kept
+      in a
+      A. Square steel ring B. Loop of copper wire
+      C. Triangular zinc ring D. Soft iron ring.
+
+47.   Which of the following is an electrolyte?
+      A. Grape juice             B. Sugar solution
+      C. Alcohol                 D. Paraffin
+
+48.   Electrical appliances in homes are normally earthed
+      so that
+      A.        Both the a.c. and d.c. sources can be used
+      B.        A person touching the appliances is safe
+                from electric shock
+      C.        The appliances are maintained at a higher
+                p.d. than the earth
+      D.        The appliances are maintained at a lower
+                p.d. than the earth
+49.   A cell whose internal resistance is 0.5 Ohms delivers
+      a current of 4A to an external resistor. The lost
+      voltage of the cell is
+      A. 1.250V                     B. 8.000V
+      C. 0.125V                     D. 2.000V
+
+50.   Given three capacitors 0.3uF, 0.5 uF and 0.2 uF, the
+      joint capacitance when arranged to give minimum
+      capacitance is
+      A.       0.3uF              B.       1.0uF
+      C.        0.1uF            D.         0.5uF
+

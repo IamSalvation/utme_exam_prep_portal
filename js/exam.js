@@ -2,17 +2,21 @@
    Mock Exam — Engine
    ========================================================= */
 
-const EXAM_DURATION = 10800;
-const PASS_THRESHOLD = 50;   // percent
+const EXAM_DURATION = 3600;
+const PASS_THRESHOLD = 50;
 
 let currentQuestionIndex = 0;
 let userAnswers = {};
 let timeLeft = EXAM_DURATION;
 let timerInterval;
 
+const examEligible = questionBank.filter(q =>
+    q.answer !== null && q.answer !== undefined && !q.needsAnswer
+);
+
 document.getElementById("duration-label").textContent =
     Math.floor(EXAM_DURATION / 60) + " minutes";
-document.getElementById("total-questions").textContent = questionBank.length;
+document.getElementById("total-questions").textContent = examEligible.length;
 
 function startExam() {
     document.getElementById("start-screen").style.display = "none";
@@ -42,7 +46,7 @@ function updateTimerDisplay() {
 
 function loadQuestion(index) {
     currentQuestionIndex = index;
-    const q = questionBank[index];
+    const q = examEligible[index];
     const container = document.getElementById("question-container");
 
     const optionsHtml = q.options.map(function (opt, i) {
@@ -55,19 +59,19 @@ function loadQuestion(index) {
     }).join("");
 
     container.innerHTML =
-        '<h3>Question ' + (index + 1) + ' of ' + questionBank.length + '</h3>' +
+        '<h3>Question ' + (index + 1) + ' of ' + examEligible.length + '</h3>' +
         '<p class="text-muted">' + q.subject + ' - ' + q.section + '</p>' +
         '<p><strong>' + q.question + '</strong></p>' +
         '<div class="options-group">' + optionsHtml + '</div>';
 
     document.getElementById("progress").style.width =
-        ((index + 1) / questionBank.length) * 100 + "%";
+        ((index + 1) / examEligible.length) * 100 + "%";
 }
 
 function saveAnswer(qIndex, optIndex) { userAnswers[qIndex] = optIndex; }
 
 function nextQuestion() {
-    if (currentQuestionIndex < questionBank.length - 1) loadQuestion(currentQuestionIndex + 1);
+    if (currentQuestionIndex < examEligible.length - 1) loadQuestion(currentQuestionIndex + 1);
 }
 
 function prevQuestion() {
@@ -83,21 +87,21 @@ function submitExam(auto) {
     document.getElementById("result-screen").style.display = "block";
 
     let score = 0;
-    questionBank.forEach(function (q, i) { if (userAnswers[i] === q.answer) score++; });
+    examEligible.forEach(function (q, i) { if (userAnswers[i] === q.answer) score++; });
 
-    const pct = ((score / questionBank.length) * 100).toFixed(1);
+    const pct = ((score / examEligible.length) * 100).toFixed(1);
     const passed = pct >= PASS_THRESHOLD;
 
     document.getElementById("score-display").innerHTML =
         '<h2>' + (passed ? "Passed" : "Keep Practicing") + '</h2>' +
-        '<p class="big">' + score + ' / ' + questionBank.length + '</p>' +
+        '<p class="big">' + score + ' / ' + examEligible.length + '</p>' +
         '<p>Score: <strong>' + pct + '%</strong></p>';
 
     renderReview();
 }
 
 function renderReview() {
-    const reviewHtml = questionBank.map(function (q, i) {
+    const reviewHtml = examEligible.map(function (q, i) {
         const user = userAnswers[i];
         const correct = q.answer;
 

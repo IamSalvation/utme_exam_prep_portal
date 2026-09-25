@@ -1,0 +1,331 @@
+﻿PHYSICS2004 7. Ifu istheobjectdistanceand v theimagedistance,
+TYPE:S which ofthe followingexpressionsgivesthe linear Physics2004
+1.
+magnification produced by a convex lens of focal length f?
+A. u + f
+B. u - f
+C. v - 1
+V f f
+D. v + 1
+f
+8. A ray of light make an angle of 350
+with a plane
+mirror.What isthe angle ofreflection?
+A. 550
+B. 350
+C. 700
+D. 650
+The refractive index of the medium M in the
+diagram above is
+A 2 B. 1 C. 2 3 D. 3
+3 3
+2. What types of mirrors are capable of producing
+parallel beams of light such as those arising from
+the headlamps of acar?
+A. Cylindricalmirrors
+B. B. Parabolic mirrors.
+C. C. sphericalmirrors
+D. Planemirrors.
+3. A person can focus an object only when it lies
+within 200cm from him. Which spectacles should
+be used to increase his maximum distance of
+distinct vision toinfinity?
+A. Concave lens B. Plane glasses
+C. Binoculars. D. Convexlens
+4. In which of the following material media would
+sound travel faster?
+A. Water B. Oil
+C. Metal D. Gas
+5. Calculatetheangle ofminimum deviationfor a ray
+which is refracted through an equiangular prism
+ofrefractiveindex1.4.
+9. The pitch of a sound note depends on
+A. Timbre B. Harmonics
+C. Quality D. frequency
+10. Ifthe anglebetween twovectors P and Q is00
+, the
+vectors are said to
+A. Be perpendicular B. Beparallel
+C. Intersect at angle 600
+D. Intersect at angle 450
+11. A machine whose efficiencyis 60% has a velocity
+ratioof5. Ifa forceof500N isapplied tolift aload
+P,what is the magnitude ofP?
+A. 750N B. 4166N
+C. 50N D. 1500N
+12. A body of mass 4kg is acted on by a constant
+force of 12N for 3 seconds. The kinetic energy
+gained by the body at the end of the time is
+A. 162J B. 144J
+C. 72J D. 81J
+13. As the pressure of a fluid increase, its viscosity
+A. Decreased B. remains constant
+C. Increases then decrease D. In crease.
+14. I. Jet-propelledaircraft
+II Rocket propulsion
+A. 290
+B. 600
+III The recoil of a gun
+C. 990
+D. 900
+IV A person walking
+6. What happens to the rays in a parallel beam of
+light?
+A. They diverges as they travel
+B. They meet atinfinity
+C. They intersect
+D. They converge as they travel
+Which of the above is based on Newtonâ€™s third
+law of motion?
+A. I, II, III and IV B. I and III only
+C. I andII only D. I, II and III only
+15. In a hydraulic press, a force of 40N is applied on
+the effort piston area 0.4m2
+. Ifthe forceexerted on
+the load piston is 400N, the area ofthe largepiston
+is749
+7 3N
+3N
+A. 8m2
+B. 4m2
+C. 2m2
+D. 1m2
+16. A100kg boxispushed alonga road with a forceof
+500N.Ifthe boxmoveswith a uniform velocity,the
+coefficientoffriction between theboxand the road
+is
+A. 0.5 B. 0.4
+C. 10 D. 0.8
+[g = 10ms-2
+]
+17. The earth is four times the size of the moon and
+the acceleration due to gravity on the earth is 80
+times that on the moon. The ratio of the mass of
+the moon to that of the earth is
+A. 1:320 B 1 :1280
+C. 1:80 D. 1 :4
+18.
+Thediagram aboveshowsforces4N, 6N, 10Nand
+8N which act at a point O in directions indicated.
+The net horizontal forceis
+A. B. 17N
+C. D. 13N
+19. A radioisotope has a decay constant of 10-7
+s-1
+.
+The average life of the radioisotopeis
+A. 6.93x108
+s B. 1.00 x 10-7
+s
+C. 1.00x107
+s D. 6.93 x107
+s
+20. A moving-coil galvanometer has a full-scale
+deflection of3A equivalent to300
+deflection. Then
+sensivity of the instrument is
+A. 10.0 B. 33.0
+C. 90.0 D. 0.1
+21. The binding energy of helium 4
+He is
+23. The particle and wave nature of matter are
+demonstrated in the equation
+A. = h B. = c
+P f
+C. = 2d sin Q D. = hc
+E
+24. For semiconductors to have negative temperature
+coefficient ofresistance implies that
+A. They have electrons and holes at high
+temperatures
+B. Their resistance is constantly changing with
+temperature
+C. Their resistance increases with temperature
+D. Their resistance decreases with temperature
+25. Fluorescent tubes produce light by the
+A. Refraction of light by gasmolecules
+B. Excitation of gasmolecules
+C. Conduction of solar energy
+D. Thermalagitation ofelectronsin thetube.
+26. In a reverse biased junction diode, current flows
+in by
+A. Electrons alone B. Majoritycarriers
+C. Minority carriers D. Positive holes alone
+27. The energy stored in an inductor of inductance
+5mH when a current of6Aflows through it is
+A. 1.8 x10-2
+J B. 9.0 x10-3
+J
+C. 1.4 x10-2
+J D. 9.0 x10-2
+J
+28. X-rays can be used in the study of crystal
+structures because they
+A. Have an extremely shortwavelength
+B. Have-a-very-long-reaching wavelength
+C. Are very fast
+D. Areinvisible.
+29. An a.c. circuit of e.m.f. 12V has a resistor of
+resistance 8 Ohms connected in series to an
+inductor of inductive reactance 16 Ohms and a
+capacitor ofcapacitive 10Ohms. Thecurrentflow
+2
+A. 2.017U B. 0.033U in the circuit is
+C. 4.033U D. 0.330U
+[atomic massofproton =1.00783U,
+atomicmassofneutron =1.00867U]
+22. In a tuned radio receiver R, L, C series circuit for
+resonance, the inductive and capacitive reactance
+XL
+and XC
+respectively are relatedas
+A. XL
+= 1 B. XL
+= 1 X.C
+X.C
+2
+C. XL
+=X.C
+D. XL
+=2X.C
+A. 1.4A B. 14.0A C. 1.2A D. 12.0A
+30. A generator-manufacturing company was
+contracted to produce an a.c. dynamo but
+inadvertently produced a d.c. dynamo. To correct
+this error,the
+A. Commutatorshould bereplacewith sliprings.
+B. Commutator should bereplacewith slit rings
+C. Armaturecoilshould bemadealuminium
+D. Armaturecoil should bemadesilver.750
+37.
+31. Transverse waves can be distinguished from
+longitudinal waves using the characteristic of
+A. Diffraction B. Polarization
+C. Reflection D. Refraction.
+32. When left in a freezer,a bottlefullof water cracks
+on freezing into ice because ofthe
+A. Decreases in the volume ofwater
+B. Contraction of the bottle
+C. Expansion of the bottle
+D. Increase in the volume ofwater
+34. The change in volume when 450kg of ice is
+completely meltedis
+A. 0.05m3
+B. 0.45m3
+C. 4.50m3
+D 0.50m3
+[density of ice = 900 kgm-3
+density of water = 1 000 kgm m-3
+]
+35. Ifaforceof50Nstretchesawirefrom20mto20.01m,
+what is the amount offorce required tostretch the
+samematerialfrom20mto20.05m?
+A. 100N B. 50N
+C. 250N D. 200N
+36. Teapots are often silver-coated to prevent hear
+loss by
+A. Convection andconduction
+B. Radiation only
+C. Conduction only
+D. Convection only.
+The phase difference between waves P and Q in
+the diagram above is
+A. B. 2
+2
+C. D.
+4
+38. Metal rods oflength 20cm each are laid end toend
+toforma bridgeat 250
+C. What gap willbeprovided
+between consecutive rails for the bridge to
+withstand750
+C?
+A. 0.22m B. 0.25m
+C. 0.02m D. 0.20m
+[Linear expansivity of the material = 2.0 x 10-5
+K-1
+]
+39. A 50W electric heater is used to heat a metal
+blockofmass 5kg.Ifin 10minutes, a temperature
+rise of 120C is achieved, the specific heat
+capacityofthe metal is
+A. 500 Jkg-1
+K-1
+B. 130Jkg-1
+K- 1
+C. 390 Jkg-1
+K-1
+D. 400Jkg-1
+K- 1
+40. I. Wavelength
+II Medium ofpropagation
+III Wave velocity
+IV Frequency
+V. Energy
+Which of the above are used for characterizing
+waves?
+A. I, II and V. B. II, IV and V
+C. I and IV D. I, III and IV
+41. The instrument used for securing a large
+number of similar charges by induction iscalled
+A. Capacitor B. Electrophorus
+C. Electroscope D. Proof-plane
+42. Asteadycurrent 2Aflowsin a coil ofe.m.f. 12V
+for 0.4s.Abacke.m.f.of3V wasinduced during
+this period. The stored energy in the loop that
+can be utilizedis
+A. 7.2J B. 12.0J
+C. 2.4J D. 9.6J
+43. If 16mA of current flows through a conductor
+in one second, the number of electrons
+transported per second is
+A. 1.00x1020
+B. 1.00x1717
+C. 2.54x10-17
+D. 2.56 x10-18
+[1 electronic charge = 1.6 x 10-19C]
+44. The difference between x-rays and gamma rays
+is that
+A. X-rays arise from energy changes in the
+electronicstructure of atoms while gamma
+rays come from thenucleus.
+B. X-rays are electromagnetic radiations
+while gamma rays are negativelycharges
+radiations.
+C. X-rays have higher frequencies than
+gamma rays
+D. X-rays aremore penetratingthan gamma
+rays.751
+45.
+In thediagram above,theratiooftheelectricpower
+dissipated in the 6 Ohms and 3 Ohms resistors
+respectively is
+A. 2 : 3 B. 1 : 2
+C. 1 : 3 D. 2 : 1
+46. To protect a material from the influence of an
+external magneticfield,thematerialshouldbekept
+ina
+A. Square steel ring B. Loop of copper wire
+C. Triangular zinc ring D. Soft iron ring.
+47. Which of the following is anelectrolyte?
+A. Grape juice B. Sugar solution
+C. Alcohol D. Paraffin
+48. Electricalappliancesin homesare normallyearthed
+so that
+A. Boththea.c. andd.c. sourcescan beused
+B. A person touching the appliances is safe
+from electricshock
+C. Theappliancesaremaintainedatahigher
+p.d. than the earth
+D. Theappliancesaremaintained at a lower
+p.d. than the earth
+49. Acellwhoseinternalresistanceis0.5 Ohmsdelivers
+a current of 4A to an external resistor. The lost
+voltage of the cell is
+A. 1.250V B. 8.000V
+C. 0.125V D. 2.000V
+50. Giventhreecapacitors0.3uF,0.5uFand 0.2uF,the
+joint capacitance when arranged togiveminimum
+capacitance is
+A. 0.3uF B. 1.0uF
+C. 0.1uF D. 0.5uF
