@@ -1,0 +1,248 @@
+/* =========================================================
+   Quickie Prep — Dashboard Styles
+   ========================================================= */
+
+/* ---------- EMPTY STATE ---------- */
+.empty-state {
+    background: var(--color-surface);
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius);
+    padding: 60px 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* ---------- OVERVIEW GRID ---------- */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 14px;
+    margin-top: 16px;
+}
+
+.overview-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 20px;
+    transition: all 0.2s ease;
+}
+
+.overview-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-glow);
+}
+
+.ov-label {
+    font-size: 0.8rem;
+    color: var(--color-muted);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+
+.ov-value {
+    font-size: 1.6rem;
+    font-weight: 800;
+    background: var(--color-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 10px;
+}
+
+.ov-bar {
+    height: 6px;
+    background: var(--color-elevated);
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.ov-bar>div {
+    height: 100%;
+    background: var(--color-gradient);
+    border-radius: 999px;
+    transition: width 0.4s ease;
+}
+
+/* ---------- CHART ---------- */
+.chart-container {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 16px;
+    margin-top: 16px;
+    overflow-x: auto;
+}
+
+.chart-container canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+    min-height: 280px;
+    max-height: 340px;
+}
+
+/* ---------- SUBJECT PERFORMANCE ---------- */
+.subject-perf-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    transition: all 0.2s ease;
+}
+
+.subject-perf-card:hover {
+    border-color: var(--color-primary);
+}
+
+.sp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.sp-header h3 {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.sp-badge {
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 999px;
+}
+
+.sp-badge.sp-strong {
+    background: rgba(61, 220, 132, 0.2);
+    color: var(--color-success);
+}
+
+.sp-badge.sp-ok {
+    background: rgba(255, 183, 77, 0.2);
+    color: var(--color-warning);
+}
+
+.sp-badge.sp-weak {
+    background: rgba(239, 83, 80, 0.2);
+    color: var(--color-danger);
+}
+
+/* ---------- RECOMMENDATIONS ---------- */
+.recommendations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.rec-item {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    background: var(--color-surface);
+    border-left: 4px solid var(--color-primary);
+    border-radius: 8px;
+    padding: 14px 18px;
+    font-size: 0.93rem;
+    line-height: 1.6;
+}
+
+.rec-icon {
+    font-size: 1.2rem;
+    flex-shrink: 0;
+    line-height: 1.4;
+}
+
+/* ---------- TABLE ---------- */
+.table-wrap {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    overflow-x: auto;
+    margin-top: 16px;
+}
+
+.attempt-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.attempt-table thead {
+    background: var(--color-elevated);
+}
+
+.attempt-table th {
+    padding: 12px 14px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 0.78rem;
+    color: var(--color-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.attempt-table td {
+    padding: 12px 14px;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text);
+}
+
+.attempt-table tbody tr:hover {
+    background: var(--accent-glow);
+}
+
+.attempt-table .pct-badge {
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 999px;
+}
+
+.attempt-table .pct-badge.pass {
+    background: rgba(61, 220, 132, 0.18);
+    color: var(--color-success);
+}
+
+.attempt-table .pct-badge.fail {
+    background: rgba(239, 83, 80, 0.18);
+    color: var(--color-danger);
+}
+
+.btn-mini {
+    padding: 5px 12px;
+    background: var(--color-elevated);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    color: var(--color-primary);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s ease;
+}
+
+.btn-mini:hover {
+    background: var(--accent-glow);
+    border-color: var(--color-primary);
+}
+
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 700px) {
+    .attempt-table {
+        font-size: 0.82rem;
+    }
+
+    .attempt-table th,
+    .attempt-table td {
+        padding: 8px 10px;
+    }
+
+    .ov-value {
+        font-size: 1.3rem;
+    }
+}
