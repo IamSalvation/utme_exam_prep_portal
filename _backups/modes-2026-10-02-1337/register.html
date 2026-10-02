@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Register — Quickie Prep</title>
+</head>
+
+<body>
+
+    <header class="brand-header">
+        <a class="brand-header-left" href="index.html">
+            <img src="assets/logo/logo-dark.png" alt="Quickie Prep">
+            <div>
+                <div class="brand-name">Quickie Prep</div>
+                <div class="brand-tagline">Practice smart. Pass in seconds.</div>
+            </div>
+        </a>
+        <nav class="brand-nav">
+            <a href="index.html">Home</a>
+            <a href="#subjects">Subjects</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Candidate Registration</h1>
+        <p class="text-muted">
+            Fill in your details. Your progress will be saved locally on this device — no account needed.
+        </p>
+
+        <form id="regForm" style="margin-top: 24px;">
+
+            <h3 style="margin-top:24px;">Personal Details</h3>
+
+            <label class="field">
+                <span>Full Name *</span>
+                <input type="text" name="name" required placeholder="e.g. John Doe" autocomplete="name">
+            </label>
+
+            <label class="field">
+                <span>Email *</span>
+                <input type="email" name="email" id="emailInput" required placeholder="you@example.com"
+                    autocomplete="email">
+                <span class="field-hint">Used to save your progress. Same email = same profile.</span>
+            </label>
+
+            <label class="field">
+                <span>Phone</span>
+                <input type="tel" name="phone" placeholder="08012345678" autocomplete="tel">
+            </label>
+
+            <label class="field">
+                <span>Target Course *</span>
+                <input type="text" name="course" required placeholder="e.g. Medicine and Surgery" autocomplete="off">
+            </label>
+
+            <label class="field">
+                <span>Exam Year *</span>
+                <select name="examYear" id="examYear" required></select>
+            </label>
+
+            <hr>
+
+            <h3>Choose Exam Mode</h3>
+            <p class="text-muted">Pick how long you want to practice.</p>
+
+            <div class="mode-picker">
+                <label class="mode-card">
+                    <input type="radio" name="examMode" value="full" checked>
+                    <div>
+                        <strong>Full Mock</strong>
+                        <span>180 questions · 2 hours · 400 marks</span>
+                    </div>
+                </label>
+
+                <label class="mode-card">
+                    <input type="radio" name="examMode" value="half">
+                    <div>
+                        <strong>Half Mock</strong>
+                        <span>90 questions · 1 hour · 200 marks</span>
+                    </div>
+                </label>
+
+                <label class="mode-card">
+                    <input type="radio" name="examMode" value="quick">
+                    <div>
+                        <strong>Quick Mock</strong>
+                        <span>45 questions · 30 minutes · 100 marks</span>
+                    </div>
+                </label>
+            </div>
+
+            <hr>
+
+            <h3>Choose Your Subjects</h3>
+            <p class="text-muted">
+                <strong>Use of English</strong> is compulsory.
+                Pick <strong>3 electives</strong>.
+            </p>
+
+            <label class="field">
+                <span>English (Compulsory)</span>
+                <input type="text" value="Use of English" disabled>
+            </label>
+
+            <label class="field">
+                <span>Elective 1 *</span>
+                <select name="elective1" class="elective-select" required></select>
+            </label>
+
+            <label class="field">
+                <span>Elective 2 *</span>
+                <select name="elective2" class="elective-select" required></select>
+            </label>
+
+            <label class="field">
+                <span>Elective 3 *</span>
+                <select name="elective3" class="elective-select" required></select>
+            </label>
+
+            <p id="formError" class="form-error" style="display:none;"></p>
+
+            <div style="margin-top: 24px; display:flex; flex-wrap:wrap; gap:8px;">
+                <button type="submit" class="btn">Continue to Instructions →</button>
+                <a href="index.html" class="btn secondary">Cancel</a>
+            </div>
+
+            <p id="existingProfile" class="text-muted" style="display:none; margin-top:16px;"></p>
+        </form>
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/modes.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/register.js"></script>
+</body>
+
+</html>

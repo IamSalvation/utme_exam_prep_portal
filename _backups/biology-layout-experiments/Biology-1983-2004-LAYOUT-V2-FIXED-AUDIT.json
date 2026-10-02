@@ -1,0 +1,591 @@
+{
+  "years": {
+    "1983": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 1,
+        "2": 1,
+        "4": 2,
+        "5": 46
+      },
+      "incomplete": [
+        {
+          "n": 15,
+          "options": 2,
+          "stem": "The movement of part of a plant in response to external stimulus of no particular direction is"
+        },
+        {
+          "n": 25,
+          "options": 0,
+          "stem": "Plants which can survive in places where the water supply is limited are A.bryophytes B. mesophytes C. xerophytes D. hyd"
+        }
+      ]
+    },
+    "1984": {
+      "extracted": 49,
+      "missing": [
+        36
+      ],
+      "optionDistribution": {
+        "4": 1,
+        "5": 48
+      },
+      "incomplete": []
+    },
+    "1985": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "4": 2,
+        "5": 48
+      },
+      "incomplete": []
+    },
+    "1986": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "4": 50
+      },
+      "incomplete": []
+    },
+    "1987": {
+      "extracted": 49,
+      "missing": [
+        48
+      ],
+      "optionDistribution": {
+        "0": 3,
+        "3": 1,
+        "4": 45
+      },
+      "incomplete": [
+        {
+          "n": 9,
+          "options": 0,
+          "stem": "The hypha of Rhizopus is said to be coenocytic because it A does not contain chlorophyll B. has no cross walls C. is vac"
+        },
+        {
+          "n": 25,
+          "options": 0,
+          "stem": "Which of the plants is likely to have broad leaves with thin cuticle? A R. B. S C. T D. U"
+        },
+        {
+          "n": 43,
+          "options": 0,
+          "stem": "The ratio of carriers to sicklers in the F1 generation derived from a parental cross of two carriers of haemoglobin S ge"
+        },
+        {
+          "n": 44,
+          "options": 3,
+          "stem": "In which of the following crosses will all the female offspring be colour blind?"
+        }
+      ]
+    },
+    "1988": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 4,
+        "2": 2,
+        "3": 1,
+        "4": 43
+      },
+      "incomplete": [
+        {
+          "n": 10,
+          "options": 2,
+          "stem": "At which stage in this cycle can man be infected?"
+        },
+        {
+          "n": 11,
+          "options": 0,
+          "stem": "Which stage is found in the muscle of an infected pig? A. 3 B.4 C.5 D.6"
+        },
+        {
+          "n": 23,
+          "options": 3,
+          "stem": "The main waste products formed in plant are"
+        },
+        {
+          "n": 24,
+          "options": 0,
+          "stem": "In the kidney the malpighian corpuscle is located in the A medulla B. helium C. cortex D. pelvis."
+        },
+        {
+          "n": 25,
+          "options": 0,
+          "stem": "The skin, through the sweat glads, functions as A an excretory organ B. a respiratory organ C. a sensory organ D. a prot"
+        },
+        {
+          "n": 31,
+          "options": 0,
+          "stem": "Which of these plant groups are normally propagated by asexual means? A Banana, yam, pineapple and cassava B. Yam, cassa"
+        },
+        {
+          "n": 36,
+          "options": 2,
+          "stem": "If a dark-skinned woman (Bb) marries an albino man (bb) and they have four children, how many of the children will be da"
+        }
+      ]
+    },
+    "1989": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 3,
+        "2": 1,
+        "3": 4,
+        "4": 42
+      },
+      "incomplete": [
+        {
+          "n": 1,
+          "options": 3,
+          "stem": "The structure labelled 5 is the"
+        },
+        {
+          "n": 10,
+          "options": 3,
+          "stem": "Which of the following is a common characteristic of crustaceans?"
+        },
+        {
+          "n": 13,
+          "options": 0,
+          "stem": "Which of the labelled parts is used for feeling? A.1 B.2 C.3 D.4"
+        },
+        {
+          "n": 16,
+          "options": 0,
+          "stem": "Which of the structure’s is the molar? A.1 B.2 C. 3 D.4"
+        },
+        {
+          "n": 25,
+          "options": 2,
+          "stem": "Which of the labelled bones is the ulna?"
+        },
+        {
+          "n": 40,
+          "options": 3,
+          "stem": "In an ecosystem, the LEAST efficient energy transfer link is from"
+        },
+        {
+          "n": 43,
+          "options": 0,
+          "stem": "Which of the ways of controlling bilharzia can result in pollution? A Clearing water weeds on which the snails feed. B. "
+        },
+        {
+          "n": 46,
+          "options": 3,
+          "stem": "5g of oven dried soil was heated in a furnace for 24hours, after cooling, it weighed 4.8g what is the amount of humus in"
+        }
+      ]
+    },
+    "1990": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 3,
+        "2": 1,
+        "3": 2,
+        "4": 44
+      },
+      "incomplete": [
+        {
+          "n": 9,
+          "options": 0,
+          "stem": "Which part of the twig produces auxins? A.4 B.3 C.2 D.1"
+        },
+        {
+          "n": 14,
+          "options": 3,
+          "stem": "The nephridia in the earthworm form part of the"
+        },
+        {
+          "n": 27,
+          "options": 2,
+          "stem": "Which structure is the glomerulus?"
+        },
+        {
+          "n": 28,
+          "options": 0,
+          "stem": "If the blood is tooconcentrated, more water is absorbed from A. 5 B.4 C.3 D.1"
+        },
+        {
+          "n": 33,
+          "options": 0,
+          "stem": "All the cell bodies in the spinal cord are found in A.1 B.2 C.3 D.4"
+        },
+        {
+          "n": 36,
+          "options": 3,
+          "stem": "In an organism where the 2nd number of chromosomes is 16, the number of chromosomes in each gamete will be"
+        }
+      ]
+    },
+    "1991": {
+      "extracted": 44,
+      "missing": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "optionDistribution": {
+        "0": 3,
+        "3": 3,
+        "4": 38
+      },
+      "incomplete": [
+        {
+          "n": 1,
+          "options": 0,
+          "stem": "Which of the following structures is associated with aerobic respiration? A.1 B.2 C. 3 D.4"
+        },
+        {
+          "n": 12,
+          "options": 3,
+          "stem": "The respiratory organ in the land snail is the"
+        },
+        {
+          "n": 18,
+          "options": 0,
+          "stem": "In the digestive system, absorption of nutrients into the blood takes places in the part labeled A.1 B.2 C.3 D.4"
+        },
+        {
+          "n": 19,
+          "options": 0,
+          "stem": "The gland which produces trypsin, amylase and lipase is labelLed A. 6 B.4 C.2 D.1"
+        },
+        {
+          "n": 21,
+          "options": 3,
+          "stem": "The element common to protein, carbohydrate and lipid is"
+        },
+        {
+          "n": 45,
+          "options": 3,
+          "stem": "Which of the following is likely to occur in a deciduous forest during the dry season?"
+        }
+      ]
+    },
+    "1992": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 1,
+        "3": 1,
+        "4": 48
+      },
+      "incomplete": [
+        {
+          "n": 17,
+          "options": 3,
+          "stem": "In the absence of oxygen, the pyruvic acid produced during glycolysis is converted to Co2 and"
+        },
+        {
+          "n": 20,
+          "options": 0,
+          "stem": "Melanin and kerantin are produced in the part labelled A.2 B.3 C.4 D5."
+        }
+      ]
+    },
+    "1993": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 1,
+        "3": 4,
+        "4": 45
+      },
+      "incomplete": [
+        {
+          "n": 19,
+          "options": 3,
+          "stem": "Blood is pumped into the right ventricle by the contraction of the auricle wall through"
+        },
+        {
+          "n": 29,
+          "options": 3,
+          "stem": "In H, the cotyledons are carried above the soil because"
+        },
+        {
+          "n": 40,
+          "options": 3,
+          "stem": "Which of the following instruments is NOT used in measuring abiotic factors in any habitat?"
+        },
+        {
+          "n": 41,
+          "options": 3,
+          "stem": "Plants adapted for life in salty marsh are called"
+        },
+        {
+          "n": 42,
+          "options": 0,
+          "stem": "Which group plants would be the first colonizers in an ecological succession changing rocks to soil? A Mosses. B. Ferns "
+        }
+      ]
+    },
+    "1994": {
+      "extracted": 49,
+      "missing": [
+        35
+      ],
+      "optionDistribution": {
+        "0": 1,
+        "4": 48
+      },
+      "incomplete": [
+        {
+          "n": 31,
+          "options": 0,
+          "stem": "The physical factors are represented by A.1,5,6, B. 4,5,7, C. 5,7,8, D. 6,7,8."
+        }
+      ]
+    },
+    "1995": {
+      "extracted": 47,
+      "missing": [
+        45,
+        46,
+        48
+      ],
+      "optionDistribution": {
+        "0": 1,
+        "3": 1,
+        "4": 45
+      },
+      "incomplete": [
+        {
+          "n": 22,
+          "options": 0,
+          "stem": "An example of a plant having the placentation shown is A allamander B. hibiscus C. water lily D. pride of Barbados."
+        },
+        {
+          "n": 42,
+          "options": 3,
+          "stem": "The specific number of chromosomes in each somatic cell is represented by"
+        }
+      ]
+    },
+    "1997": {
+      "extracted": 47,
+      "missing": [
+        20,
+        49,
+        50
+      ],
+      "optionDistribution": {
+        "0": 2,
+        "3": 3,
+        "4": 42
+      },
+      "incomplete": [
+        {
+          "n": 4,
+          "options": 0,
+          "stem": "Virus differ from all forms of life because they A have a thick cell wall B. feed on waste products of other organisms C"
+        },
+        {
+          "n": 7,
+          "options": 0,
+          "stem": "Which of the following perform similar functions? rhizoid. C. Sorus and indusium. D. Strobili and inflorescence."
+        },
+        {
+          "n": 12,
+          "options": 4,
+          "stem": ""
+        },
+        {
+          "n": 13,
+          "options": 3,
+          "stem": "Trace elements are required by plants mainly for the"
+        },
+        {
+          "n": 23,
+          "options": 3,
+          "stem": "The appendicular skeleton is composed of the pectoral girdle"
+        },
+        {
+          "n": 45,
+          "options": 3,
+          "stem": "Which of the following characters is NOT sex-linked?"
+        }
+      ]
+    },
+    "1998": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "0": 6,
+        "3": 2,
+        "4": 42
+      },
+      "incomplete": [
+        {
+          "n": 14,
+          "options": 0,
+          "stem": "In million’s test, when the reagent is added to a protein food item, a white precipitate is produced which turns A blue "
+        },
+        {
+          "n": 18,
+          "options": 0,
+          "stem": "In adult mammalian blood, thecells which lack nucleus arethe A The diaphragm and intercostals muscles relax B. The thora"
+        },
+        {
+          "n": 19,
+          "options": 0,
+          "stem": "Which of the following movement occur during exhalation? A. thediaphragm contractsand theintercostals musclesrelax."
+        },
+        {
+          "n": 31,
+          "options": 3,
+          "stem": "A freshwater plant such as water lily can solve the problem of buoyancy by the possession of"
+        },
+        {
+          "n": 41,
+          "options": 3,
+          "stem": "The correct increasing order of size for the cell compoents responsible for heredity is"
+        },
+        {
+          "n": 45,
+          "options": 0,
+          "stem": "The bird’s bill adapted for fishing is labeled A I B. II C. III D. IV."
+        },
+        {
+          "n": 47,
+          "options": 0,
+          "stem": "In the honey bee colony, the drones are A sterile males with reduced mouth parts B. sterile ales with well-developed mou"
+        },
+        {
+          "n": 49,
+          "options": 0,
+          "stem": "The best explanation for the theories of natural selection is that A all organisms have equal capacity for survival in t"
+        }
+      ]
+    },
+    "1999": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "3": 1,
+        "4": 49
+      },
+      "incomplete": [
+        {
+          "n": 16,
+          "options": 3,
+          "stem": "The dark reaction of photosynthesis involves"
+        }
+      ]
+    },
+    "2000": {
+      "extracted": 50,
+      "missing": [],
+      "optionDistribution": {
+        "4": 50
+      },
+      "incomplete": []
+    },
+    "2001": {
+      "extracted": 49,
+      "missing": [
+        35
+      ],
+      "optionDistribution": {
+        "3": 1,
+        "4": 48
+      },
+      "incomplete": [
+        {
+          "n": 40,
+          "options": 3,
+          "stem": "Which of the following statements is true of blood groups and blood transfusion?"
+        }
+      ]
+    },
+    "2002": {
+      "extracted": 49,
+      "missing": [
+        5
+      ],
+      "optionDistribution": {
+        "3": 4,
+        "4": 45
+      },
+      "incomplete": [
+        {
+          "n": 25,
+          "options": 3,
+          "stem": "The structure that is common in the embryos of mammals, amphibians, birds, fishes and reptiles and which is an evidence "
+        },
+        {
+          "n": 27,
+          "options": 3,
+          "stem": "Birds which are large with long straight pointed beaks, long necks and long legs are likely to be"
+        },
+        {
+          "n": 31,
+          "options": 3,
+          "stem": "The capture and digestion of insects by a pitcher plant is a special form of nutrition termed"
+        },
+        {
+          "n": 36,
+          "options": 3,
+          "stem": "The mode of nutrition exhibited by a tapeworm is"
+        }
+      ]
+    },
+    "2003": {
+      "extracted": 49,
+      "missing": [
+        20
+      ],
+      "optionDistribution": {
+        "0": 1,
+        "4": 48
+      },
+      "incomplete": [
+        {
+          "n": 50,
+          "options": 0,
+          "stem": "An argument against Lamarck’s heory of evolution is that A.acquired traits cannot be passed onto the offspring B. disuse"
+        }
+      ]
+    },
+    "2004": {
+      "extracted": 49,
+      "missing": [
+        21
+      ],
+      "optionDistribution": {
+        "0": 2,
+        "3": 1,
+        "4": 46
+      },
+      "incomplete": [
+        {
+          "n": 27,
+          "options": 0,
+          "stem": "The absence of special food and water-conducting systems restricts the body size in A the bryophytes and the pteridophye"
+        },
+        {
+          "n": 32,
+          "options": 0,
+          "stem": "The part labelled II is responsible for A respiration B. protein synthesis C. excretion D. photosynthesis"
+        },
+        {
+          "n": 50,
+          "options": 3,
+          "stem": "A farm practice that results in the loss of soil fertility is"
+        }
+      ]
+    }
+  },
+  "total": 1031,
+  "expectedAvailable": 1050,
+  "missingTotal": 19
+}

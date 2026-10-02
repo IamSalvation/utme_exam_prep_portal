@@ -1,0 +1,1044 @@
+BIOLOGY BROKEN QUESTIONS REPORT
+Total broken: 67 / 1031
+
+
+######################################################################
+# YEAR 1983 — 2 broken
+######################################################################
+
+--- 1983 Q15 ---
+STEM: "The movement of part of a plant in response to external stimulus of no particular direction is"
+OPTIONS (2):
+  A. "taxism"
+  B. "tropism C haptotropic movement D nastic movement E. phototropism"
+optionLabels: ["A","B"]
+
+RAW SOURCE:
+  15. 
+  The movement of part of a plant in response to 
+  external stimulus of no particular direction is 
+  A. taxism B. tropism C haptotropic movement 
+  D nastic movement E. phototropism
+
+--- 1983 Q25 ---
+STEM: "Plants which can survive in places where the water supply is limited are A.bryophytes B. mesophytes C. xerophytes D. hydrophytes E. pteridophytes."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  25. 
+  Plants which can survive in places where the water 
+  supply is limited are 
+  A .bryophytes B.mesophytes C. xerophytes 
+  D.hydrophytes  E. 
+  pteridophytes. 
+
+######################################################################
+# YEAR 1987 — 4 broken
+######################################################################
+
+--- 1987 Q9 ---
+STEM: "The hypha of Rhizopus is said to be coenocytic because it A does not contain chlorophyll B. has no cross walls C. is vacuolated D. stores oil globules."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  9. 
+   The hypha of Rhizopus is said to be coenocytic 
+  because it 
+  A does not contain chlorophyll B. has no cross walls 
+  C. is vacuolated D. stores oil globules.
+
+--- 1987 Q25 ---
+STEM: "Which of the plants is likely to have broad leaves with thin cuticle? A R. B. S C. T D. U"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  25. 
+  Which of the plants is likely to have broad leaves 
+  with thin cuticle? 
+  A R. 
+  B. S 
+  C. T 
+  D. U
+  17. 
+  In demonstrating the importance of mineral elements in the plants, the culture bottle must be darkened to 
+  A. prevent algal growth in culture solution 
+  B. allowroot growth 
+  C. prevent breakdown of mineral elements 
+  D. prevent photosynthesis in the root.
+
+--- 1987 Q43 ---
+STEM: "The ratio of carriers to sicklers in the F1 generation derived from a parental cross of two carriers of haemoglobin S gene is A.3:1 B. 1:3 C. 2:1 D. 1:2"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  43. 
+  The ratio of carriers to sicklers in the F1 generation 
+  derived from a parental cross of two carriers of 
+  haemoglobin S gene is 
+  A.3:1 
+  B. 1:3 
+  C. 2:1 
+  D. 1:2
+
+--- 1987 Q44 ---
+STEM: "In which of the following crosses will all the female offspring be colour blind?"
+OPTIONS (3):
+  A. "colour blind mother x colour blind father."
+  B. "colour blind mother x normal father"
+  C. "carrier mother x colour blind father. D carrier mother x normal father."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  44. 
+  In which of the following crosses will all the 
+  female offspring be colour blind? 
+  A. colour blind mother x colour blind father. 
+  B. colour blind mother x normal father 
+  C. carrier mother x colour blind father. 
+  D carrier mother x normal father.
+
+######################################################################
+# YEAR 1988 — 7 broken
+######################################################################
+
+--- 1988 Q10 ---
+STEM: "At which stage in this cycle can man be infected?"
+OPTIONS (2):
+  A. "2 B.4"
+  B. "5 D.6."
+optionLabels: ["A","C"]
+
+RAW SOURCE:
+  10. 
+  At which stage in this cycle can man be infected? 
+  A. 2 
+  B.4 
+  C. 5 
+  D.6.
+
+--- 1988 Q11 ---
+STEM: "Which stage is found in the muscle of an infected pig? A. 3 B.4 C.5 D.6"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  11. 
+  Which stage is found in the muscle of an infected pig? 
+  A. 3 
+  B.4 
+  C.5 
+  D.6
+
+--- 1988 Q23 ---
+STEM: "The main waste products formed in plant are"
+OPTIONS (3):
+  A. "alkaloids, tannins and resins"
+  B. "water, alkaloids and carbondioxide"
+  C. "water, carbondioxide and oxygen."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  23. 
+  The main waste products formed in plant are 
+  A. alkaloids, tannins and resins B. water, alkaloids and carbondioxide 
+  C. water, carbondioxide and oxygen.
+
+--- 1988 Q24 ---
+STEM: "In the kidney the malpighian corpuscle is located in the A medulla B. helium C. cortex D. pelvis."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  24. 
+  In the kidney the malpighian corpuscle is located in 
+  the 
+  A medulla B. helium C. cortex D. pelvis.
+
+--- 1988 Q25 ---
+STEM: "The skin, through the sweat glads, functions as A an excretory organ B. a respiratory organ C. a sensory organ D. a protective organ."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  25. The skin, through the sweat glads, functions as 
+  A an excretory organ B. a respiratory organ C. a sensory 
+  organ D. a protective organ.
+
+--- 1988 Q31 ---
+STEM: "Which of these plant groups are normally propagated by asexual means? A Banana, yam, pineapple and cassava B. Yam, cassava, rubber and banana C. Yam, cassava, orange and banana, D. Banana, cassava, coffee and pineapple."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  31. 
+  Which of these plant groups are normally 
+  propagated by asexual means? 
+  A Banana, yam, pineapple and cassava B. Yam,
+  cassava , rubber and banana C. Yam, cassava, 
+  orange and banana, D. Banana, cassava, coffee 
+  and pineapple.
+
+--- 1988 Q36 ---
+STEM: "If a dark-skinned woman (Bb) marries an albino man (bb) and they have four children, how many of the children will be dark-skinned?"
+OPTIONS (2):
+  A. "3"
+  B. "2 C.1 D.0."
+optionLabels: ["A","B"]
+
+RAW SOURCE:
+  36. 
+  If a dark-skinned woman (Bb) marries an albino man 
+  (bb) and they have four children, how many of the 
+  children will be dark-skinned? 
+  A. 3 
+  B. 2 
+  C.1 
+  D.0.
+
+######################################################################
+# YEAR 1989 — 8 broken
+######################################################################
+
+--- 1989 Q1 ---
+STEM: "The structure labelled 5 is the"
+OPTIONS (3):
+  A. "neucleolus"
+  B. "Golgi body"
+  C. "mitochondrion vacuole"
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  1. 
+  The structure labelled 5 is the 
+  A. neucleolus B. Golgi body C. mitochondrion vacuole
+
+--- 1989 Q10 ---
+STEM: "Which of the following is a common characteristic of crustaceans?"
+OPTIONS (3):
+  A. "Possession of a pair of antennae"
+  B. "Possession of two pairs of antennae. C Each segment has a pair of walking legs"
+  C. "Four pairs ofwalking legs on the cephalothorax."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  10. 
+  Which of the following is a common characteristic 
+  of crustaceans? 
+  A. 
+  Possession of a pair of antennae 
+  B. 
+  Possession of two pairs of antennae. 
+  C 
+  Each segment has a pair of walking legs 
+  D. 
+  Four pairs ofwalking legs on the 
+  cephalothorax.
+
+--- 1989 Q13 ---
+STEM: "Which of the labelled parts is used for feeling? A.1 B.2 C.3 D.4"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  13. 
+  Which of the labelled parts is used for feeling? 
+  A.1 
+  B.2 
+  C.3 
+  D.4
+
+--- 1989 Q16 ---
+STEM: "Which of the structure’s is the molar? A.1 B.2 C. 3 D.4"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  16. 
+  Which of the structure’s is the molar? 
+  A.1 
+  B.2 
+  C. 3 
+  D.4
+
+--- 1989 Q25 ---
+STEM: "Which of the labelled bones is the ulna?"
+OPTIONS (2):
+  A. "1"
+  B. "3 C.4 D.5"
+optionLabels: ["A","B"]
+
+RAW SOURCE:
+  25. 
+  Which of the labelled bones is the ulna? 
+  A. 1 
+  B. 3 
+  C.4 
+  D.5
+
+--- 1989 Q40 ---
+STEM: "In an ecosystem, the LEAST efficient energy transfer link is from"
+OPTIONS (3):
+  A. "producers to primary consumers"
+  B. "sun to producers"
+  C. "primary consumers to secondary consumers D secondary consumers to decomposers."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  40. 
+  In an ecosystem, the LEAST efficient energy 
+  transfer link is from 
+  A. producers to primary consumers B. sun to
+  producers C. primary consumers to secondary 
+  consumers D secondary consumers to 
+  decomposers.
+
+--- 1989 Q43 ---
+STEM: "Which of the ways of controlling bilharzia can result in pollution? A Clearing water weeds on which the snails feed. B. Treating infected people with drugs C. Preventing contamination of water by infected urine and faeces D. Applying chemical to kill the snails."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  43. 
+  Which of the ways of controlling bilharzia can 
+  result in pollution? 
+  A Clearing water weeds on which the snails feed. 
+  B. Treating infected people with drugs 
+  C. Preventing contamination of water by infected
+  urine and faeces D. Applying chemical to kill the 
+  snails.
+
+--- 1989 Q46 ---
+STEM: "5g of oven dried soil was heated in a furnace for 24hours, after cooling, it weighed 4.8g what is the amount of humus in the soil?"
+OPTIONS (3):
+  A. "40.0g per 100g dry soil B.4.4g per 100g dry soil"
+  B. "4.0g per 100g dry soil"
+  C. "0.4g per 100g dry soil."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  46. 
+  5g of oven dried soil was heated in a furnace for 
+  24hours, after cooling, it weighed 4.8g what is the 
+  amount of humus in the soil? 
+  A. 40.0g per 100g dry soil B.4.4g per 100g dry soil 
+  C. 4.0g per 100g dry soil D. 0.4g per 100g dry soil.
+
+######################################################################
+# YEAR 1990 — 6 broken
+######################################################################
+
+--- 1990 Q9 ---
+STEM: "Which part of the twig produces auxins? A.4 B.3 C.2 D.1"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  9. 
+  Which part of the twig produces auxins? 
+  A.4 
+  B.3 
+  C.2 
+  D.1 
+
+--- 1990 Q14 ---
+STEM: "The nephridia in the earthworm form part of the"
+OPTIONS (3):
+  A. "reproductive system"
+  B. "respiratory system. C circulatory system"
+  C. "excretory system."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  14. 
+  The nephridia in the earthworm form part of the 
+  A. reproductive system B. respiratory system. 
+  C circulatory system D. excretory system.
+
+--- 1990 Q27 ---
+STEM: "Which structure is the glomerulus?"
+OPTIONS (2):
+  A. "5 B.3"
+  B. "2 D.1."
+optionLabels: ["A","C"]
+
+RAW SOURCE:
+  27. 
+  Which structure is the glomerulus? 
+  A. 5 
+  B.3 
+  C. 2 
+  D.1.
+
+--- 1990 Q28 ---
+STEM: "If the blood is tooconcentrated, more water is absorbed from A. 5 B.4 C.3 D.1"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  28. 
+  If the blood is tooconcentrated, more water is absorbed from 
+  A. 5 B.4 C.3 D.1
+
+--- 1990 Q33 ---
+STEM: "All the cell bodies in the spinal cord are found in A.1 B.2 C.3 D.4"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  33. 
+  All the cell bodies in the spinal cord are found in 
+  A.1 
+  B.2 
+  C.3 
+  D.4
+
+--- 1990 Q36 ---
+STEM: "In an organism where the 2nd number of chromosomes is 16, the number of chromosomes in each gamete will be"
+OPTIONS (3):
+  A. "32"
+  B. "16 C.8"
+  C. "4"
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  36. 
+  In an organism where the 2nd number of chromosomes 
+  is 16, the number of chromosomes in each gamete will be 
+  A. 32 
+  B. 16 
+  C.8 
+  D. 4
+
+######################################################################
+# YEAR 1991 — 6 broken
+######################################################################
+
+--- 1991 Q1 ---
+STEM: "Which of the following structures is associated with aerobic respiration? A.1 B.2 C. 3 D.4"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  1. 
+  Which of the following structures is associated with 
+  aerobic respiration?
+  A.1 
+  B.2 
+  C. 3 
+  D.4
+
+--- 1991 Q12 ---
+STEM: "The respiratory organ in the land snail is the"
+OPTIONS (3):
+  A. "radula B,. mantle"
+  B. "tentacle"
+  C. "foot. Use the figure below to answer questions 13 and 14."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  12. 
+  The respiratory organ in the land snail is the
+  A. radula B,. mantle C. tentacle D. foot.
+  Use the figure below to answer questions 13 and 14.
+
+--- 1991 Q18 ---
+STEM: "In the digestive system, absorption of nutrients into the blood takes places in the part labeled A.1 B.2 C.3 D.4"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  18. 
+  In the digestive system, absorption of nutrients into 
+  the blood takes places in the part labeled 
+  A.1 
+  B.2 
+  C.3 
+  D.4
+
+--- 1991 Q19 ---
+STEM: "The gland which produces trypsin, amylase and lipase is labelLed A. 6 B.4 C.2 D.1"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  19. 
+  The gland which produces trypsin, amylase and lipase 
+  is labelLed 
+  A. 6 
+  B.4 
+  C.2 
+  D.1
+
+--- 1991 Q21 ---
+STEM: "The element common to protein, carbohydrate and lipid is"
+OPTIONS (3):
+  A. "hydrogen"
+  B. "sulphur"
+  C. "nitrogen D phosphorus."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  21. 
+  The element common to protein, carbohydrate and lipid is
+  A. hydrogen B. sulphur C. nitrogen D phosphorus.
+
+--- 1991 Q45 ---
+STEM: "Which of the following is likely to occur in a deciduous forest during the dry season?"
+OPTIONS (3):
+  A. "New leaves are formed B. The trees die off."
+  B. "The undergrowth increases"
+  C. "The ground becomes bare."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  45. 
+  Which of the following is likely to occur in a deciduous 
+  forest during the dry season? 
+  A. New leaves are formed B . The trees die off. 
+  C. The undergrowth increases D. The ground
+  becomes bare.
+
+######################################################################
+# YEAR 1992 — 2 broken
+######################################################################
+
+--- 1992 Q17 ---
+STEM: "In the absence of oxygen, the pyruvic acid produced during glycolysis is converted to Co2 and"
+OPTIONS (3):
+  A. "water B glycerol"
+  B. "ethanol"
+  C. "citric acid."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  17. 
+  In the absence of oxygen, the pyruvic acid produced 
+  during glycolysis is converted to Co2 and 
+  A. water B glycerol C. ethanol D. citric acid.
+
+--- 1992 Q20 ---
+STEM: "Melanin and kerantin are produced in the part labelled A.2 B.3 C.4 D5."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  20. 
+  Melanin and kerantin are produced in the part labelled 
+  A.2 
+  B.3 
+  C.4 
+  D5.
+
+######################################################################
+# YEAR 1993 — 5 broken
+######################################################################
+
+--- 1993 Q19 ---
+STEM: "Blood is pumped into the right ventricle by the contraction of the auricle wall through"
+OPTIONS (3):
+  A. "1"
+  B. "3 C 5"
+  C. "6."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  19. 
+  Blood is pumped into the right ventricle by the 
+  contraction of the auricle wall through 
+  A. 1 
+  B. 3 
+  C 5 
+  D. 6.
+
+--- 1993 Q29 ---
+STEM: "In H, the cotyledons are carried above the soil because"
+OPTIONS (3):
+  A. "the epicotyl grows faster than the hypocotyl B the hypocotyl grows faster than the epicotyl"
+  B. "both grow at the same rate"
+  C. "the epicotyls out grows the radicle."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  29. 
+  In H, the cotyledons are carried above the soil because 
+  A. the epicotyl grows faster than the hypocotyl 
+  B the hypocotyl grows faster than the epicotyl 
+  C. both grow at the same rate 
+  D. the epicotyls out grows the radicle.
+
+--- 1993 Q40 ---
+STEM: "Which of the following instruments is NOT used in measuring abiotic factors in any habitat?"
+OPTIONS (3):
+  A. "MicroscopeB. Thermometer"
+  B. "Hygrometer"
+  C. "Wind vane."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  40. 
+  Which of the following instruments is NOT used in 
+  measuring abiotic factors in any habitat? 
+  A. MicroscopeB. Thermometer C. Hygrometer D.Wind vane.
+
+--- 1993 Q41 ---
+STEM: "Plants adapted for life in salty marsh are called"
+OPTIONS (3):
+  A. "hydrophytes"
+  B. "xerophytes B. halophytes"
+  C. "epiphytes."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  41. 
+  Plants adapted for life in salty marsh are called 
+  A. hydrophytes B. xerophytes B. halophytes 
+  D. epiphytes.
+
+--- 1993 Q42 ---
+STEM: "Which group plants would be the first colonizers in an ecological succession changing rocks to soil? A Mosses. B. Ferns C. Lichens D. Grasses."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  42. 
+  Which group plants would be the first colonizers in an 
+  ecological succession changing rocks to soil? 
+  A Mosses. B. Ferns C. Lichens D. Grasses.
+
+######################################################################
+# YEAR 1994 — 1 broken
+######################################################################
+
+--- 1994 Q31 ---
+STEM: "The physical factors are represented by A.1,5,6, B. 4,5,7, C. 5,7,8, D. 6,7,8."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  31. 
+  The physical factors are represented by 
+  A.1,5,6, B. 4,5,7, C. 5,7,8, D. 6,7,8.
+
+######################################################################
+# YEAR 1995 — 2 broken
+######################################################################
+
+--- 1995 Q22 ---
+STEM: "An example of a plant having the placentation shown is A allamander B. hibiscus C. water lily D. pride of Barbados."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  22. 
+  An example of a plant having the placentation shown is
+  A  allamander 
+  B. hibiscus 
+  C. water lily 
+  D. pride of Barbados.
+
+--- 1995 Q42 ---
+STEM: "The specific number of chromosomes in each somatic cell is represented by"
+OPTIONS (3):
+  A. "2N"
+  B. "23"
+  C. "2N D N."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  42. 
+  The specific number of chromosomes in each somatic 
+  cell is represented by 
+  A. 2N 
+  B. 23 
+  C. 2N 
+  D N.
+
+######################################################################
+# YEAR 1997 — 6 broken
+######################################################################
+
+--- 1997 Q4 ---
+STEM: "Virus differ from all forms of life because they A have a thick cell wall B. feed on waste products of other organisms C. cause infectious diseases D. require other living cells to multiply."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  4. 
+  Virus differ from all forms of life because they 
+  A have  a thick  cell wall  B. feed on waste products
+  of other organisms 
+  C. cause infectious 
+  diseases D. require other living cells to multiply.
+
+--- 1997 Q7 ---
+STEM: "Which of the following perform similar functions? rhizoid. C. Sorus and indusium. D. Strobili and inflorescence."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  7. 
+  Which of the following perform similar functions?
+  rhizoid. C. Sorus and indusium. D. Strobili and 
+  inflorescence.
+
+--- 1997 Q12 ---
+STEM: ""
+OPTIONS (4):
+  A. "epiglottis"
+  B. "cardiac sphincter"
+  C. "duodenum"
+  D. "pyloric sphincter."
+optionLabels: ["A","B","C","D"]
+
+RAW SOURCE:
+  12.
+  A. epiglottis B. cardiac sphincter C. duodenum 
+  D. pyloric sphincter.
+
+--- 1997 Q13 ---
+STEM: "Trace elements are required by plants mainly for the"
+OPTIONS (3):
+  A. "formation of pigments and enzymes B. production of energy and hormones"
+  B. "manufacture of carbohydrates"
+  C. "manufacture of proteins. Use the diagram below to answer questions 14 and 15."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  13. 
+  Trace elements are required by plants mainly for the 
+  A. formation of pigments and enzymes 
+  B . production of energy and hormones 
+  C. manufacture of carbohydrates 
+  D. manufacture of proteins.
+  Use the diagram below to answer questions 14 and 15.
+
+--- 1997 Q23 ---
+STEM: "The appendicular skeleton is composed of the pectoral girdle"
+OPTIONS (3):
+  A. "pelvic girdle, fore and hind limbs B pelvic girdle and fore limbs"
+  B. "lumbar vertebrae and pelvic girdle"
+  C. "lumbar vertebrae, fore and hind limbs."
+optionLabels: ["A","C","D"]
+
+RAW SOURCE:
+  23. 
+  The appendicular skeleton is composed of the pectoral girdle 
+  A. pelvic girdle, fore and hind limbs 
+  B pelvic girdle 
+  and fore limbs 
+  C. lumbar vertebrae and pelvic 
+  girdle D. lumbar vertebrae, fore and hind limbs.
+
+--- 1997 Q45 ---
+STEM: "Which of the following characters is NOT sex-linked?"
+OPTIONS (3):
+  A. "Albinism"
+  B. "Baldness."
+  C. "Haemophilia C. Colour blindness."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  45. 
+  Which of the following characters is NOT sex-linked? 
+  A. Albinism 
+  B. Baldness. C. Haemophilia 
+  C. Colour blindness.
+
+######################################################################
+# YEAR 1998 — 8 broken
+######################################################################
+
+--- 1998 Q14 ---
+STEM: "In million’s test, when the reagent is added to a protein food item, a white precipitate is produced which turns A blue on heating B. yellow on heating C. green on heating D. red on heating."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  14. 
+  In million’s test, when the reagent is added to a protein 
+  food item, a white precipitate is produced which turns 
+  A blue on heating B. yellow on heating 
+  C. green on heating D. red on heating.
+
+--- 1998 Q18 ---
+STEM: "In adult mammalian blood, thecells which lack nucleus arethe A The diaphragm and intercostals muscles relax B. The thoracic cavity increases in volume C. The diaphragm and intercostals muscles contract D. The diaphragm contracts and the intercostals muscles to relax."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  18. 
+  In adult mammalian blood, thecells which lack nucleus arethe 
+  A The diaphragm and intercostals muscles relax 
+  B. The thoracic cavity increases in volume 
+  C. The diaphragm and intercostals muscles contract 
+  D. The diaphragm contracts and the intercostals
+  muscles to relax.
+
+--- 1998 Q19 ---
+STEM: "Which of the following movement occur during exhalation? A. thediaphragm contractsand theintercostals musclesrelax."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  19. 
+  Which of the following movement occur during 
+  exhalation? 
+  A. thediaphragm contractsand theintercostals musclesrelax. 
+
+--- 1998 Q31 ---
+STEM: "A freshwater plant such as water lily can solve the problem of buoyancy by the possession of"
+OPTIONS (3):
+  A. "aerenchymarous tissues"
+  B. "dissected leaves C.. thin cell walls of the epidermis"
+  C. "water-repelling epidermis."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  31. 
+  A freshwater plant such as water lily can solve the
+  problem of buoyancy by the possession of
+  A. aerenchymarous tissues B. dissected leaves 
+  C.. thin cell walls of the epidermis 
+  D. water-repelling epidermis.
+
+--- 1998 Q41 ---
+STEM: "The correct increasing order of size for the cell compoents responsible for heredity is"
+OPTIONS (3):
+  A. "chromosome DNA nucleus gene"
+  B. "DNA Gene chromosome nucleus"
+  C. "Chromosome nucleus DNA gene D. DNA gene nucleus chromosome."
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  41. 
+  The correct increasing order of size for the cell 
+  compoents responsible for heredity is 
+  A. chromosome 
+  DNA 
+  nucleus 
+  gene 
+  B. 
+  DNA 
+  Gene chromosome nucleus 
+  D. 
+  Chromosome  nucleus 
+  DNA 
+  gene 
+  D. 
+  DNA 
+  gene 
+  nucleus 
+  chromosome.
+
+--- 1998 Q45 ---
+STEM: "The bird’s bill adapted for fishing is labeled A I B. II C. III D. IV."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  45. 
+  The bird’s bill adapted for fishing is labeled 
+  A I 
+  B. II 
+  C. III 
+  D. IV.
+
+--- 1998 Q47 ---
+STEM: "In the honey bee colony, the drones are A sterile males with reduced mouth parts B. sterile ales with well-developed mouth parts C. fertile males with reduced mouth parts D. fertile males with well-developed mouth parts."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  47. 
+  In the honey bee colony, the drones are 
+  A sterile males with reduced mouth parts B. sterile 
+  ales with well-developed mouth parts C. fertile 
+  males with reduced mouth parts D. fertile males 
+  with well-developed mouth parts.
+
+--- 1998 Q49 ---
+STEM: "The best explanation for the theories of natural selection is that A all organisms have equal capacity for survival in their habitats B. organisms have varying capacities for survival in their habitats C. organisms compete or resources and better competitors survive and thrive D. habitats allow only organisms that will not have to complete for survival."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  49. 
+  The best explanation for the theories of natural selection 
+  is that
+  A all organisms have equal capacity for survival in
+  their habitats B. organisms have varying capacities 
+  for survival in their habitats C. organisms compete 
+  or resources and better competitors survive and 
+  thrive D. habitats allow only organisms that will 
+  not have to complete for survival.
+
+######################################################################
+# YEAR 1999 — 1 broken
+######################################################################
+
+--- 1999 Q16 ---
+STEM: "The dark reaction of photosynthesis involves"
+OPTIONS (3):
+  A. "fixation of carbon (IV) oxidetogive a six-carbon sugar"
+  B. "fixation of carbon (IV) oxide with the help of oxygen C. use of carbon (IV) oxide to produce glucose using ATP"
+  C. "uhfixation ofcarbon (IV) oxideon chlorophyll using hydrogen"
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  16. 
+  The dark reaction of photosynthesis involves 
+  A. fixation of carbon (IV) oxidetogive a six-carbon sugar 
+  B. fixation of carbon (IV) oxide with the help of oxygen 
+  C 
+  . use of carbon (IV) oxide to produce glucose using ATP 
+  D. 
+  uhfixation ofcarbon (IV) oxideon chlorophyll using hydrogen
+
+######################################################################
+# YEAR 2001 — 1 broken
+######################################################################
+
+--- 2001 Q40 ---
+STEM: "Which of the following statements is true of blood groups and blood transfusion?"
+OPTIONS (3):
+  A. "Group O is the universal recipient"
+  B. "Group A can donate to group A only"
+  C. "Group AB is the universal recipient"
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  40. 
+  Which of the following statements is true of blood 
+  groups and blood transfusion? 
+  A. Group O is the universal recipient 
+  B. Group A can donate to group A only 
+  C. Group AB is the universal recipient
+
+######################################################################
+# YEAR 2002 — 4 broken
+######################################################################
+
+--- 2002 Q25 ---
+STEM: "The structure that is common in the embryos of mammals, amphibians, birds, fishes and reptiles and which is an evidence of their common ancestry is the"
+OPTIONS (3):
+  A. "eye"
+  B. "chorion"
+  C. "allantois B. gillslits"
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  25. 
+  The structure that is common in the embryos of 
+  mammals, amphibians, birds, fishes and reptiles and 
+  which is an evidence of their common ancestry is the 
+  A. eye B. chorion C. allantois B. gillslits
+
+--- 2002 Q27 ---
+STEM: "Birds which are large with long straight pointed beaks, long necks and long legs are likely to be"
+OPTIONS (3):
+  A. "insect eaters"
+  B. "fish catchers C nectar feeders"
+  C. "fruit eaters"
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  27. 
+  Birds which are large with long straight pointed beaks, 
+  long necks and long legs are likely to be 
+  A. insect eaters B. fish catchers C nectar feeders 
+  D. fruit eaters
+
+--- 2002 Q31 ---
+STEM: "The capture and digestion of insects by a pitcher plant is a special form of nutrition termed"
+OPTIONS (3):
+  A. "autotraphic"
+  B. "heterotrophic C chemosynthetic"
+  C. "saprophytic Use the diagram below to answer questions 32 and 33"
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  31. 
+  The capture and digestion of insects by a pitcher plant 
+  is a special form of nutrition termed 
+  A. autotraphic B. heterotrophic C chemosynthetic 
+  D. saprophytic
+  Use the diagram below to answer questions 32 and 33
+
+--- 2002 Q36 ---
+STEM: "The mode of nutrition exhibited by a tapeworm is"
+OPTIONS (3):
+  A. "symbiotic"
+  B. "saprophytic C parasitic"
+  C. "holozoic"
+optionLabels: ["A","B","D"]
+
+RAW SOURCE:
+  36. 
+  The mode of nutrition exhibited by a tapeworm is 
+  A. symbiotic B. saprophytic C parasitic D. holozoic
+
+######################################################################
+# YEAR 2003 — 1 broken
+######################################################################
+
+--- 2003 Q50 ---
+STEM: "An argument against Lamarck’s heory of evolution is that A.acquired traits cannot be passed onto the offspring B. disuse of body part cannot weaken the part C. disused part is dropped off in the offspring D. traits cannot be acquired through constant use of body parts."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  50. 
+  An argument against Lamarck’s heory of evolution is that 
+  A .acquired traits cannot be passed onto the offspring 
+  B. disuse of body part cannot weaken the part 
+  C. disused part is dropped off in the offspring 
+  D. traits cannot be acquired  through constant use of body parts.
+  
+
+######################################################################
+# YEAR 2004 — 3 broken
+######################################################################
+
+--- 2004 Q27 ---
+STEM: "The absence of special food and water-conducting systems restricts the body size in A the bryophytes and the pteridophyes B. the thallophytes and the pteridophytes C. liverworts, mosses and ferns D. algae, liverworts and mosses."
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  27. 
+  The absence of special food and water-conducting 
+  systems restricts the body size in 
+  A the bryophytes and the pteridophyes 
+  B. the thallophytes and the pteridophytes C. liverworts,
+  mosses and ferns D. algae, liverworts and mosses.
+
+--- 2004 Q32 ---
+STEM: "The part labelled II is responsible for A respiration B. protein synthesis C. excretion D. photosynthesis"
+OPTIONS (0):
+optionLabels: []
+
+RAW SOURCE:
+  32. 
+  The part labelled II is responsible for 
+  A respiration B. protein synthesis C. excretion 
+  D.  photosynthesis
+
+--- 2004 Q50 ---
+STEM: "A farm practice that results in the loss of soil fertility is"
+OPTIONS (3):
+  A. "continuous cropping"
+  B. "mixed farming"
+  C. "bush fallowing D shifting cultivation."
+optionLabels: ["A","B","C"]
+
+RAW SOURCE:
+  50. 
+  A farm practice that results in the loss of soil fertility is 
+  A. continuous cropping B. mixed farming 
+  C. bush fallowing 
+  D shifting cultivation.
+  
