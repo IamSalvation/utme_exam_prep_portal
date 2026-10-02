@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/exam.css">
+    <title>Review Answers — Quickie Prep</title>
+</head>
+
+<body>
+
+    <header class="brand-header">
+        <a class="brand-header-left" href="index.html">
+            <img src="assets/logo/logo-dark.png" alt="Quickie Prep">
+            <div>
+                <div class="brand-name">Quickie Prep</div>
+                <div class="brand-tagline">Practice smart. Pass in seconds.</div>
+            </div>
+        </a>
+        <nav class="brand-nav">
+            <a href="index.html">Home</a>
+            <a href="result.html">Result</a>
+            <a href="dashboard.html">Dashboard</a>
+        </nav>
+    </header>
+
+    <div class="container container-wide">
+
+        <h1>Review Answers</h1>
+        <p class="text-muted" id="reviewMeta">—</p>
+
+        <!-- Filter bar -->
+        <div class="review-toolbar">
+            <div class="filter-buttons" id="filterButtons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="wrong">Wrong</button>
+                <button class="filter-btn" data-filter="correct">Correct</button>
+                <button class="filter-btn" data-filter="skipped">Skipped</button>
+                <button class="filter-btn" data-filter="flagged">Flagged</button>
+            </div>
+            <div class="review-count" id="reviewCount">—</div>
+        </div>
+
+        <!-- Summary chips -->
+        <div class="review-summary" id="reviewSummary"></div>
+
+        <!-- Questions list -->
+        <div id="reviewList"></div>
+
+        <!-- Bottom buttons -->
+        <div style="margin-top: 30px; display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="result.html" class="btn secondary">← Back to Result</a>
+            <a href="register.html" class="btn">Retake Mock Exam</a>
+            <a href="dashboard.html" class="btn secondary">View Dashboard</a>
+        </div>
+
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/review-engine.js"></script>
+</body>
+
+</html>

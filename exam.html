@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/exam.css">
+    <title>Exam in Progress — Quickie Prep</title>
+</head>
+
+<body class="exam-mode">
+
+    <header class="exam-topbar">
+        <div class="exam-brand">
+            <img src="assets/logo/logo-circle.png" alt="Quickie Prep">
+            <span>Quickie Prep</span>
+        </div>
+
+        <div class="exam-section-info">
+            <span id="sectionLabel">Section 1 of 4</span>
+            <strong id="subjectLabel">—</strong>
+        </div>
+
+        <div class="exam-timer" id="timerDisplay">120:00</div>
+    </header>
+
+    <div class="exam-progress-wrap">
+        <div class="exam-progress-info">
+            <span>Question <strong id="qIndexLabel">1</strong> of <strong id="qTotalLabel">180</strong></span>
+            <span id="answeredLabel">0 answered · 0 flagged</span>
+        </div>
+        <div class="progress-bar">
+            <div id="progressFill" style="width:0%"></div>
+        </div>
+    </div>
+
+    <main class="exam-main">
+        <section class="exam-question-panel">
+            <div class="question-block" id="questionBlock">
+                <div class="question-meta">
+                    <span class="q-badge" id="qBadge">Q1</span>
+                    <span class="q-subject" id="qSubject">—</span>
+                </div>
+                <p class="question-text" id="qText">Loading…</p>
+                <div class="options-group" id="optionsGroup"></div>
+            </div>
+
+            <div class="exam-nav-buttons">
+                <button class="btn secondary" id="prevBtn">← Previous</button>
+                <button class="btn secondary" id="flagBtn">⚑ Flag for Review</button>
+                <button class="btn" id="nextBtn">Next →</button>
+            </div>
+        </section>
+
+        <aside class="exam-sidebar">
+            <h3>Question Navigator</h3>
+            <div class="section-tabs" id="sectionTabs"></div>
+            <div class="q-grid" id="qGrid"></div>
+
+            <div class="sidebar-legend">
+                <div><span class="legend-box answered"></span> Answered</div>
+                <div><span class="legend-box flagged"></span> Flagged</div>
+                <div><span class="legend-box current"></span> Current</div>
+                <div><span class="legend-box"></span> Not attempted</div>
+            </div>
+
+            <button class="btn danger" id="submitBtn" style="width:100%; margin-top:16px;">
+                Submit Exam
+            </button>
+        </aside>
+    </main>
+
+    <div class="modal-backdrop" id="submitModal">
+        <div class="modal">
+            <h2>Submit Exam?</h2>
+            <p id="submitSummary">You've answered 0 of 180 questions.</p>
+            <p class="text-muted">Once submitted, you cannot change your answers.</p>
+            <div style="display:flex; gap:10px; margin-top:20px;">
+                <button class="btn danger" id="confirmSubmit">Yes, Submit</button>
+                <button class="btn secondary" id="cancelSubmit">Keep Working</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-backdrop" id="timeUpModal">
+        <div class="modal">
+            <h2>⏰ Time's Up!</h2>
+            <p>Your exam has been automatically submitted.</p>
+            <button class="btn" id="timeUpContinue" style="margin-top:16px;">See Results →</button>
+        </div>
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/modes.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/exam-engine.js"></script>
+</body>
+
+</html>

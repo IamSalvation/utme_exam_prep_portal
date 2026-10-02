@@ -1,0 +1,392 @@
+MATHEMATICS
+1.
+
+Without using table, evaluate (243)⅕ * (0.09)-1 * 125-⅔
+
+(A)
+(B)
+(C)
+(D)
+
+4
+¾
+3
+4/3
+
+2.
+
+Three consecutive positive integers a, b and c are such that b2 = 4(a + c). Find the value of c
+
+(A)
+(B)
+(C)
+
+6
+3
+9
+
+(D) 5
+3. Find the principal which amount to =N= 4,400 at simple interest in 5years at 2% per annum.
+(A) =N=3,800
+(B) =N=5.200
+(C) =N=5,000
+(D) =N=4,000
+4. The su of the fist tes of the pogessio , , , … is
+(A) 3(221 - 1)
+(B) 3(220 - 1)
+(C) 3(220 + 1)
+(D) 3(221 + 1)
+
+(B) 65%
+(C) 35%
+(D) 32%
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+5. Mr. Robson bought bags of orange for =N=2,500 each. He sold them for =N=90,000 at a loss of
+20%. How many bags of orange did he buy?
+(A) 60
+(B) 80
+(C) 50
+(D) 45
+6. The second and fifth terms of a geometric progression are 21 and 567 respectively find the first
+term and the common ratio of the progression.
+(A) 3, 7
+(B) 7, 3
+(C) -7, 3
+(D) -3, 7
+7. Tunse bought a house for =N=1,250,000 and spent =N=350,000.00 to renovate it. He then sold the
+house for =N=2,000,000.00. What is the percentage gain?
+(A) 40%
+
+8. List the integral values of which satisfy the inequality -2 < 7 – 3x ≤ 10
+(A) -1, 0, 1, 2
+(B) -2, 0, 1
+(C) 1, 2, 3
+(D) 0, 1,2
+9. In a class, 120 students speak English or French or both. 70 speak English and 55 speak French.
+How many speak English but not French.
+(A) 45
+
+(B) 50
+(C) 55
+(D) 60
+10. The lengths of the sides of a right angled triangle are ym, (3y – 1)m and (3y + 1)m, find y.
+(A) 12
+(B) 9
+(C) 8
+(D) 4
+11. Uche, Adamu and Ope share profit on a business deal. Uche received ⅓ of the profit and
+Adamu received ⅔ of the remainder. If Ope received the remaining =N=12,000, how much profit did they
+share?
+(A) =N=54, 000
+(B) =N=58,000
+(C) =N=48, 000
+(D) =N=42, 000
+12. A ladder resting on a vertical wall makes an angle whose tangent is 2.5 with the ground. If the
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+distance between the foot of the ladder and the wall is 60cm, what is the length of the ladder?
+(A) 2m
+(B) 1.6m
+(C) 0.8m
+(D) 3m
+13. Three students share a bag of garri in such a way that the first student took¼ of the garri and the
+second¾ of the remainder. What fraction of the bag of garri did the third student take?
+(A) 3/16
+(B) 2/9
+(C) ⅗
+(D) 4/15
+14. Solve the simultaneous linear equations 2x + 5y = 11, 7x + 4y = 2
+(A) 27/34, 34/27
+(B) -34/27, 73/27
+(C) ⅔, ⅘
+(D) ⅓, ⅖
+
+15. If x + 1 is a factor of x3 + 3x2 + Kx + 4, find the value of K.
+(A) 6
+(B) 4
+(C) -4
+(D) 3
+
+16. Paul and his friend, Peter went to buy an article costing =N=600. Peter had 10% of the cost and
+Paul 40% of the remainder. How much did they have altogether?
+(A) =N=320
+(B) =N=440
+(C) =N=276
+(D) =N=196
+17. Find all values of x satisfying the inequality -14 ≤ 4 – 3x ≤ 31
+(A) -6 ≤ x ≤ 9
+(B) -9 ≤ x ≤ 6
+(C) 5 ≤ x ≤ 8
+(D) 6 ≤ x ≤ 12
+18. What factor is common to all the expressions x2 - x, 2x2 - x - 1 and x2 - 1?
+(A) (2x - 1)
+(B) (x + 1)
+(C) (x - 1)
+(D) (2x + 3)
+
+(A) 270
+(B) 9
+(C) 27
+(D) 90
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+19. Fid the su to ifiit of the folloig seies + + / + / + / + …
+
+20. Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.
+(A) 5
+(B) 6
+(C) 8
+(D) 9
+
+21. Find the value of p, if the line which passes through (-1, -p) and (-2p, 2) is parallel to the line 2y + 8x
+– 17 = 0
+(A) 6/7
+(B) 4/7
+(C) ⅖
+(D) –6/7
+22. Obtain a maximum value of the function f(x) = x3 - 12x + 11
+(A) -15
+(B) 27
+(C) 15
+(D) 20
+
+23. If y = 5cos (-6x), dx/dy is
+(A) 30sin (-6x)
+(B) 5sin (-6x)
+(C) -30sin (-6x)
+(D) -30cos (-6x)
+24. Find the variance of the numbers k, k + 1, k + 2
+(A) ⅓
+(B) 3
+(C) ⅔
+(D) 1
+25. At what value of x is the function y = x2 - 6x - 7 minimum
+(A) 3
+(B) 5
+(C) 6
+(D) 2
+
+(A) (2, 4)
+(B) (3, 5)
+(C) (1, 3)
+(D) (1, 4)
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+26. The chances of three independent events P, Q, R occurring are ½, ⅔, ¼ respectively. What are
+the chances of P and Q only occurring?
+(A) ¼
+(B) ⅔
+(C) 2/9
+(D) ½
+27. If x and y represent the mean and the median respectively of the following marks of students in a
+Mathematics test 11, 12, 13, 14, 15, 16, 17, 18, 19, 21. Find x/y correct to 1 decimal places.
+(A) 1
+(B) 3
+(C) 5
+(D) 2
+28. Find the point on the Euclidean plane where the curve y = 2x2 - 2x + 9 has 2 as gradient.
+
+29. Find the equation of the line through (5, 7) parallel to the line 7x + 5y – 5 = 0
+(A) 5y + 7x= 70
+(B) 7x + 5y= 7
+(C) 5x + 7y= 110
+(D) y + 5x= 70
+
+30. AAUA allocations to various Faculties in a school budget are as follows:
+Science =N=35,000,000.00
+Education =N=25,000,000.00
+Law =N=20,000,000.00
+Social and Management- =N=20,000,000.00
+In a pie chart to represent this information the corresponding angle to Science is
+(A) 900
+(B) 1260
+(C) 450
+(D) 1000
+31. “iplif ⅓ - ¼ ⅔ + ⅖
+(A) 3 ⅟10
+(B) 3 9/10
+(C) 3 ⅖
+(D) 33 ⅕
+
+(A) 10
+(B) 2√5
+(C) 3
+(D) √10
+33.
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+32. Find the distance between points A(-4, 5) and B(-3, 2)
+
+No of children 0 1 2 3 4 5 6
+No of families 7 11 6 7 7 5 3
+
+Find the mode and median respectively of the distribution above.
+(A) 3, 1
+(B) 1, 2
+(C) 1, 6
+(D) 1, 1
+
+34. Rationalize (4√7 + √2)/(√2 - √7)
+(A) -√14 - 6
+(B) 2√14 - 6
+(C) -3√14 - 28
+(D) √14 - 8
+35. A housewife bought five yams at Y34 per yam and three oranges at Y5 each where Y is the currency
+reckoned in base six. The total amount spent by the housewife is
+(A) Y2256
+
+(B) Y2526
+(C) Y3156
+(D) Y3526
+36. Justice Starts a 5km walk from P on a bearing 0230 . He then walks 4km on a bearing of 1130 to Q.
+What is the bearing of Q from P?
+(A) 67.40
+(B) 230
+(C) 90.40
+(D) 1130
+37. Divide the L.C.M. of 36, 54 and 90 by their HCF
+(A) 15
+(B) 20
+(C) 30
+(C) 45
+
+(A) 4
+(B) 5
+(C) 3
+(D) 2
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+38. If 125x = 2010 find x
+
+39. Simplify 4⅓ – (2½ - 1 ⅗)
+(A) 7/30
+(B) 2 ½
+(C) 3 ⅟ 10
+(D) 3 13/30
+
+40. If x : y = ⅔ : ⅚ and y : z = ¾ : ½, find x : y : z
+(A) 21 : 15 : 10
+(B) 15 : 12 : 10
+(C) 12 : 15 : 10
+(D) 10 : 15 : 12
+
+41. The number 327,036 was corrected to 327,000. Which of the following can exactly describe the
+degree of approximation used?
+I. to 3 significant figures
+II. to 4 significant figures
+III to the nearest hundred
+IV to the nearest thousand
+(A) I and III only
+(B) II and IV only
+(C) I, II and III only
+
+(D) I, II, III and IV
+42. If 1010102 = x10 + 11112 the value of x is
+(A) 32
+(B) 27
+(C) 19
+(D) 13
+43. The population of a school is 1,376. Express this to three significant figures
+(A) 1,370
+(B) 1,376
+(C) 1,380
+(D) 138
+
+(A) =N=110
+(B) =N=105
+(C) =N=95
+(D) =N=92.50
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+44. A laoues dail age is =N=80 for the first 10 days and =N=100 for the next 9 days. Find the
+daily wage for the remaining 6 working days of the month, if his average daily wage for the month is
+=N=90.80
+
+45. Find the value of x if 4logx + 5logx – 7logx = log16
+(A) 2
+(B) 4
+(C) 8
+(D) 16
+
+46. A motorist drives from P to Q at an average speed of 80 km/hr and immediately returns from Q to P
+through the same route at an average speed of 50km/hr. The average speed for the round-trip journey is
+(A) 53.3 km/hr
+(B) 60.0 km/hr
+(C) 62.5 km/hr
+(D) 65.0 km/hr
+47. If X = {1, 2, 3, 4, 5, 6}, Y = {2, 4, 5, 7} and Z = {1, 4, 5} which of the following is (are) correct?
+I. n(X U Y U Z) = 13
+II. (X Y) U Z = X (Y U Z)
+III. n(X Y Z) = 2
+
+∩
+∩
+∩ ∩
+
+(A) I only
+(B) II only
+(C) I and III only
+(D) II and III only
+
+48. X sold a radio set to Y at profit of 10% and Y sold it for =N=2, 612.50 at a loss of 5%. The cost of the
+radio to X was
+(A) =N=2,500
+(B) =N=2,488
+(C) =N=2,375
+(D) =N=2,272
+49. Factorize: 62m + 1 + 7(6m) - 5
+(A) [3(6m) + 5][2(6m) – 1]
+(B) [3(6m) – 5][2(6m) + 1]
+(C) [3(6m) – 5][3(6m) + 1]
+(D) [2(6m) + 5][3(6m) – 1]
+50. The minimum point on the curve y = x2 – 4x + 3 is

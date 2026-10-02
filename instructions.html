@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Exam Instructions — Quickie Prep</title>
+</head>
+
+<body>
+
+    <header class="brand-header">
+        <a class="brand-header-left" href="index.html">
+            <img src="assets/logo/logo-dark.png" alt="Quickie Prep">
+            <div>
+                <div class="brand-name">Quickie Prep</div>
+                <div class="brand-tagline">Practice smart. Pass in seconds.</div>
+            </div>
+        </a>
+        <nav class="brand-nav">
+            <a href="index.html">Home</a>
+        </nav>
+    </header>
+
+    <div class="container">
+
+        <h1><span id="modeTitle">JAMB Mock Exam</span> — Instructions</h1>
+        <p class="text-muted">
+            Please read everything carefully before you begin. You cannot pause once the exam starts.
+        </p>
+
+        <!-- Candidate summary -->
+        <div id="candidateSummary" class="welcome-banner" style="margin-top: 20px;">
+            <div>
+                <h3 id="candName">—</h3>
+                <p id="candDetails">—</p>
+            </div>
+        </div>
+
+        <!-- Mode banner -->
+        <div class="explanation" id="modeBanner"
+            style="background: rgba(61,220,132,0.10); border-left-color: #3DDC84; margin-top: 16px;">
+            <strong>Mode: <span id="modeLabel">Full Mock</span></strong>
+            <span id="modeDescription"> · 180 questions · 2 hours · 400 marks</span>
+        </div>
+
+        <!-- Subject breakdown -->
+        <h2 style="margin-top: 30px;">Your Exam Structure</h2>
+        <div id="subjectBreakdown" class="subject-grid"></div>
+
+        <hr>
+
+        <!-- Rules -->
+        <h2>Exam Rules</h2>
+        <ol class="rules-list">
+            <li>
+                <strong>Time limit:</strong> You have <strong><span id="timeLimit">120</span> minutes</strong> to
+                complete the entire
+                exam.
+                The timer starts as soon as you click "Start Exam" and runs continuously.
+            </li>
+            <li>
+                <strong>Total questions:</strong> <strong><span id="qTotal">180</span> questions</strong> across 4
+                subjects.
+                <br>• Use of English: <strong><span id="qEnglish">60</span> questions</strong>
+                <br>• Each elective: <strong><span id="qElective">40</span> questions</strong>
+            </li>
+            <li>
+                <strong>Marks:</strong> Your exam is scored out of <strong><span id="maxMarks">400</span>
+                    marks</strong>.
+                Each subject is worth <strong><span id="perSubjectMarks">100</span> marks</strong>.
+            </li>
+            <li>
+                <strong>No negative marking:</strong> Wrong answers and unanswered questions carry <strong>0
+                    marks</strong>.
+                You are not penalized for guessing — <strong>attempt every question</strong>.
+            </li>
+            <li>
+                <strong>Free navigation:</strong> You can move between questions freely using the question grid.
+                You can also <strong>flag</strong> questions to review later.
+            </li>
+            <li>
+                <strong>Auto-save:</strong> Every answer is saved automatically. If your browser closes or you refresh,
+                you can resume from where you left off.
+            </li>
+            <li>
+                <strong>Timer alerts:</strong> You'll see warning colors at <strong><span id="warn30">30</span>
+                    min</strong>, <strong><span id="warn10">10</span>
+                    min</strong>,
+                and <strong><span id="warn5">5</span> min</strong> remaining.
+            </li>
+            <li>
+                <strong>Auto-submit:</strong> When the timer reaches <strong>0:00</strong>, your exam is submitted
+                automatically.
+            </li>
+            <li>
+                <strong>No pausing:</strong> Once you start, the timer keeps running. If you close the browser, the
+                timer continues.
+            </li>
+            <li>
+                <strong>Work offline:</strong> No internet needed. Your answers are stored locally on this device.
+            </li>
+        </ol>
+
+        <hr>
+
+        <!-- Pre-flight check -->
+        <h2>Pre-Flight Check</h2>
+        <ul class="checklist" id="preflight">
+            <li>✓ Candidate details saved</li>
+            <li>✓ 4 subjects selected</li>
+            <li>✓ Question bank loaded</li>
+            <li>✓ Ready to begin</li>
+        </ul>
+
+        <!-- Warning -->
+        <div class="explanation"
+            style="background: rgba(255,183,77,0.12); border-left-color: var(--color-warning); margin-top: 24px;">
+            <strong>⚠️ Ready to start?</strong><br>
+            Once you click "Start Exam", the <span id="warnMinutes">120</span>-minute timer begins immediately.
+            Make sure you're in a quiet place with no interruptions.
+        </div>
+
+        <!-- Action buttons -->
+        <div style="margin-top: 28px; display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="exam.html" class="btn" id="startBtn">Start Exam →</a>
+            <a href="register.html" class="btn secondary">← Edit Details</a>
+        </div>
+
+        <p class="text-muted" style="margin-top: 16px;">
+            By clicking "Start Exam", you agree to the rules above.
+        </p>
+
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/modes.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/instructions.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+    <title>Dashboard — Quickie Prep</title>
+</head>
+
+<body>
+
+    <header class="brand-header">
+        <a class="brand-header-left" href="index.html">
+            <img src="assets/logo/logo-dark.png" alt="Quickie Prep">
+            <div>
+                <div class="brand-name">Quickie Prep</div>
+                <div class="brand-tagline">Practice smart. Pass in seconds.</div>
+            </div>
+        </a>
+        <nav class="brand-nav">
+            <a href="index.html">Home</a>
+            <a href="register.html">New Mock</a>
+        </nav>
+    </header>
+
+    <div class="container container-wide">
+
+        <h1>Progress Dashboard</h1>
+        <p class="text-muted" id="dashMeta">—</p>
+
+        <!-- No attempts message -->
+        <div id="noAttempts" class="empty-state" style="display:none;">
+            <h2>No attempts yet</h2>
+            <p class="text-muted">Take your first mock exam to start tracking progress.</p>
+            <a href="register.html" class="btn" style="margin-top:16px;">Start Mock Exam</a>
+        </div>
+
+        <!-- ========== OVERVIEW CARDS ========== -->
+        <div id="overviewSection" style="display:none;">
+            <h2 style="margin-top: 24px;">Overview</h2>
+            <div class="dashboard-grid" id="overviewCards"></div>
+
+            <!-- ========== TREND CHART ========== -->
+            <h2 style="margin-top: 30px;">Score Trend</h2>
+            <div class="chart-container">
+                <canvas id="trendChart" width="800" height="300"></canvas>
+            </div>
+
+            <!-- ========== SUBJECT PERFORMANCE ========== -->
+            <h2 style="margin-top: 30px;">Subject Performance (Average)</h2>
+            <div class="dashboard-grid" id="subjectPerformance"></div>
+
+            <!-- ========== WEAK AREAS ========== -->
+            <h2 style="margin-top: 30px;">Recommendations</h2>
+            <div id="weakAreas" class="recommendations-list"></div>
+
+            <!-- ========== ATTEMPT HISTORY ========== -->
+            <h2 style="margin-top: 30px;">Attempt History</h2>
+            <div class="table-wrap">
+                <table class="attempt-table" id="attemptTable">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Date</th>
+                            <th>Score</th>
+                            <th>%</th>
+                            <th>Time Used</th>
+                            <th>Answered</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="attemptBody"></tbody>
+                </table>
+            </div>
+
+            <!-- Actions -->
+            <div style="margin-top: 30px; display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="register.html" class="btn">Take Another Mock</a>
+                <button class="btn secondary" id="exportAllBtn">Export All Attempts</button>
+                <button class="btn danger" id="clearDataBtn">Clear All Data</button>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="footer">
+        <strong>Quickie Prep</strong> · All data stored locally on this device.
+    </footer>
+
+    <script src="js/questions.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/dashboard-engine.js"></script>
+</body>
+
+</html>

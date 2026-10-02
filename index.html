@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#3DDC84">
+    <meta name="description"
+        content="Quickie Prep — 10,000+ verified JAMB past questions. Take a real JAMB mock exam, 180 questions, 2 hours, 400 marks.">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="apple-touch-icon" href="assets/logo/icon-192.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Quickie Prep — Practice Smart. Pass in Seconds.</title>
+</head>
+
+<body>
+
+    <!-- ================= SPLASH SCREEN ================= -->
+    <div id="splash">
+        <img class="splash-logo" src="assets/logo/logo-dark.png" alt="Quickie Prep">
+        <div class="splash-name">QUICKIE PREP</div>
+        <div class="splash-tag">Practice smart. Pass in seconds.</div>
+        <div class="splash-dots"><span></span><span></span><span></span></div>
+    </div>
+
+    <!-- ================= BRAND HEADER ================= -->
+    <header class="brand-header">
+        <a class="brand-header-left" href="index.html">
+            <img src="assets/logo/logo-dark.png" alt="Quickie Prep">
+            <div>
+                <div class="brand-name">Quickie Prep</div>
+                <div class="brand-tagline">Practice smart. Pass in seconds.</div>
+            </div>
+        </a>
+        <nav class="brand-nav" id="brandNav">
+            <a href="index.html">Home</a>
+            <a href="#subjects">Subjects</a>
+            <a href="dashboard.html" id="navDashboard" style="display:none;">Dashboard</a>
+        </nav>
+    </header>
+
+    <!-- ================= WELCOME BACK ================= -->
+    <div class="section" id="welcomeSection" style="display:none;">
+        <div class="welcome-banner">
+            <div>
+                <h3 id="welcomeName">Welcome back!</h3>
+                <p id="welcomeLast">Last attempt: —</p>
+            </div>
+            <div>
+                <a href="dashboard.html" class="btn secondary">View Dashboard</a>
+                <a href="register.html" class="btn">Start New Mock</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= HERO ================= -->
+    <section class="hero">
+        <h1>10,000+ Verified JAMB Questions</h1>
+        <p>Real JAMB mock exam · 180 questions · 2 hours · 400 marks</p>
+        <div>
+            <a href="register.html" class="btn">Start Mock Exam</a>
+            <a href="study.html" class="btn secondary">Practice Mode</a>
+        </div>
+        <div style="margin-top:24px;">
+            <span class="stat-badge">✓ 100% Offline</span>
+            <span class="stat-badge">✓ 99% Verified Accuracy</span>
+            <span class="stat-badge">✓ 16 Subjects</span>
+        </div>
+    </section>
+
+    <!-- ================= HOW IT WORKS ================= -->
+    <section class="section" id="how">
+        <h2>How Quickie Prep Works</h2>
+        <p>Follow these five steps to get JAMB-ready.</p>
+        <div class="subject-grid">
+            <div class="subject-card" style="cursor:default;">
+                <h3>1 · Register</h3>
+                <p class="text-muted" style="font-size:0.85rem;">Enter your name, course, exam year, and pick 3
+                    electives.</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <h3>2 · Take the Mock</h3>
+                <p class="text-muted" style="font-size:0.85rem;">180 questions across 4 subjects. 120-minute timer.
+                    Auto-submit.</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <h3>3 · See Your Score</h3>
+                <p class="text-muted" style="font-size:0.85rem;">Score out of 400 (real JAMB scale). Per-subject
+                    breakdown.</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <h3>4 · Review Answers</h3>
+                <p class="text-muted" style="font-size:0.85rem;">See every question, your answer, and the correct one.
+                    Filter wrong ones.</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <h3>5 · Track Progress</h3>
+                <p class="text-muted" style="font-size:0.85rem;">History of all attempts. Spot weak subjects. Retake &
+                    improve.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= SUBJECT GRID ================= -->
+    <section class="section" id="subjects">
+        <h2>Browse Subjects</h2>
+        <p>Top 8 subjects with the most verified questions.</p>
+        <div class="subject-grid" id="subjectGrid"></div>
+        <div style="text-align:center; margin-top:20px;">
+            <button class="btn secondary" id="showAllSubjects">Show All Subjects</button>
+        </div>
+    </section>
+
+    <!-- ================= STATS ================= -->
+    <section class="section text-center">
+        <h2>Why Students Trust Quickie Prep</h2>
+        <div class="subject-grid" style="grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); margin-top:20px;">
+            <div class="subject-card" style="cursor:default;">
+                <div style="font-size:2rem;font-weight:800;color:var(--color-primary);" id="statVerified">—</div>
+                <p class="text-muted">Verified Questions</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <div style="font-size:2rem;font-weight:800;color:var(--color-primary);" id="statSubjects">—</div>
+                <p class="text-muted">Subjects</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <div style="font-size:2rem;font-weight:800;color:var(--color-primary);" id="statAccuracy">—</div>
+                <p class="text-muted">Accuracy</p>
+            </div>
+            <div class="subject-card" style="cursor:default;">
+                <div style="font-size:2rem;font-weight:800;color:var(--color-primary);">41</div>
+                <p class="text-muted">Years of Papers</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="footer">
+        <strong>Quickie Prep</strong> — Built for Nigerian JAMB students.<br>
+        © 2026 · Works offline · No account needed
+    </footer>
+
+    <!-- ================= SCRIPTS ================= -->
+    <script src="js/questions.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/home.js"></script>
+</body>
+
+</html>

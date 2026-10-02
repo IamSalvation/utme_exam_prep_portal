@@ -1,0 +1,1809 @@
+[
+    {
+        "year": "1983",
+        "number": 10,
+        "question": "Express 0.0000625 in standard form.",
+        "options": [
+            "A. 6.25 × 10^-5",
+            "B. 6.25 × 10^-4",
+            "C. 6.25 × 10^5",
+            "D. 62.5 × 10^-6",
+            "E. 6.25 × 10^-3"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1983",
+        "number": 17,
+        "question": "Find the median of the numbers 5, 8, 12, 15, 20, 25, 30.",
+        "options": [
+            "A. 12",
+            "B. 15",
+            "C. 20",
+            "D. 8",
+            "E. 30"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1983",
+        "number": 23,
+        "question": "y varies directly as x and inversely as the square of z. If y = 4 when x = 8 and z = 2, find y when x = 16 and z = 4.",
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 8",
+            "D. 16",
+            "E. 32"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1983",
+        "number": 29,
+        "question": "A bag contains 5 red balls and 3 blue balls. Two balls are drawn at random without replacement. What is the probability that both are red?",
+        "options": [
+            "A. 5/28",
+            "B. 5/14",
+            "C. 25/64",
+            "D. 5/8",
+            "E. 3/14"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1983",
+        "number": 34,
+        "question": "Find the sum of the interior angles of a hexagon.",
+        "options": [
+            "A. 360°",
+            "B. 540°",
+            "C. 720°",
+            "D. 900°",
+            "E. 1080°"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1983",
+        "number": 40,
+        "question": "Solve for x: 2x + 5 = 13.",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 8"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1984",
+        "number": 4,
+        "question": "A trader bought 20 articles for ₦400 and sold each at ₦25. Find the total profit.",
+        "options": [
+            "A. ₦50",
+            "B. ₦80",
+            "C. ₦100",
+            "D. ₦120",
+            "E. ₦150"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 5,
+        "question": "Simplify (3/4 - 1/2) × (2/3 + 1/3).",
+        "options": [
+            "A. 1/2",
+            "B. 1/4",
+            "C. 1/3",
+            "D. 2/3",
+            "E. 1/8"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1984",
+        "number": 9,
+        "question": "A fair die is thrown once. What is the probability of obtaining a prime number?",
+        "options": [
+            "A. 1/6",
+            "B. 1/3",
+            "C. 1/2",
+            "D. 2/3",
+            "E. 5/6"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 13,
+        "question": "Rationalize 1/(√3 - √2).",
+        "options": [
+            "A. √3 + √2",
+            "B. √3 - √2",
+            "C. √5",
+            "D. 1",
+            "E. √6"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1984",
+        "number": 14,
+        "question": "If y = 2x² - 3x + 1, find y when x = 2.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 18,
+        "question": "Solve the inequality 2x - 3 < 5.",
+        "options": [
+            "A. x < 4",
+            "B. x > 4",
+            "C. x ≤ 4",
+            "D. x ≥ 4",
+            "E. x < 1"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1984",
+        "number": 21,
+        "question": "If 3x + 2 = 17, find the value of x.",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 7"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 22,
+        "question": "Given f(x) = 2x + 3, find f(4).",
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 10",
+            "D. 11",
+            "E. 12"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1984",
+        "number": 25,
+        "question": "If x² - 4 = 0, find the values of x.",
+        "options": [
+            "A. 2 only",
+            "B. -2 only",
+            "C. 2 and -2",
+            "D. 4 and -4",
+            "E. 0"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 28,
+        "question": "Factorize x² - 9.",
+        "options": [
+            "A. (x - 3)(x - 3)",
+            "B. (x + 3)(x + 3)",
+            "C. (x - 3)(x + 3)",
+            "D. x(x - 9)",
+            "E. (x - 9)(x + 1)"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 29,
+        "question": "Simplify 2x + 3y - x + 4y.",
+        "options": [
+            "A. x + 7y",
+            "B. 3x + 7y",
+            "C. x + y",
+            "D. 3x + y",
+            "E. x - 7y"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1984",
+        "number": 31,
+        "question": "Find the area of a circle of radius 7 cm. (Take π = 22/7)",
+        "options": [
+            "A. 44 cm²",
+            "B. 88 cm²",
+            "C. 154 cm²",
+            "D. 308 cm²",
+            "E. 616 cm²"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 32,
+        "question": "In a triangle, the angles are in the ratio 1:2:3. Find the largest angle.",
+        "options": [
+            "A. 30°",
+            "B. 60°",
+            "C. 90°",
+            "D. 120°",
+            "E. 150°"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 38,
+        "question": "Find the value of x if 5x - 3 = 2x + 9.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 39,
+        "question": "Find the value of x if 3^x = 81.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1984",
+        "number": 43,
+        "question": "The angle of elevation of the top of a tower from a point 30 m away is 45°. Find the height of the tower.",
+        "options": [
+            "A. 15 m",
+            "B. 20 m",
+            "C. 30 m",
+            "D. 45 m",
+            "E. 60 m"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1985",
+        "number": 2,
+        "question": "A sum of ₦5000 is invested at 8% per annum simple interest for 3 years. Calculate the total interest earned.",
+        "options": [
+            "A. ₦400",
+            "B. ₦800",
+            "C. ₦1200",
+            "D. ₦1500",
+            "E. ₦2000"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1985",
+        "number": 4,
+        "question": "Find the values of x satisfying the inequality 2x - 5 < 7.",
+        "options": [
+            "A. x < 6",
+            "B. x > 6",
+            "C. x < 1",
+            "D. x > 1",
+            "E. x = 6"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1985",
+        "number": 10,
+        "question": "A trader made a profit of ₦450 on goods costing ₦3000. What is his percentage profit?",
+        "options": [
+            "A. 10%",
+            "B. 12%",
+            "C. 15%",
+            "D. 18%",
+            "E. 20%"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1985",
+        "number": 11,
+        "question": "If log₁₀x = 2, find x.",
+        "options": [
+            "A. 20",
+            "B. 100",
+            "C. 200",
+            "D. 1000",
+            "E. 20,000"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1985",
+        "number": 12,
+        "question": "Make y the subject of the formula x = 3y + 2.",
+        "options": [
+            "A. y = (x - 2)/3",
+            "B. y = (x + 2)/3",
+            "C. y = 3x - 2",
+            "D. y = 3x + 2",
+            "E. y = x/3 + 2"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1985",
+        "number": 30,
+        "question": "A man walks 3 km due North and then 4 km due East. How far is he from his starting point?",
+        "options": [
+            "A. 5 km",
+            "B. 6 km",
+            "C. 7 km",
+            "D. 12 km",
+            "E. 25 km"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1986",
+        "number": 3,
+        "question": "The mean of 5 numbers is 8. If one of the numbers is removed, the mean becomes 6. Find the number removed.",
+        "options": [
+            "A. 10",
+            "B. 12",
+            "C. 14",
+            "D. 16",
+            "E. 18"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1986",
+        "number": 6,
+        "question": "If x = 3 and y = -2, evaluate 2x² - 3xy.",
+        "options": [
+            "A. 0",
+            "B. 6",
+            "C. 18",
+            "D. 30",
+            "E. 36"
+        ],
+        "answer": "E"
+    },
+    {
+        "year": "1986",
+        "number": 8,
+        "question": "Find the simple interest on ₦2400 for 2 years at 5% per annum.",
+        "options": [
+            "A. ₦120",
+            "B. ₦240",
+            "C. ₦360",
+            "D. ₦480",
+            "E. ₦600"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1986",
+        "number": 23,
+        "question": "Factorize x² - 5x + 6.",
+        "options": [
+            "A. (x - 1)(x - 6)",
+            "B. (x - 2)(x - 3)",
+            "C. (x + 1)(x + 6)",
+            "D. (x + 2)(x + 3)",
+            "E. (x - 2)(x + 3)"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1986",
+        "number": 34,
+        "question": "Simplify 3a + 4b - 2a + b.",
+        "options": [
+            "A. a + 5b",
+            "B. 5a + 5b",
+            "C. a + 3b",
+            "D. 5a + 3b",
+            "E. a - 5b"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1986",
+        "number": 41,
+        "question": "In a pie chart representing the distribution of 360 students by class, one sector has an angle of 72°. How many students are represented by this sector?",
+        "options": [
+            "A. 36",
+            "B. 54",
+            "C. 60",
+            "D. 72",
+            "E. 90"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1987",
+        "number": 21,
+        "question": "For what value of k is x² + 6x + k a perfect square?",
+        "options": [
+            "A. 3",
+            "B. 6",
+            "C. 9",
+            "D. 12",
+            "E. 36"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1987",
+        "number": 35,
+        "question": "If sin θ = 3/5 and θ is acute, find cos θ.",
+        "options": [
+            "A. 2/5",
+            "B. 3/4",
+            "C. 4/5",
+            "D. 5/3",
+            "E. 5/4"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1988",
+        "number": 2,
+        "question": "Find the sum of all prime numbers between 10 and 20.",
+        "options": [
+            "A. 30",
+            "B. 48",
+            "C. 60",
+            "D. 72",
+            "E. 90"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1988",
+        "number": 22,
+        "question": "If the angles of a quadrilateral are x, 2x, 3x and 4x, find x.",
+        "options": [
+            "A. 20°",
+            "B. 30°",
+            "C. 36°",
+            "D. 45°",
+            "E. 60°"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1988",
+        "number": 31,
+        "question": "A parallelogram has a base of 10 cm and a height of 6 cm. Find its area.",
+        "options": [
+            "A. 16 cm²",
+            "B. 30 cm²",
+            "C. 60 cm²",
+            "D. 120 cm²",
+            "E. 360 cm²"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1988",
+        "number": 34,
+        "question": "Find the sum of the interior angles of a pentagon.",
+        "options": [
+            "A. 360°",
+            "B. 450°",
+            "C. 540°",
+            "D. 720°",
+            "E. 1080°"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1988",
+        "number": 35,
+        "question": "A circle has radius 14 cm. Find its circumference. (π = 22/7)",
+        "options": [
+            "A. 22 cm",
+            "B. 44 cm",
+            "C. 66 cm",
+            "D. 88 cm",
+            "E. 154 cm"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1988",
+        "number": 43,
+        "question": "A metal pipe 10 cm long has external diameter 12 cm. Find the volume of metal if its thickness is 2 cm. (π = 22/7)",
+        "options": [
+            "A. 880 cm³",
+            "B. 1100 cm³",
+            "C. 2200 cm³",
+            "D. 3080 cm³",
+            "E. 4400 cm³"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1989",
+        "number": 13,
+        "question": "If 2x + 3y = 12 and x - y = 1, find the value of x.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1989",
+        "number": 20,
+        "question": "The probability that a student passes an exam is 0.7. What is the probability that he fails?",
+        "options": [
+            "A. 0.1",
+            "B. 0.2",
+            "C. 0.3",
+            "D. 0.4",
+            "E. 0.7"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1989",
+        "number": 21,
+        "question": "Find the value of x if 5^(x+1) = 125.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1989",
+        "number": 37,
+        "question": "A cone has base radius 7 cm and height 24 cm. Find its slant height.",
+        "options": [
+            "A. 17 cm",
+            "B. 25 cm",
+            "C. 31 cm",
+            "D. 168 cm",
+            "E. 175 cm"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1990",
+        "number": 13,
+        "question": "Solve for x: 3x - 7 = 14.",
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. 8",
+            "E. 9"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1990",
+        "number": 20,
+        "question": "Simplify (2/5) ÷ (4/15).",
+        "options": [
+            "A. 1/2",
+            "B. 3/2",
+            "C. 2/3",
+            "D. 3/4",
+            "E. 4/3"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1990",
+        "number": 25,
+        "question": "The area of a rectangle is 48 cm². If its length is 8 cm, find its perimeter.",
+        "options": [
+            "A. 22 cm",
+            "B. 24 cm",
+            "C. 26 cm",
+            "D. 28 cm",
+            "E. 32 cm"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1990",
+        "number": 31,
+        "question": "If log₁₀2 = 0.3010, find log₁₀8.",
+        "options": [
+            "A. 0.6020",
+            "B. 0.9030",
+            "C. 1.2040",
+            "D. 1.5050",
+            "E. 2.4080"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1990",
+        "number": 33,
+        "question": "Find the value of tan 45° + sin 30°.",
+        "options": [
+            "A. 1/2",
+            "B. 1",
+            "C. 3/2",
+            "D. 2",
+            "E. 5/2"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1990",
+        "number": 37,
+        "question": "A trader sells an item for ₦1200 at a loss of 20%. What was the cost price?",
+        "options": [
+            "A. ₦960",
+            "B. ₦1000",
+            "C. ₦1440",
+            "D. ₦1500",
+            "E. ₦1600"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1990",
+        "number": 41,
+        "question": "The sum of the first 10 terms of an AP is 155 and the first term is 2. Find the common difference.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1991",
+        "number": 4,
+        "question": "Find the value of x in the equation 4x - 3 = 2x + 7.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1991",
+        "number": 12,
+        "question": "The angle of a sector of a circle of radius 7 cm is 60°. Find the arc length. (π = 22/7)",
+        "options": [
+            "A. 7 1/3 cm",
+            "B. 8 1/3 cm",
+            "C. 9 1/3 cm",
+            "D. 11 cm",
+            "E. 22 cm"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1991",
+        "number": 15,
+        "question": "Simplify √50 - √18.",
+        "options": [
+            "A. √2",
+            "B. 2√2",
+            "C. 3√2",
+            "D. 4√2",
+            "E. 8√2"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1991",
+        "number": 16,
+        "question": "If 3y = 27, find the value of y².",
+        "options": [
+            "A. 3",
+            "B. 6",
+            "C. 9",
+            "D. 27",
+            "E. 81"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1991",
+        "number": 30,
+        "question": "A polygon has 5 sides. How many diagonals does it have?",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 10"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1991",
+        "number": 39,
+        "question": "Find the value of x in the equation x² - 5x + 6 = 0.",
+        "options": [
+            "A. 1 or 5",
+            "B. 2 or 3",
+            "C. -2 or -3",
+            "D. -1 or -6",
+            "E. 2 or -3"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1992",
+        "number": 19,
+        "question": "A die is thrown twice. What is the probability of obtaining two sixes?",
+        "options": [
+            "A. 1/36",
+            "B. 1/18",
+            "C. 1/12",
+            "D. 1/6",
+            "E. 1/3"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1992",
+        "number": 23,
+        "question": "Evaluate 2⁵ × 2⁻³.",
+        "options": [
+            "A. 1/4",
+            "B. 1/2",
+            "C. 2",
+            "D. 4",
+            "E. 8"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1992",
+        "number": 24,
+        "question": "If the mean of 4, 7, x, 9 and 12 is 8, find x.",
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 8",
+            "D. 9",
+            "E. 10"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1992",
+        "number": 25,
+        "question": "A trader bought an article for ₦800 and sold it for ₦1000. Find the percentage profit.",
+        "options": [
+            "A. 15%",
+            "B. 20%",
+            "C. 25%",
+            "D. 30%",
+            "E. 35%"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1992",
+        "number": 29,
+        "question": "A right-angled triangle has legs 6 cm and 8 cm. Find the hypotenuse.",
+        "options": [
+            "A. 7 cm",
+            "B. 10 cm",
+            "C. 12 cm",
+            "D. 14 cm",
+            "E. 48 cm"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1992",
+        "number": 30,
+        "question": "Find the simple interest on ₦5000 for 2 years at 6% per annum.",
+        "options": [
+            "A. ₦300",
+            "B. ₦600",
+            "C. ₦900",
+            "D. ₦1200",
+            "E. ₦1500"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1992",
+        "number": 32,
+        "question": "Rationalize 2/(√5 - √3).",
+        "options": [
+            "A. √5 + √3",
+            "B. √5 - √3",
+            "C. 2(√5 + √3)",
+            "D. 2(√5 - √3)",
+            "E. √2"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1992",
+        "number": 40,
+        "question": "Find the gradient of the line joining (2, 3) and (5, 9).",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 6"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1993",
+        "number": 2,
+        "question": "Simplify (2/3 + 1/6).",
+        "options": [
+            "A. 1/2",
+            "B. 2/3",
+            "C. 5/6",
+            "D. 1",
+            "E. 3/2"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 6,
+        "question": "Evaluate 25% of ₦480.",
+        "options": [
+            "A. ₦100",
+            "B. ₦110",
+            "C. ₦120",
+            "D. ₦130",
+            "E. ₦140"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 12,
+        "question": "If x + y = 10 and x - y = 4, find x.",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 7"
+        ],
+        "answer": "E"
+    },
+    {
+        "year": "1993",
+        "number": 13,
+        "question": "Find the value of 2 × 3! + 4!.",
+        "options": [
+            "A. 18",
+            "B. 24",
+            "C. 30",
+            "D. 36",
+            "E. 48"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1993",
+        "number": 14,
+        "question": "A trader made 25% profit on an item sold for ₦500. Find the cost price.",
+        "options": [
+            "A. ₦375",
+            "B. ₦400",
+            "C. ₦425",
+            "D. ₦450",
+            "E. ₦475"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1993",
+        "number": 23,
+        "question": "Solve: 2x² - 8 = 0.",
+        "options": [
+            "A. x = 2 only",
+            "B. x = -2 only",
+            "C. x = ±2",
+            "D. x = ±4",
+            "E. x = ±8"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 24,
+        "question": "The mean of 5 numbers is 12. If one number 8 is removed, find the new mean.",
+        "options": [
+            "A. 11",
+            "B. 12",
+            "C. 13",
+            "D. 14",
+            "E. 15"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 26,
+        "question": "Find the value of x if x² - 9x + 20 = 0.",
+        "options": [
+            "A. 1 or 20",
+            "B. 2 or 10",
+            "C. 4 or 5",
+            "D. -4 or -5",
+            "E. 4 or -5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 27,
+        "question": "Find the length of an arc of a circle of radius 21 cm subtending an angle 120° at the centre. (π = 22/7)",
+        "options": [
+            "A. 22 cm",
+            "B. 33 cm",
+            "C. 44 cm",
+            "D. 66 cm",
+            "E. 88 cm"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 28,
+        "question": "If log₃x = 2, find x.",
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 9",
+            "D. 12",
+            "E. 27"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 29,
+        "question": "A bag contains 3 white and 5 black balls. One ball is picked at random. Find the probability it is white.",
+        "options": [
+            "A. 1/8",
+            "B. 3/8",
+            "C. 5/8",
+            "D. 3/5",
+            "E. 5/3"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1993",
+        "number": 37,
+        "question": "A cylinder has radius 7 cm and height 10 cm. Find its volume. (π = 22/7)",
+        "options": [
+            "A. 220 cm³",
+            "B. 440 cm³",
+            "C. 770 cm³",
+            "D. 1540 cm³",
+            "E. 3080 cm³"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1993",
+        "number": 42,
+        "question": "Find the value of x if 2^x = 64.",
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7",
+            "E. 8"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 44,
+        "question": "The sides of a triangle are 5 cm, 12 cm and 13 cm. Find its area.",
+        "options": [
+            "A. 20 cm²",
+            "B. 25 cm²",
+            "C. 30 cm²",
+            "D. 60 cm²",
+            "E. 65 cm²"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1993",
+        "number": 45,
+        "question": "Simplify √27 + √12.",
+        "options": [
+            "A. √39",
+            "B. 5√3",
+            "C. 5√6",
+            "D. 9√3",
+            "E. 39"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1994",
+        "number": 1,
+        "question": "Simplify 5(2x - 3) - 3(x - 4).",
+        "options": [
+            "A. 7x - 3",
+            "B. 7x + 3",
+            "C. 7x - 27",
+            "D. 7x + 27",
+            "E. 13x - 3"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1994",
+        "number": 7,
+        "question": "Find x if 3x - 2 = x + 8.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1994",
+        "number": 11,
+        "question": "A car travels 240 km in 3 hours. Find its average speed.",
+        "options": [
+            "A. 60 km/h",
+            "B. 70 km/h",
+            "C. 75 km/h",
+            "D. 80 km/h",
+            "E. 90 km/h"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1994",
+        "number": 21,
+        "question": "If the mean of 2, 5, 8, x, 12 is 8, find x.",
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 11",
+            "D. 13",
+            "E. 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1994",
+        "number": 22,
+        "question": "Factorize 2x² + 7x + 3.",
+        "options": [
+            "A. (2x + 1)(x + 3)",
+            "B. (2x + 3)(x + 1)",
+            "C. (2x - 1)(x - 3)",
+            "D. (x + 1)(x + 3)",
+            "E. (2x - 3)(x + 1)"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1994",
+        "number": 28,
+        "question": "Convert 0.00045 to standard form.",
+        "options": [
+            "A. 4.5 × 10⁻⁴",
+            "B. 4.5 × 10⁻³",
+            "C. 4.5 × 10³",
+            "D. 45 × 10⁻⁵",
+            "E. 4.5 × 10⁴"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1994",
+        "number": 32,
+        "question": "The angles of a triangle are 3x, 4x and 5x. Find x.",
+        "options": [
+            "A. 12°",
+            "B. 15°",
+            "C. 18°",
+            "D. 20°",
+            "E. 24°"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1994",
+        "number": 38,
+        "question": "Find the value of x in the equation 4^(x-1) = 64.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1994",
+        "number": 39,
+        "question": "Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm.",
+        "options": [
+            "A. 40 cm²",
+            "B. 50 cm²",
+            "C. 60 cm²",
+            "D. 80 cm²",
+            "E. 100 cm²"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1995",
+        "number": 14,
+        "question": "Simplify (3x + 4) - (x - 2).",
+        "options": [
+            "A. 2x + 2",
+            "B. 2x + 6",
+            "C. 4x + 2",
+            "D. 4x + 6",
+            "E. 2x - 6"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1995",
+        "number": 17,
+        "question": "If x² = 49, find x.",
+        "options": [
+            "A. 7 only",
+            "B. -7 only",
+            "C. ±7",
+            "D. ±49",
+            "E. 24.5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1995",
+        "number": 19,
+        "question": "A trader sells an item for ₦250 at a profit of 25%. Find the cost price.",
+        "options": [
+            "A. ₦180",
+            "B. ₦190",
+            "C. ₦200",
+            "D. ₦210",
+            "E. ₦220"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1995",
+        "number": 24,
+        "question": "Find the value of x if 4^x = 1/64.",
+        "options": [
+            "A. -4",
+            "B. -3",
+            "C. -2",
+            "D. -1",
+            "E. 3"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1995",
+        "number": 29,
+        "question": "The mean of 3, 5, 7, 9, x is 8. Find x.",
+        "options": [
+            "A. 12",
+            "B. 14",
+            "C. 15",
+            "D. 16",
+            "E. 18"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1995",
+        "number": 37,
+        "question": "Calculate the volume of a cube of side 4 cm.",
+        "options": [
+            "A. 12 cm³",
+            "B. 16 cm³",
+            "C. 48 cm³",
+            "D. 64 cm³",
+            "E. 96 cm³"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1995",
+        "number": 45,
+        "question": "If 2x - y = 5 and x + y = 4, find x.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1997",
+        "number": 7,
+        "question": "If x varies inversely as y and x = 8 when y = 3, find x when y = 6.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 6",
+            "E. 16"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1997",
+        "number": 23,
+        "question": "Find the value of (0.02)² × 500.",
+        "options": [
+            "A. 0.2",
+            "B. 0.5",
+            "C. 1",
+            "D. 2",
+            "E. 5"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "1997",
+        "number": 29,
+        "question": "A regular polygon has each exterior angle equal to 30°. How many sides does it have?",
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 10",
+            "D. 12",
+            "E. 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1997",
+        "number": 32,
+        "question": "Find the value of x if log₂x = 5.",
+        "options": [
+            "A. 10",
+            "B. 16",
+            "C. 25",
+            "D. 32",
+            "E. 64"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1997",
+        "number": 35,
+        "question": "Solve for x: x² - 7x + 12 = 0.",
+        "options": [
+            "A. 1 or 12",
+            "B. 2 or 6",
+            "C. 3 or 4",
+            "D. -3 or -4",
+            "E. 4 or -3"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1997",
+        "number": 41,
+        "question": "The diameter of a circle is 20 cm. Find its area. (π = 3.14)",
+        "options": [
+            "A. 31.4 cm²",
+            "B. 62.8 cm²",
+            "C. 314 cm²",
+            "D. 628 cm²",
+            "E. 1256 cm²"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1997",
+        "number": 43,
+        "question": "Find the value of sin 30° × cos 60°.",
+        "options": [
+            "A. 1/8",
+            "B. 1/4",
+            "C. 1/2",
+            "D. 3/4",
+            "E. 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1998",
+        "number": 19,
+        "question": "Simplify 5√2 - 3√2 + √2.",
+        "options": [
+            "A. 2√2",
+            "B. 3√2",
+            "C. 4√2",
+            "D. 5√2",
+            "E. 9√2"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1998",
+        "number": 21,
+        "question": "If 2x + y = 10 and y = 4, find x.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1998",
+        "number": 23,
+        "question": "The sum of the interior angles of a polygon is 1080°. How many sides does it have?",
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 8",
+            "D. 9",
+            "E. 10"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1998",
+        "number": 37,
+        "question": "If x = 3, y = -1, evaluate x² + 2xy - y².",
+        "options": [
+            "A. 4",
+            "B. 6",
+            "C. 8",
+            "D. 10",
+            "E. 14"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1999",
+        "number": 14,
+        "question": "Find the value of x if 3x + 4 = 19.",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 7"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1999",
+        "number": 16,
+        "question": "The area of a square is 121 cm². Find its perimeter.",
+        "options": [
+            "A. 11 cm",
+            "B. 22 cm",
+            "C. 33 cm",
+            "D. 44 cm",
+            "E. 121 cm"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "1999",
+        "number": 18,
+        "question": "Simplify (a²)³.",
+        "options": [
+            "A. a⁵",
+            "B. a⁶",
+            "C. a⁸",
+            "D. a⁹",
+            "E. 3a²"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "1999",
+        "number": 28,
+        "question": "If log₁₀x = 3, find x.",
+        "options": [
+            "A. 100",
+            "B. 300",
+            "C. 1000",
+            "D. 3000",
+            "E. 10000"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1999",
+        "number": 31,
+        "question": "A sphere has radius 3 cm. Find its volume. (π = 22/7)",
+        "options": [
+            "A. 22 cm³",
+            "B. 88 cm³",
+            "C. 113 1/7 cm³",
+            "D. 132 cm³",
+            "E. 396 cm³"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "1999",
+        "number": 44,
+        "question": "Find the value of cos 60°.",
+        "options": [
+            "A. 1/2",
+            "B. √2/2",
+            "C. √3/2",
+            "D. 1",
+            "E. √3"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "2000",
+        "number": 13,
+        "question": "Find the LCM of 12 and 18.",
+        "options": [
+            "A. 6",
+            "B. 24",
+            "C. 36",
+            "D. 54",
+            "E. 72"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2000",
+        "number": 23,
+        "question": "The probability of drawing a red card from a standard deck is:",
+        "options": [
+            "A. 1/4",
+            "B. 1/3",
+            "C. 1/2",
+            "D. 2/3",
+            "E. 3/4"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2000",
+        "number": 41,
+        "question": "Find the equation of a line with gradient 2 passing through (1, 3).",
+        "options": [
+            "A. y = 2x + 1",
+            "B. y = 2x - 1",
+            "C. y = 2x + 3",
+            "D. y = 2x - 3",
+            "E. y = 3x + 2"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "2001",
+        "number": 2,
+        "question": "Convert 3/8 to a decimal.",
+        "options": [
+            "A. 0.125",
+            "B. 0.250",
+            "C. 0.375",
+            "D. 0.500",
+            "E. 0.625"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2001",
+        "number": 31,
+        "question": "A circle has diameter 14 cm. Find its circumference. (π = 22/7)",
+        "options": [
+            "A. 22 cm",
+            "B. 44 cm",
+            "C. 154 cm",
+            "D. 616 cm",
+            "E. 88 cm"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "2001",
+        "number": 37,
+        "question": "If y varies inversely as x and y = 6 when x = 4, find y when x = 3.",
+        "options": [
+            "A. 4",
+            "B. 6",
+            "C. 8",
+            "D. 12",
+            "E. 18"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2002",
+        "number": 8,
+        "question": "Find the value of (2/3)³.",
+        "options": [
+            "A. 2/9",
+            "B. 4/9",
+            "C. 6/9",
+            "D. 8/27",
+            "E. 6/27"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "2002",
+        "number": 31,
+        "question": "Find the sum of the first 20 natural numbers.",
+        "options": [
+            "A. 190",
+            "B. 200",
+            "C. 210",
+            "D. 220",
+            "E. 400"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2002",
+        "number": 34,
+        "question": "The angle of elevation of the sun is 30°. Find the shadow length of a 10 m pole.",
+        "options": [
+            "A. 5 m",
+            "B. 10√3 m",
+            "C. 10/√3 m",
+            "D. 10 m",
+            "E. 20 m"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "2002",
+        "number": 35,
+        "question": "Simplify √45 + √20.",
+        "options": [
+            "A. 5√5",
+            "B. 5√65",
+            "C. 6√5",
+            "D. √65",
+            "E. 65"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "2002",
+        "number": 38,
+        "question": "If x + 2y = 8 and 2x - y = 6, find x.",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5",
+            "E. 6"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2002",
+        "number": 39,
+        "question": "Find the value of x in 5^(2x - 1) = 125.",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "2003",
+        "number": 3,
+        "question": "Simplify 3(2x - 1) - 2(x + 3).",
+        "options": [
+            "A. 4x - 9",
+            "B. 4x + 9",
+            "C. 4x - 3",
+            "D. 4x + 3",
+            "E. 8x - 9"
+        ],
+        "answer": "A"
+    },
+    {
+        "year": "2003",
+        "number": 10,
+        "question": "The sum of the interior angles of a regular polygon is 720°. Find the size of each interior angle.",
+        "options": [
+            "A. 60°",
+            "B. 90°",
+            "C. 108°",
+            "D. 120°",
+            "E. 135°"
+        ],
+        "answer": "D"
+    },
+    {
+        "year": "2003",
+        "number": 16,
+        "question": "A trader makes 15% profit on a good sold for ₦690. Find the cost price.",
+        "options": [
+            "A. ₦500",
+            "B. ₦550",
+            "C. ₦600",
+            "D. ₦650",
+            "E. ₦700"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2003",
+        "number": 25,
+        "question": "The sides of a right triangle are 9 cm and 12 cm. Find the hypotenuse.",
+        "options": [
+            "A. 13 cm",
+            "B. 14 cm",
+            "C. 15 cm",
+            "D. 16 cm",
+            "E. 21 cm"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2003",
+        "number": 34,
+        "question": "A rectangle is 12 cm long and 5 cm wide. Find the length of its diagonal.",
+        "options": [
+            "A. 7 cm",
+            "B. 11 cm",
+            "C. 13 cm",
+            "D. 15 cm",
+            "E. 17 cm"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2003",
+        "number": 35,
+        "question": "Find the mean of 4, 6, 8, 10, 12.",
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 8",
+            "D. 9",
+            "E. 10"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2003",
+        "number": 38,
+        "question": "Simplify log₁₀1000 - log₁₀100.",
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3",
+            "E. 10"
+        ],
+        "answer": "B"
+    },
+    {
+        "year": "2003",
+        "number": 44,
+        "question": "If a fair coin is tossed twice, find the probability of getting at least one head.",
+        "options": [
+            "A. 1/4",
+            "B. 1/3",
+            "C. 1/2",
+            "D. 2/3",
+            "E. 3/4"
+        ],
+        "answer": "E"
+    },
+    {
+        "year": "2004",
+        "number": 4,
+        "question": "Simplify (x + 3)².",
+        "options": [
+            "A. x² + 3",
+            "B. x² + 6",
+            "C. x² + 6x + 9",
+            "D. x² + 9",
+            "E. x² + 3x + 9"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2004",
+        "number": 36,
+        "question": "Find the value of x if 3^(x-1) = 81.",
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6",
+            "E. 7"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2004",
+        "number": 38,
+        "question": "The mean of 10 numbers is 15. If one number is removed, the mean becomes 14. Find the removed number.",
+        "options": [
+            "A. 15",
+            "B. 20",
+            "C. 24",
+            "D. 25",
+            "E. 30"
+        ],
+        "answer": "C"
+    },
+    {
+        "year": "2004",
+        "number": 42,
+        "question": "The angle of elevation of a point on top of a building from the ground 20 m away is 60°. Find the height.",
+        "options": [
+            "A. 10√3 m",
+            "B. 20√3 m",
+            "C. 40 m",
+            "D. 20/√3 m",
+            "E. 10 m"
+        ],
+        "answer": "B"
+    }
+]

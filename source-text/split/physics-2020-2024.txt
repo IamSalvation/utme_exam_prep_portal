@@ -1,0 +1,461 @@
+PHYSICS
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+(A) (2, -1)
+(B) (0, 3)
+(C) (1, 0)
+(D) (2, -4)
+
+1. What is the dimension for velocity?
+(A) ML
+(B) LT-1
+(C) MT
+(D) L-2
+(E) M3 L-1
+
+2. A car moving with a velocity of 20m/s at 30o to the horizontal, what is the components of the
+velocity along the horizontal
+(A) 17.3m/s
+(B) 10m/s
+(C) 20m/s
+(D) 21m/s
+(E) 34m/s
+3. If a moving car X collides head–on with a moving car Y in the opposite direction, the conservation of
+momentum states that:
+(A) the final momentum of X= final of Y
+(B) total momentum of X and Y is reversed
+(C) total momentum of X and Y stays constant
+(D) initial and final momentum of X is the same
+
+(E) initial and final momentum of Y is the same
+4. A bullet of mass 20g travelling horizontally at 100m/s, embeds itself in the centre of a block of
+wood 1kg which is suspended by light vertical string 1m, calculate the velocity
+(A) 51/100 m/s
+(B) 100/51 m/s
+(C) 101/50 m/s
+(D) 21/50 m/s
+(E) 23/51 m/s
+5. A car X moving of mass 500kg accelerates at 1ms-2 when the force due to engine is 600N
+(A) 200N
+(B) 300N
+(C) 234N
+(D) 100N
+(E) 600N
+
+(A) 0.2kw
+(B) 4.0kw
+(C) 10kw
+(D) 15kw
+(E) 20kw
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+6. Starting from rest a car of mass 1000kg accelerates steadily to 20m/s in 10 sec , what is the average
+power developed?
+
+7. A gun of mass 0.1kg has a bullet of mass 0.1kg , the bullet laves the piston when fired at a velocity
+of 200m/s , find the final velocity
+(A) 20m/s
+(B) 23m/s
+(C) 30m/s
+(D) 45m/s
+(E) 15m/s
+
+8. Which of the following pairs has one vector and one scalar quantity?
+(A) displacement, acceleration
+(B) potential energy, work
+(C) speed, power
+(D) kinetic energy, force
+(E) velocity, momentum
+9. If p is the momentum of an object, then the expression P2/m has the same units as
+(A) acceleration
+(B) Energy
+(C) force
+
+(D) impulse
+(E) power
+10. A ship floating in clear water of density 1000kg moves to sea-water of density 1050kg where it
+floats, the upthrust on the ship then
+(A) stays constant
+(B) decreases
+(C) increases
+(D) increases by 0.05 times
+(E) decreases by 0.05 times
+11. I Colous law, the force between two point charges is proportional to
+
+(A) 1nand 2
+(B) 1and 3
+(C) 2and 3
+(D) 1only
+(E) 2 only
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+1) the square of the distance between them
+2) product of charges
+3) permitivity of the medium
+
+12. If two equal charges each 1C were separated in air by distance of 1km, what would be the force
+between them
+(A) 2KN
+(B) 3KN
+(C) 9KN
+(D) 10KN
+(E) 4KN
+13. Two positive point charges of 12µC and 8µC are 10cm apart, find the work done in bringing them
+4cm closer that is they are 6cm. Take /πϵϵ = 9x109 Mf-1o
+(A) 5.8J
+(B) 3.8J
+(C) 4.8J
+(D) 6.8J
+(E) 2.8J
+
+14. A steady current of 0.5A flows through a wire, how much charge passes through the wire in one
+minute?
+(A) 32C
+(B) 23C
+(C) 45C
+(D) 12C
+(E) 30C
+
+15. The main evidence that light rays travel in a straight line is that
+1. Incident, reflected and the normal lie in the same plane,
+2. Pin-hole camera
+3. ecllipse of the sun
+4. Divergence of light rays
+(A) 1 only
+(B) 2. Only
+(C) 3 only
+(D) 3and 4 only
+(E) 1, 2, and 3 only
+16. Determine the potential difference between the ends of a wire of resistance 5&Omega; if 72oC
+passes through it per minute.
+(A) 70V
+(B) 60V
+(C) 65V
+(D) 80V
+(E) 85V
+
+(A) XL = XC
+(B) X=L
+(C) R=C
+(D) Z=R-C n
+(E) R/C=0
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+17. For an AC circuit at resonance it means:
+
+18. The image obtained with a converging lens is upright and three times the length of the object, if the
+focal length of the lrns is 20cm. Calculate the object distance
+(A) 13.3cm
+(B) 40cm
+(C) 33.1cm
+(D) 40.3cm
+(E) 34.9cm
+
+19. Which of the followings are the characteristics of light rays:
+1) reflection
+2) refraction
+3) dispersion
+4) condition
+5) chrominatioN
+(A) 1 and 2
+(B) 1 and 3
+(C) 2 and 3
+
+(D) 1, 2 and 3
+(E) 3, 4 and 5
+20. The two commonly used lenses in an Astronomical telescope are:
+(A) objective, diverging
+(B) eye-piece, covering
+(C) objective, eye-piece
+(D) objective, converging
+(E) None
+21. In dispersion of light rays which is odd out of followings:
+
+(A) 1 only
+(B) 2 only
+(C) 3only
+(D) 1, 2, 3and 4only
+(E) 1,2 and 3
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+1. It involves separation of colours
+2. Separation is due to differences in speeds
+3. All colours travel with the same speed in vacuum
+4. no speed is involved
+
+22. Sound waves and light waves cannot both be
+(A) refracted
+(B) reflected
+(C) made to produce an interference
+(D) polarised
+(E) diffracted
+
+23. Which of the statements below are correct about threshold wavelength of a metal
+1. increases with frequency of light
+2. decreases with frequency of light
+3. Increases with light intensity
+(A) 1 only
+(B) 2 only
+(C) 3 only
+(D) 1, 2 and3only
+(E) None of the above
+24. A ball is projected from the ground at an angle of 30o with the horizontal at an initial speed of 40
+ms-1. Ignoring air friction, calculate the time it will take the ball to strike the ground. (Take acceleration
+due to gravity g = 10 ms-2).
+(A) 2 s
+(B) 3 s
+
+(C) 4 s
+(D) 5 s
+25. Light of wavelength 450nm is shone on to the surface of a metal of work function 3.2x10-19J, the
+maximum energy of emitted electron in 10-19J is.
+(A) 0.8
+(B) 1.2
+(C) 2.4
+(D) 2.8
+(E) 3.2
+26. A woman weighs 500 N and stand on a weighing balance in an elevator. If the elevator accelerates
+downwards at 1.2 ms-2, the reading of the balance is [g = 10 ms-2]
+
+(A) gamma rays
+(B) beta particles
+(C) Alpha particles
+(D) hydrogen
+(E) Ceaseium
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+(A) 400 N
+(B) 440 N
+(C) 540 N
+(D) 600 N
+27. The type of radiation that does not have effect with electric or magnetic field is
+
+28. How much water at 0oC is needed to cool 0.5 kg of water at 80oC down 20oC?
+(A) 1.0 kg
+(B) 1.5 kg
+(C) 2.0 kg
+(D) 2.5 kg
+
+29. The electromagnetic radiation with the strongest penetrating power is
+(A) Ceaseium
+(B) beta particles
+(C) Alpha particles
+(D) hydrogen
+(E) gamma rays
+
+30. A ball is dropped from a roof at the same time as another ball is thrown upward from the roof.
+The two balls
+(A) Have the same velocity when they reach the ground
+(B) Have the same acceleration when they reach the ground
+(C) Reach the ground at the same time
+(D) Reach the ground at the same time
+
+(E) None of the above
+31. Which of the following particle is more strongly affected by magnetic field
+(A) Apha
+(B) beta
+(C) gamma
+(D) X-rays
+32. A stone thrown upward has and acceleration that is
+(A) smaller than that of a stone thrown downward
+(B) the same as that of the stone thrown downward
+(C) Greater than that of a stone thrown downward
+(D) Zero until it reaches the highest point in its path
+(E) None of the above
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+33. A car towing a trailer is accelerating on a level road. The car exerts a force on the trailer whose
+magnitude is
+(A) the same as that of the force the trailer exerts on the car
+(B) The same as that of the force the trailer exerts on the road
+(C) the same as that of the force the road exerts on the trailer
+(D) greater than that of the force the trailer exerts on the car
+(E) None of the above
+34. A solenoid has 2000 turns on its 40cm length. What is the magnetic field intensity at its centre
+if it carries a current of 5A?
+(A) 0.314A
+(B) 3.14A
+(C) 0.0314A
+(D) 314A
+(E) 31.4A
+
+35. How long does a bicycle with an acceleration of 0.8m/s2 take to go from 4 to 12m/s?
+(A) 6.4s
+(B) 10s
+(C) 15s
+(D) 26s
+(E) None of the above
+
+36. A household refrigerator consumes electrical energy at the rate of 200W if the electricity cost 5k
+per kWh; calculate the cost (in naira) of operating the appliances for 30 days.
+(A) 7.20
+(B) 12.00
+(C) 30.00
+(D) 33.33
+
+(E) 72.00
+37. A stone is dropped from the top of a tall building and at the same time, another stone is thrown
+vertically upwards from the ground level with a velocity of 20m/s. The stones meet exactly 2s after their
+release. How tall is the building?
+(A) 50m
+(B) 60m
+(C) 70m
+(D) 40m
+(E) None of the above
+38. The resistivity of a metal such as copper increases with increasing temperature because
+(A) the conduction electrons make more frequent collisions with each other
+(B) the conduction electrons make more frequent collisions with the atoms of the metal
+(C) the metal expands and offers more resistance to the flow of electrons
+(D) it is more difficult to cause electrons to leave their parent atom
+(E) the positive ions in the metal undergo more collisions with neutral atos
+39. At what respectie alues of , ad z ould the Netos e diesioall euialet to MxLyTz
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+(A) -1, 1, 2
+(B) 1, -1, 2
+(C) 1, 1,-2
+(D) -1, -1, -2
+40. A particle of charge q and mass m moving with a velocity v enters a uniform magnetic field B in the
+direction of the field. The force on the particle is
+(A) Bqv
+(B) Bqmv
+(C) Bqv/m
+(D) Bmv/q
+(E) mv/Bq
+41. For which of the under listed quantities is the derived ML2T-2 correct?
+I. Moment of a force
+II. Work
+III. Acceleration
+(A) I only
+(B) II only
+(C) III only
+(D) I and II
+42. A negatively charged rod is brought near the cap of an electroscope. The cap is earthed
+momentarily while the charge is near to it. The rod is then removed. Which statement is correct?
+(A) The cap will be positively charged and the leaf will be negatively charged
+
+(B) The cap will be negatively charged and the leaf will be positively charged
+(C) The cap and the leaf will be positively charged
+(D) The cap and the leaf will be negatively charged
+(E) The cap and the leaf will become not charged
+43. If a source emits light at a frequency of 7 x 1014 Hz ad the Plaks ostat h = . -34, the
+energy of one photon of this light is approximately equal to
+(A) 1 x 10-48J
+(B) 4 x 10-19J
+(C) 1J
+(D) 4.6 x 1010J
+(E) 4.6 x 1019J
+
+(A) 2 µF
+(B) 4 µF
+(C) 6 µF
+(D) 8 µF
+(E) 16 µF
+
+M
+M
+CY
+BE
+RC
+ON
+ET
+
+44. A 2µF capacitor is charged to a potential of 200V and then isolated. When it is connected in
+parallel with a second capacitor which was initially not charged, the common potential becomes 40V. The
+capacitance of the second capacitor is
+
+45. A radioactive nuclide of proton number X emits a ß-particle to form a new nuclide of proton
+number Y. the correct equation relating X and Y is
+(A) X = Y – 1
+(B) X = Y – 1
+(C) X = 1 – Y
+(D) X = 1/Y
+(E) X = Y
+
+46. A proton charge 1.6 x 10-19C is projected into a uniform magnetic field of flux density 5.0 x 10-5T.
+If the proton moves parallel to the field with a constant speed of 1.6x106 ms-1, calculate the
+magnitude of the force exerted on it by the field.
+(A) 0.0N
+(B) 2.0 x 10-21N
+(C) 1.3 x 10-17N
+(D) 5.1 x 10-14N
+(E) 2.3 x 10-13N
+47. A capacitor has a capacitance of 8µF with vacuum between its plates. Calculate the capacitance
+when a dielectric with dielectric constant 5.0 is placed between its plates.
+(A) 2 µC
+(B) 4µF
+(C) 40 µF
+
+(D) 50 µF
+(E) none of the above
+48. How long does a bicycle with an acceleration of 0.8m/s2 take to go from 4 to 12m/s?
+(A) 6.4s
+(B) 10s
+(C) 15s
+(D) 26s
+(E) None of the above
+49. A force of 200N acts at an angle of 140o with respect to the positive x-direction. What are the
+components of this force in the x and y direction.
+(A) -1540N, 1280N
+(B) -1500N, 2010N
+(C) -1280N, 1540N
+(D) -1450N, 1200N
+(E) None of the above
+50. A car towing a trailer is accelerating on a level road. The car exerts a force on the trailer whose
+magnitude is
